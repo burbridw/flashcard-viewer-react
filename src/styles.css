@@ -1,0 +1,71 @@
+*,*::after,*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    user-select: none;
+}
+
+:root {
+    --button-color: orange;
+    --button-shadow: 1px 1px 3px 1px darkorange;
+    --button-text: clamp(2rem, 10vh; 4rem);
+}
+
+.background {
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    color: white;
+}
+
+.control-bar-outer {
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.control-button {
+    height: 6vh;
+    width: 15vw;
+    border-radius: 10px;
+    background-color: var(--button-color);
+    box-shadow: var(--button-shadow);
+    font: var(--button-text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green-control-button {
+    height: 6vh;
+    width: 15vw;
+    border-radius: 10px;
+    background-color: green;
+    box-shadow: 1px 1px 3px 1px darkgreen;
+    font: var(--button-text);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.change-button-box {
+    margin: 0 auto;
+    width: 90%;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.change-button {
+    width: 30%;
+    height: 12vh;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    box-shadow: 1px 1px 3px 1px white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: var(--button-text);
+}
