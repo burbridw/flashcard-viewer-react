@@ -52,14 +52,14 @@
 .change-button-box {
     margin: 0 auto;
     width: 90%;
-    height: 15vh;
+    height: 6vh;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .change-button {
     width: 30%;
-    height: 12vh;
+    height: 5vh;
     border-radius: 10px;
     background-color: white;
     color: black;
@@ -68,4 +68,36 @@
     justify-content: center;
     align-items: center;
     font: var(--button-text);
+}
+.image-display-container {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 2%;
+    height: 70vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.image-display-button {
+    width: 10%;
+    height: 10vh;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.image-display-main {
+    width: 70%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 5px 3px white;
+    background-color: lightblue;
+}
+#display {
+    width: auto;
+    max-width: 100%;
 }

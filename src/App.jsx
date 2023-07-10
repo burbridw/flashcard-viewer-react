@@ -2,6 +2,7 @@ import { useState } from "react"
 import { ControlBar } from "./ControlBar"
 import { Greencontrols } from "./Greencontrols"
 import "./styles.css"
+import { Imagedisplay } from "./Imagedisplay"
 
 function App() {
   const [goOrange, setGoOrange] = useState(true)
@@ -30,6 +31,7 @@ function App() {
             CHANGE
           </div>
       </div>
+      <Imagedisplay />
     </div>
   )
 }
