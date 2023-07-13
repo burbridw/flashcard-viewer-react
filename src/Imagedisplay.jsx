@@ -8,8 +8,6 @@ export function Imagedisplay({button}) {
     const [listLength, setListlength] = useState(imageList.length)
     const [imageIndex, setImageIndex] = useState(0)
     const [randomList, setRandomList] = useState([])
-    const [prevList, setPrevList] = useState("none")
-    const [nextList, setNextList] = useState("numbers")
     useEffect( ()=>{
         setRandomList(imageList.slice(0, imageList.length).sort( ()=> { return 0.5 - Math.random() } ) )
     }, [imageList])
@@ -24,8 +22,6 @@ export function Imagedisplay({button}) {
     useEffect(()=>{
         setImageList(selectObj[Object.keys(selectObj)[listIndex]])
         setImageIndex(0)
-        setPrevList(listTitles[listIndex-1])
-        setNextList(listTitles[listIndex+1])
     }, [listIndex])
     useEffect(()=>{
         setListlength(imageList.length)
@@ -52,7 +48,6 @@ export function Imagedisplay({button}) {
                     BACK
                 </div>
                 <div className="image-display-main">
-                    {/* <img src={imageList[imageIndex]} id="display"/> */}
                     <Imgelement list={imageList} index={imageIndex}/>
                 </div>
                 <div className="image-display-button" id="image-next" onClick={() => setImageIndex(currentIndex => currentIndex + 1)}>
@@ -60,14 +55,8 @@ export function Imagedisplay({button}) {
                 </div>
             </div>
             <div className="change-button-box">
-                <div className="change-button" onClick={() => setListIndex(currentIndex => currentIndex - 1)}>
-                    PREV {prevList}
-                </div>
                 <div className="change-button" onClick={()=> setImageList(randomList)}>
                     SHUFFLE
-                </div>
-                <div className="change-button" onClick={() => setListIndex(currentIndex => currentIndex + 1)}>
-                    NEXT {nextList}
                 </div>
             </div>
         </>

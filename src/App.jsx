@@ -1,44 +1,33 @@
-import { useState } from "react"
-import { ControlBar } from "./ControlBar"
-import { Greencontrols } from "./Greencontrols"
+import { useEffect, useState } from "react"
 import "./styles.css"
 import { Imagedisplay } from "./Imagedisplay"
-import { Topicbuttons } from "./Topicbuttons"
+import { NHTopics } from "./NHTopics"
+import { LTTopics } from "./LTTopics"
 
 function App() {
-  const [goOrange, setGoOrange] = useState(true)
-  const [orangeState, setOrangeState] = useState(()=> {
-    return <ControlBar />
-  })
   const [btnPush, setBtnPush] = useState("")
+  const [showNH, setShowNH] = useState(true) 
+  const [buttonText, setButtonText] = useState("CHANGE TO LETS TRY")
 
-  function changeState() {
-    if (goOrange) {
-      setGoOrange(false)
-      setOrangeState(()=>{
-        return <Greencontrols />
-      })
-    } else {
-      setGoOrange(true)
-      setOrangeState(()=>{
-        return <ControlBar />
-      })
-    }
-  } 
+  const buttonShow = showNH ? <NHTopics sendBtnInfo={acceptButtonPush}/> : <LTTopics sendBtnInfo={acceptButtonPush}/>
+  const replaceButtonText = showNH ? "CHANGE TO LETS TRY" : "CHANGE TO NEW HORIZON"
 
   function acceptButtonPush(button) {
     setBtnPush(button)
   }
 
+  useEffect( ()=> {
+   setButtonText(replaceButtonText)
+  }, [showNH])
+
   return (
     <div className="background">
-    <Topicbuttons sendBtnInfo={acceptButtonPush}/>
-      {/* {orangeState}
+    {buttonShow}
       <div className="change-button-box">
-          <div className="change-button" onClick={changeState}>
-            CHANGE
+          <div className="change-button" onClick={()=> setShowNH( currentState => !currentState)}>
+            {buttonText}
           </div>
-      </div> */}
+      </div>
       <Imagedisplay button={btnPush}/>
     </div>
   )

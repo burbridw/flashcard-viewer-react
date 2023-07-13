@@ -43,13 +43,13 @@
     grid-template-columns: repeat(27,10%);
     gap: 10px;
     overflow-x: scroll;
-    -ms-overflow-style: none;
-    scrollbar-width: none;
+    /* -ms-overflow-style: none; */
+    /* scrollbar-width: 5px; */
     padding-bottom: 10px;
 }
-.topic-grid::-webkit-scrollbar {
+/* .topic-grid::-webkit-scrollbar {
     display: none;
-}
+} */
 
 
 .topic-button {

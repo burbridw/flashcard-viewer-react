@@ -1,4 +1,4 @@
-export function Topicbuttons({sendBtnInfo}) {
+export function NHTopics({sendBtnInfo}) {
 
     return (
         <div className="topic-button-box">
@@ -62,9 +62,6 @@ export function Topicbuttons({sendBtnInfo}) {
             </div>
             <div className="topic-button" id="timesofday" onClick={() => sendBtnInfo("timesofday")}>
                 Times of Day
-            </div>
-            <div className="topic-button" id="letstrytimes" onClick={() => sendBtnInfo("letstrytimes")}>
-                Lets Try Times
             </div>
             <div className="topic-button" id="days" onClick={() => sendBtnInfo("days")}>
                 Days
