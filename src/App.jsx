@@ -1,34 +1,22 @@
 import { useEffect, useState } from "react"
 import "./styles.css"
 import { Imagedisplay } from "./Imagedisplay"
-import { NHTopics } from "./NHTopics"
-import { LTTopics } from "./LTTopics"
+import { TopicsDisplay } from "./TopicsDisplay"
 
 function App() {
   const [btnPush, setBtnPush] = useState("")
-  const [showNH, setShowNH] = useState(true) 
-  const [buttonText, setButtonText] = useState("CHANGE TO LETS TRY")
+  const [showMenu, setShowMenu] = useState(true)
 
-  const buttonShow = showNH ? <NHTopics sendBtnInfo={acceptButtonPush}/> : <LTTopics sendBtnInfo={acceptButtonPush}/>
-  const replaceButtonText = showNH ? "CHANGE TO LETS TRY" : "CHANGE TO NEW HORIZON"
-
+  const closeMenu = showMenu ? <TopicsDisplay relayList={acceptButtonPush} /> : null
+  const toggleText = showMenu ? "CLOSE MENU" : "OPEN MENU"
   function acceptButtonPush(button) {
     setBtnPush(button)
   }
-
-  useEffect( ()=> {
-   setButtonText(replaceButtonText)
-  }, [showNH])
-
+       
   return (
     <div className="background">
-    {buttonShow}
-      <div className="change-button-box">
-          <div className="change-button" onClick={()=> setShowNH( currentState => !currentState)}>
-            {buttonText}
-          </div>
-      </div>
-      <Imagedisplay button={btnPush}/>
+      {closeMenu}
+      <Imagedisplay button={btnPush} toggleMenu={setShowMenu} text={toggleText}/>
     </div>
   )
 }

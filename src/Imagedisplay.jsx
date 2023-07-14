@@ -2,7 +2,7 @@ import { Imgelement } from "./Imgelement"
 import selectObj from "./selectobj.json"
 import { useState, useEffect } from "react"
 
-export function Imagedisplay({button}) {
+export function Imagedisplay({button, toggleMenu, text}) {
     const [listIndex, setListIndex] = useState(0)
     const [imageList, setImageList] = useState(selectObj[Object.keys(selectObj)[listIndex]])
     const [listLength, setListlength] = useState(imageList.length)
@@ -44,18 +44,21 @@ export function Imagedisplay({button}) {
     return (
         <>
             <div className="image-display-container">
-                <div className="image-display-button" id="image-back" onClick={() => setImageIndex(currentIndex => currentIndex - 1)}>
-                    BACK
+                <div className="image-display-button display-left" id="image-back" onClick={() => setImageIndex(currentIndex => currentIndex - 1)}>
+                <img src="./images/arrows/img2.png"></img>
                 </div>
                 <div className="image-display-main">
                     <Imgelement list={imageList} index={imageIndex}/>
                 </div>
                 <div className="image-display-button" id="image-next" onClick={() => setImageIndex(currentIndex => currentIndex + 1)}>
-                    NEXT
+                    <img src="./images/arrows/img2.png"></img>
                 </div>
+            <div className="toggle-menu" id="toggle" onClick={()=> toggleMenu(currentState => !currentState)}>
+                <span>{text}</span>
             </div>
-            <div className="change-button-box">
-                <div className="change-button" onClick={()=> setImageList(randomList)}>
+            </div>
+            <div className="shuffle-button-box">
+                <div className="shuffle-button" onClick={()=> setImageList(randomList)}>
                     SHUFFLE
                 </div>
             </div>
