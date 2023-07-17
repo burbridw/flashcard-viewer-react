@@ -2,16 +2,16 @@ import { NHTopics } from "./NHTopics"
 import { LTTopics } from "./LTTopics"
 import { useState, useEffect } from "react"
 
-export function TopicsDisplay({relayList}) {
+export function TopicsDisplay() {
     const [showNH, setShowNH] = useState(true) 
     const [buttonText, setButtonText] = useState("LETS TRY")
 
-    const buttonShow = showNH ? <NHTopics sendBtnInfo={relayButtonPush}/> : <LTTopics sendBtnInfo={relayButtonPush}/>
+    const buttonShow = showNH ? <NHTopics /> : <LTTopics />
     const replaceButtonText = showNH ? "LETS TRY" : "NEW HORIZON"
 
-    function relayButtonPush(button) {
-      relayList(button)
-    }
+    // function relayButtonPush(button) {
+    //   relayList(button)
+    // }
 
     useEffect( ()=> {
         setButtonText(replaceButtonText)
