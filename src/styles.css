@@ -74,6 +74,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .change-button-box {
@@ -99,6 +100,7 @@
     align-items: center;
     font-size: var(--button-text);
     text-align: center;
+    cursor: pointer;
 }
 .shuffle-button-box {
     margin: 0 auto;
@@ -119,6 +121,7 @@
     justify-content: center;
     align-items: center;
     font-size: var(--button-text);
+    cursor: pointer;
 }
 .image-display-container {
     position: relative;
@@ -141,6 +144,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 .display-left {
     transform: rotateY(-180deg);
@@ -171,6 +175,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 span {
     text-align: center;
