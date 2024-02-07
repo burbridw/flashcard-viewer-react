@@ -55,7 +55,7 @@ export function LTTopics() {
                 <div className="topic-button" id="days" onClick={() => acceptButtonPush("days")}>
                     Days
                 </div>
-                <div className="topic-button" id="letstrytimes" onClick={() => acceptButtonPush("letstrytimes")}>
+                <div className="topic-button" id="letstrytimes" onClick={() => acceptButtonPush("lt-times")}>
                     Times
                 </div>
                 <div className="topic-button" id="stationery" onClick={() => acceptButtonPush("stationery")}>
