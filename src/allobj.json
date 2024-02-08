@@ -1,0 +1,4465 @@
+{
+    "feelings": {
+        "fine": {
+            "image": "./images/feelings/img1.png",
+            "sound": "./sounds/feelings/img1.mp3"
+        },
+        "good": {
+            "image": "./images/feelings/img2.png",
+            "sound": "./sounds/feelings/img2.mp3"
+        },
+        "great": {
+            "image": "./images/feelings/img3.png",
+            "sound": "./sounds/feelings/img3.mp3"
+        },
+        "happy": {
+            "image": "./images/feelings/img4.png",
+            "sound": "./sounds/feelings/img4.mp3"
+        },
+        "sad": {
+            "image": "./images/feelings/img5.png",
+            "sound": "./sounds/feelings/img5.mp3"
+        },
+        "tired": {
+            "image": "./images/feelings/img6.png",
+            "sound": "./sounds/feelings/img6.mp3"
+        },
+        "sleepy": {
+            "image": "./images/feelings/img7.png",
+            "sound": "./sounds/feelings/img7.mp3"
+        },
+        "busy": {
+            "image": "./images/feelings/img8.png",
+            "sound": "./sounds/feelings/img8.mp3"
+        },
+        "hungry": {
+            "image": "./images/feelings/img9.png",
+            "sound": "./sounds/feelings/img9.mp3"
+        },
+        "thirsty": {
+            "image": "./images/feelings/img10.png",
+            "sound": "./sounds/feelings/img10.mp3"
+        }
+    },
+    "numbers": {
+        "one": {
+            "image": "./images/numbers/img1.png",
+            "sound": "./sounds/numbers/img1.mp3"
+        },
+        "two": {
+            "image": "./images/numbers/img2.png",
+            "sound": "./sounds/numbers/img2.mp3"
+        },
+        "three": {
+            "image": "./images/numbers/img3.png",
+            "sound": "./sounds/numbers/img3.mp3"
+        },
+        "four": {
+            "image": "./images/numbers/img4.png",
+            "sound": "./sounds/numbers/img4.mp3"
+        },
+        "five": {
+            "image": "./images/numbers/img5.png",
+            "sound": "./sounds/numbers/img5.mp3"
+        },
+        "six": {
+            "image": "./images/numbers/img6.png",
+            "sound": "./sounds/numbers/img6.mp3"
+        },
+        "seven": {
+            "image": "./images/numbers/img7.png",
+            "sound": "./sounds/numbers/img7.mp3"
+        },
+        "eight": {
+            "image": "./images/numbers/img8.png",
+            "sound": "./sounds/numbers/img8.mp3"
+        },
+        "nine": {
+            "image": "./images/numbers/img9.png",
+            "sound": "./sounds/numbers/img9.mp3"
+        },
+        "ten": {
+            "image": "./images/numbers/img10.png",
+            "sound": "./sounds/numbers/img10.mp3"
+        },
+        "eleven": {
+            "image": "./images/numbers/img11.png",
+            "sound": "./sounds/numbers/img11.mp3"
+        },
+        "twelve": {
+            "image": "./images/numbers/img12.png",
+            "sound": "./sounds/numbers/img12.mp3"
+        },
+        "thirteen": {
+            "image": "./images/numbers/img13.png",
+            "sound": "./sounds/numbers/img13.mp3"
+        },
+        "fourteen": {
+            "image": "./images/numbers/img14.png",
+            "sound": "./sounds/numbers/img14.mp3"
+        },
+        "fifteen": {
+            "image": "./images/numbers/img15.png",
+            "sound": "./sounds/numbers/img15.mp3"
+        },
+        "sixteen": {
+            "image": "./images/numbers/img16.png",
+            "sound": "./sounds/numbers/img16.mp3"
+        },
+        "seventeen": {
+            "image": "./images/numbers/img17.png",
+            "sound": "./sounds/numbers/img17.mp3"
+        },
+        "eighteen": {
+            "image": "./images/numbers/img18.png",
+            "sound": "./sounds/numbers/img18.mp3"
+        },
+        "nineteen": {
+            "image": "./images/numbers/img19.png",
+            "sound": "./sounds/numbers/img19.mp3"
+        },
+        "twenty": {
+            "image": "./images/numbers/img20.png",
+            "sound": "./sounds/numbers/img20.mp3"
+        },
+        "twenty one": {
+            "image": "./images/numbers/img21.png",
+            "sound": "./sounds/numbers/img21.mp3"
+        },
+        "twenty two": {
+            "image": "./images/numbers/img22.png",
+            "sound": "./sounds/numbers/img22.mp3"
+        },
+        "twenty three": {
+            "image": "./images/numbers/img23.png",
+            "sound": "./sounds/numbers/img23.mp3"
+        },
+        "twenty four": {
+            "image": "./images/numbers/img24.png",
+            "sound": "./sounds/numbers/img24.mp3"
+        },
+        "twenty five": {
+            "image": "./images/numbers/img25.png",
+            "sound": "./sounds/numbers/img25.mp3"
+        },
+        "twenty six": {
+            "image": "./images/numbers/img26.png",
+            "sound": "./sounds/numbers/img26.mp3"
+        },
+        "twenty seven": {
+            "image": "./images/numbers/img27.png",
+            "sound": "./sounds/numbers/img27.mp3"
+        },
+        "twenty eight": {
+            "image": "./images/numbers/img28.png",
+            "sound": "./sounds/numbers/img28.mp3"
+        },
+        "twenty nine": {
+            "image": "./images/numbers/img29.png",
+            "sound": "./sounds/numbers/img29.mp3"
+        },
+        "thirty": {
+            "image": "./images/numbers/img30.png",
+            "sound": "./sounds/numbers/img30.mp3"
+        },
+        "forty": {
+            "image": "./images/numbers/img31.png",
+            "sound": "./sounds/numbers/img31.mp3"
+        },
+        "fifty": {
+            "image": "./images/numbers/img32.png",
+            "sound": "./sounds/numbers/img32.mp3"
+        },
+        "sixty": {
+            "image": "./images/numbers/img33.png",
+            "sound": "./sounds/numbers/img33.mp3"
+        },
+        "seventy": {
+            "image": "./images/numbers/img34.png",
+            "sound": "./sounds/numbers/img34.mp3"
+        },
+        "eighty": {
+            "image": "./images/numbers/img35.png",
+            "sound": "./sounds/numbers/img35.mp3"
+        },
+        "ninety": {
+            "image": "./images/numbers/img36.png",
+            "sound": "./sounds/numbers/img36.mp3"
+        },
+        "one hundred": {
+            "image": "./images/numbers/img37.png",
+            "sound": "./sounds/numbers/img37.mp3"
+        },
+        "zero": {
+            "image": "./images/numbers/img38.png",
+            "sound": "./sounds/numbers/img38.mp3"
+        }
+    },
+    "weather": {
+        "sunny": {
+            "image": "./images/weather/img1.png",
+            "sound": "./sounds/weather/img1.mp3"
+        },
+        "cloudy": {
+            "image": "./images/weather/img2.png",
+            "sound": "./sounds/weather/img2.mp3"
+        },
+        "rainy": {
+            "image": "./images/weather/img3.png",
+            "sound": "./sounds/weather/img3.mp3"
+        },
+        "snowy": {
+            "image": "./images/weather/img4.png",
+            "sound": "./sounds/weather/img4.mp3"
+        },
+        "cold": {
+            "image": "./images/weather/img5.png",
+            "sound": "./sounds/weather/img5.mp3"
+        },
+        "hot": {
+            "image": "./images/weather/img6.png",
+            "sound": "./sounds/weather/img6.mp3"
+        }
+    },
+    "colors": {
+        "black": {
+            "image": "./images/colours/img1.png",
+            "sound": "./sounds/colours/img1.mp3"
+        },
+        "blue": {
+            "image": "./images/colours/img2.png",
+            "sound": "./sounds/colours/img2.mp3"
+        },
+        "brown": {
+            "image": "./images/colours/img3.png",
+            "sound": "./sounds/colours/img3.mp3"
+        },
+        "green": {
+            "image": "./images/colours/img4.png",
+            "sound": "./sounds/colours/img4.mp3"
+        },
+        "orange": {
+            "image": "./images/colours/img5.png",
+            "sound": "./sounds/colours/img5.mp3"
+        },
+        "pink": {
+            "image": "./images/colours/img6.png",
+            "sound": "./sounds/colours/img6.mp3"
+        },
+        "purple": {
+            "image": "./images/colours/img7.png",
+            "sound": "./sounds/colours/img7.mp3"
+        },
+        "red": {
+            "image": "./images/colours/img8.png",
+            "sound": "./sounds/colours/img8.mp3"
+        },
+        "white": {
+            "image": "./images/colours/img9.png",
+            "sound": "./sounds/colours/img9.mp3"
+        },
+        "yellow": {
+            "image": "./images/colours/img10.png",
+            "sound": "./sounds/colours/img10.mp3"
+        }
+    },
+    "shapes": {
+        "circle": {
+            "image": "./images/shapes/img1.png",
+            "sound": "./sounds/shapes/img1.mp3"
+        },
+        "cross": {
+            "image": "./images/shapes/img2.png",
+            "sound": "./sounds/shapes/img2.mp3"
+        },
+        "diamond": {
+            "image": "./images/shapes/img3.png",
+            "sound": "./sounds/shapes/img3.mp3"
+        },
+        "heart": {
+            "image": "./images/shapes/img4.png",
+            "sound": "./sounds/shapes/img4.mp3"
+        },
+        "rectangle": {
+            "image": "./images/shapes/img5.png",
+            "sound": "./sounds/shapes/img5.mp3"
+        },
+        "square": {
+            "image": "./images/shapes/img6.png",
+            "sound": "./sounds/shapes/img6.mp3"
+        },
+        "star": {
+            "image": "./images/shapes/img7.png",
+            "sound": "./sounds/shapes/img7.mp3"
+        },
+        "triangle": {
+            "image": "./images/shapes/img8.png",
+            "sound": "./sounds/shapes/img8.mp3"
+        }
+    },
+    "sports": {
+        "baseball": {
+            "image": "./images/sports/img1.png",
+            "sound": "./sounds/sports/img1.mp3"
+        },
+        "softball": {
+            "image": "./images/sports/img2.png",
+            "sound": "./sounds/sports/img2.mp3"
+        },
+        "basketball": {
+            "image": "./images/sports/img3.png",
+            "sound": "./sounds/sports/img3.mp3"
+        },
+        "volleyball": {
+            "image": "./images/sports/img4.png",
+            "sound": "./sounds/sports/img4.mp3"
+        },
+        "dodgeball": {
+            "image": "./images/sports/img5.png",
+            "sound": "./sounds/sports/img5.mp3"
+        },
+        "soccer": {
+            "image": "./images/sports/img6.png",
+            "sound": "./sounds/sports/img6.mp3"
+        },
+        "tennis": {
+            "image": "./images/sports/img7.png",
+            "sound": "./sounds/sports/img7.mp3"
+        },
+        "table tennis": {
+            "image": "./images/sports/img8.png",
+            "sound": "./sounds/sports/img8.mp3"
+        },
+        "badminton": {
+            "image": "./images/sports/img9.png",
+            "sound": "./sounds/sports/img9.mp3"
+        },
+        "track and field": {
+            "image": "./images/sports/img10.png",
+            "sound": "./sounds/sports/img10.mp3"
+        },
+        "swimming": {
+            "image": "./images/sports/img11.png",
+            "sound": "./sounds/sports/img11.mp3"
+        },
+        "skating": {
+            "image": "./images/sports/img12.png",
+            "sound": "./sounds/sports/img12.mp3"
+        },
+        "skiing": {
+            "image": "./images/sports/img13.png",
+            "sound": "./sounds/sports/img13.mp3"
+        }
+    },
+    "foods": {
+        "rice": {
+            "image": "./images/foods/img1.png",
+            "sound": "./sounds/foods/img1.mp3"
+        },
+        "rice ball": {
+            "image": "./images/foods/img2.png",
+            "sound": "./sounds/foods/img2.mp3"
+        },
+        "curry and rice": {
+            "image": "./images/foods/img3.png",
+            "sound": "./sounds/foods/img3.mp3"
+        },
+        "grilled fish": {
+            "image": "./images/foods/img4.png",
+            "sound": "./sounds/foods/img4.mp3"
+        },
+        "bread": {
+            "image": "./images/foods/img5.png",
+            "sound": "./sounds/foods/img5.mp3"
+        },
+        "sandwich": {
+            "image": "./images/foods/img6.png",
+            "sound": "./sounds/foods/img6.mp3"
+        },
+        "pancakes": {
+            "image": "./images/foods/img7.png",
+            "sound": "./sounds/foods/img7.mp3"
+        },
+        "pizza": {
+            "image": "./images/foods/img8.png",
+            "sound": "./sounds/foods/img8.mp3"
+        },
+        "hamburger": {
+            "image": "./images/foods/img9.png",
+            "sound": "./sounds/foods/img9.mp3"
+        },
+        "hot dog": {
+            "image": "./images/foods/img10.png",
+            "sound": "./sounds/foods/img10.mp3"
+        },
+        "french fries": {
+            "image": "./images/foods/img11.png",
+            "sound": "./sounds/foods/img11.mp3"
+        },
+        "fried chicken": {
+            "image": "./images/foods/img12.png",
+            "sound": "./sounds/foods/img12.mp3"
+        },
+        "sausage": {
+            "image": "./images/foods/img13.png",
+            "sound": "./sounds/foods/img13.mp3"
+        },
+        "steak": {
+            "image": "./images/foods/img14.png",
+            "sound": "./sounds/foods/img14.mp3"
+        },
+        "omelet": {
+            "image": "./images/foods/img15.png",
+            "sound": "./sounds/foods/img15.mp3"
+        },
+        "spaghetti": {
+            "image": "./images/foods/img16.png",
+            "sound": "./sounds/foods/img16.mp3"
+        },
+        "pie": {
+            "image": "./images/foods/img17.png",
+            "sound": "./sounds/foods/img17.mp3"
+        },
+        "salad": {
+            "image": "./images/foods/img18.png",
+            "sound": "./sounds/foods/img18.mp3"
+        },
+        "soup": {
+            "image": "./images/foods/img19.png",
+            "sound": "./sounds/foods/img19.mp3"
+        },
+        "okonomiyaki": {
+            "image": "./images/foods/img20.png",
+            "sound": "./sounds/foods/img20.mp3"
+        },
+        "gyoza": {
+            "image": "./images/foods/img21.png",
+            "sound": "./sounds/foods/img21.mp3"
+        },
+        "ramen": {
+            "image": "./images/foods/img22.png",
+            "sound": "./sounds/foods/img22.mp3"
+        },
+        "soba": {
+            "image": "./images/foods/img23.png",
+            "sound": "./sounds/foods/img23.mp3"
+        },
+        "sushi": {
+            "image": "./images/foods/img24.png",
+            "sound": "./sounds/foods/img24.mp3"
+        },
+        "tempura": {
+            "image": "./images/foods/img25.png",
+            "sound": "./sounds/foods/img25.mp3"
+        }
+    },
+    "desserts": {
+        "cake": {
+            "image": "./images/desserts/img1.png",
+            "sound": "./sounds/desserts/img1.mp3"
+        },
+        "parfait": {
+            "image": "./images/desserts/img2.png",
+            "sound": "./sounds/desserts/img2.mp3"
+        },
+        "pudding": {
+            "image": "./images/desserts/img3.png",
+            "sound": "./sounds/desserts/img3.mp3"
+        },
+        "ice cream": {
+            "image": "./images/desserts/img4.png",
+            "sound": "./sounds/desserts/img4.mp3"
+        },
+        "shaved ice": {
+            "image": "./images/desserts/img5.png",
+            "sound": "./sounds/desserts/img5.mp3"
+        },
+        "chocolate": {
+            "image": "./images/desserts/img6.png",
+            "sound": "./sounds/desserts/img6.mp3"
+        },
+        "popcorn": {
+            "image": "./images/desserts/img7.png",
+            "sound": "./sounds/desserts/img7.mp3"
+        },
+        "snack food": {
+            "image": "./images/desserts/img8.png",
+            "sound": "./sounds/desserts/img8.mp3"
+        }
+    },
+    "drinks": {
+        "coffee": {
+            "image": "./images/drinks/img1.png",
+            "sound": "./sounds/drinks/img1.mp3"
+        },
+        "tea": {
+            "image": "./images/drinks/img2.png",
+            "sound": "./sounds/drinks/img2.mp3"
+        },
+        "green tea": {
+            "image": "./images/drinks/img3.png",
+            "sound": "./sounds/drinks/img3.mp3"
+        },
+        "orange juice": {
+            "image": "./images/drinks/img4.png",
+            "sound": "./sounds/drinks/img4.mp3"
+        },
+        "soda": {
+            "image": "./images/drinks/img5.png",
+            "sound": "./sounds/drinks/img5.mp3"
+        },
+        "milk": {
+            "image": "./images/drinks/img6.png",
+            "sound": "./sounds/drinks/img6.mp3"
+        },
+        "water": {
+            "image": "./images/drinks/img7.png",
+            "sound": "./sounds/drinks/img7.mp3"
+        },
+        "mineral water": {
+            "image": "./images/drinks/img8.png",
+            "sound": "./sounds/drinks/img8.mp3"
+        }
+    },
+    "fruitandveg": {
+        "apple": {
+            "image": "./images/fruitsvegetables/img1.png",
+            "sound": "./sounds/fruitsvegetables/img1.mp3"
+        },
+        "banana": {
+            "image": "./images/fruitsvegetables/img2.png",
+            "sound": "./sounds/fruitsvegetables/img2.mp3"
+        },
+        "bean": {
+            "image": "./images/fruitsvegetables/img3.png",
+            "sound": "./sounds/fruitsvegetables/img3.mp3"
+        },
+        "brocolli": {
+            "image": "./images/fruitsvegetables/img4.png",
+            "sound": "./sounds/fruitsvegetables/img4.mp3"
+        },
+        "cabbage": {
+            "image": "./images/fruitsvegetables/img5.png",
+            "sound": "./sounds/fruitsvegetables/img5.mp3"
+        },
+        "carrot": {
+            "image": "./images/fruitsvegetables/img6.png",
+            "sound": "./sounds/fruitsvegetables/img6.mp3"
+        },
+        "cherry": {
+            "image": "./images/fruitsvegetables/img7.png",
+            "sound": "./sounds/fruitsvegetables/img7.mp3"
+        },
+        "corn": {
+            "image": "./images/fruitsvegetables/img8.png",
+            "sound": "./sounds/fruitsvegetables/img8.mp3"
+        },
+        "cucumber": {
+            "image": "./images/fruitsvegetables/img9.png",
+            "sound": "./sounds/fruitsvegetables/img9.mp3"
+        },
+        "eggplant": {
+            "image": "./images/fruitsvegetables/img10.png",
+            "sound": "./sounds/fruitsvegetables/img10.mp3"
+        },
+        "grapes": {
+            "image": "./images/fruitsvegetables/img11.png",
+            "sound": "./sounds/fruitsvegetables/img11.mp3"
+        },
+        "green pepper": {
+            "image": "./images/fruitsvegetables/img12.png",
+            "sound": "./sounds/fruitsvegetables/img12.mp3"
+        },
+        "kiwi fruit": {
+            "image": "./images/fruitsvegetables/img13.png",
+            "sound": "./sounds/fruitsvegetables/img13.mp3"
+        },
+        "lemon": {
+            "image": "./images/fruitsvegetables/img14.png",
+            "sound": "./sounds/fruitsvegetables/img14.mp3"
+        },
+        "lettuce": {
+            "image": "./images/fruitsvegetables/img15.png",
+            "sound": "./sounds/fruitsvegetables/img15.mp3"
+        },
+        "melon": {
+            "image": "./images/fruitsvegetables/img16.png",
+            "sound": "./sounds/fruitsvegetables/img16.mp3"
+        },
+        "mushroom": {
+            "image": "./images/fruitsvegetables/img17.png",
+            "sound": "./sounds/fruitsvegetables/img17.mp3"
+        },
+        "nut": {
+            "image": "./images/fruitsvegetables/img18.png",
+            "sound": "./sounds/fruitsvegetables/img18.mp3"
+        },
+        "onion": {
+            "image": "./images/fruitsvegetables/img19.png",
+            "sound": "./sounds/fruitsvegetables/img19.mp3"
+        },
+        "orange": {
+            "image": "./images/fruitsvegetables/img20.png",
+            "sound": "./sounds/fruitsvegetables/img20.mp3"
+        },
+        "peach": {
+            "image": "./images/fruitsvegetables/img21.png",
+            "sound": "./sounds/fruitsvegetables/img21.mp3"
+        },
+        "pineapple": {
+            "image": "./images/fruitsvegetables/img22.png",
+            "sound": "./sounds/fruitsvegetables/img22.mp3"
+        },
+        "potato": {
+            "image": "./images/fruitsvegetables/img23.png",
+            "sound": "./sounds/fruitsvegetables/img23.mp3"
+        },
+        "spinach": {
+            "image": "./images/fruitsvegetables/img24.png",
+            "sound": "./sounds/fruitsvegetables/img24.mp3"
+        },
+        "strawberry": {
+            "image": "./images/fruitsvegetables/img25.png",
+            "sound": "./sounds/fruitsvegetables/img25.mp3"
+        },
+        "tomato": {
+            "image": "./images/fruitsvegetables/img26.png",
+            "sound": "./sounds/fruitsvegetables/img26.mp3"
+        },
+        "watermelon": {
+            "image": "./images/fruitsvegetables/img27.png",
+            "sound": "./sounds/fruitsvegetables/img27.mp3"
+        }
+    },
+    "ingredients": {
+        "beef": {
+            "image": "./images/ingredients/img1.png",
+            "sound": "./sounds/ingredients/img1.mp3"
+        },
+        "chicken": {
+            "image": "./images/ingredients/img2.png",
+            "sound": "./sounds/ingredients/img2.mp3"
+        },
+        "pork": {
+            "image": "./images/ingredients/img3.png",
+            "sound": "./sounds/ingredients/img3.mp3"
+        },
+        "bacon": {
+            "image": "./images/ingredients/img4.png",
+            "sound": "./sounds/ingredients/img4.mp3"
+        },
+        "ham": {
+            "image": "./images/ingredients/img5.png",
+            "sound": "./sounds/ingredients/img5.mp3"
+        },
+        "cheese": {
+            "image": "./images/ingredients/img6.png",
+            "sound": "./sounds/ingredients/img6.mp3"
+        },
+        "egg": {
+            "image": "./images/ingredients/img7.png",
+            "sound": "./sounds/ingredients/img7.mp3"
+        },
+        "fish": {
+            "image": "./images/ingredients/img8.png",
+            "sound": "./sounds/ingredients/img8.mp3"
+        },
+        "salmon": {
+            "image": "./images/ingredients/img9.png",
+            "sound": "./sounds/ingredients/img9.mp3"
+        },
+        "octopus": {
+            "image": "./images/ingredients/img10.png",
+            "sound": "./sounds/ingredients/img10.mp3"
+        }
+    },
+    "meals": {
+        "breakfast": {
+            "image": "./images/meals/img1.png",
+            "sound": "./sounds/meals/img1.mp3"
+        },
+        "lunch": {
+            "image": "./images/meals/img2.png",
+            "sound": "./sounds/meals/img2.mp3"
+        },
+        "dinner": {
+            "image": "./images/meals/img3.png",
+            "sound": "./sounds/meals/img3.mp3"
+        }
+    },
+    "tastes": {
+        "bitter": {
+            "image": "./images/tastes/img1.png",
+            "sound": "./sounds/tastes/img1.mp3"
+        },
+        "sweet": {
+            "image": "./images/tastes/img2.png",
+            "sound": "./sounds/tastes/img2.mp3"
+        },
+        "salty": {
+            "image": "./images/tastes/img3.png",
+            "sound": "./sounds/tastes/img3.mp3"
+        },
+        "sour": {
+            "image": "./images/tastes/img4.png",
+            "sound": "./sounds/tastes/img4.mp3"
+        },
+        "spicy": {
+            "image": "./images/tastes/img5.png",
+            "sound": "./sounds/tastes/img5.mp3"
+        },
+        "delicious": {
+            "image": "./images/tastes/img6.png",
+            "sound": "./sounds/tastes/img6.mp3"
+        },
+        "soft": {
+            "image": "./images/tastes/img7.png",
+            "sound": "./sounds/tastes/img7.mp3"
+        },
+        "hard": {
+            "image": "./images/tastes/img8.png",
+            "sound": "./sounds/tastes/img8.mp3"
+        },
+        "cold": {
+            "image": "./images/tastes/img9.png",
+            "sound": "./sounds/tastes/img9.mp3"
+        },
+        "hot": {
+            "image": "./images/tastes/img10.png",
+            "sound": "./sounds/tastes/img10.mp3"
+        }
+    },
+    "animals": {
+        "bear": {
+            "image": "./images/animals/img1.png",
+            "sound": "./sounds/animals/img1.mp3"
+        },
+        "polar bear": {
+            "image": "./images/animals/img2.png",
+            "sound": "./sounds/animals/img2.mp3"
+        },
+        "elephant": {
+            "image": "./images/animals/img3.png",
+            "sound": "./sounds/animals/img3.mp3"
+        },
+        "tiger": {
+            "image": "./images/animals/img4.png",
+            "sound": "./sounds/animals/img4.mp3"
+        },
+        "lion": {
+            "image": "./images/animals/img5.png",
+            "sound": "./sounds/animals/img5.mp3"
+        },
+        "zebra": {
+            "image": "./images/animals/img6.png",
+            "sound": "./sounds/animals/img6.mp3"
+        },
+        "gorilla": {
+            "image": "./images/animals/img7.png",
+            "sound": "./sounds/animals/img7.mp3"
+        },
+        "monkey": {
+            "image": "./images/animals/img8.png",
+            "sound": "./sounds/animals/img8.mp3"
+        },
+        "horse": {
+            "image": "./images/animals/img9.png",
+            "sound": "./sounds/animals/img9.mp3"
+        },
+        "camel": {
+            "image": "./images/animals/img10.png",
+            "sound": "./sounds/animals/img10.mp3"
+        },
+        "cow": {
+            "image": "./images/animals/img11.png",
+            "sound": "./sounds/animals/img11.mp3"
+        },
+        "sheep": {
+            "image": "./images/animals/img12.png",
+            "sound": "./sounds/animals/img12.mp3"
+        },
+        "pig": {
+            "image": "./images/animals/img13.png",
+            "sound": "./sounds/animals/img13.mp3"
+        },
+        "panda": {
+            "image": "./images/animals/img14.png",
+            "sound": "./sounds/animals/img14.mp3"
+        },
+        "koala": {
+            "image": "./images/animals/img15.png",
+            "sound": "./sounds/animals/img15.mp3"
+        },
+        "penguin": {
+            "image": "./images/animals/img16.png",
+            "sound": "./sounds/animals/img16.mp3"
+        },
+        "dog": {
+            "image": "./images/animals/img17.png",
+            "sound": "./sounds/animals/img17.mp3"
+        },
+        "cat": {
+            "image": "./images/animals/img18.png",
+            "sound": "./sounds/animals/img18.mp3"
+        },
+        "rabbit": {
+            "image": "./images/animals/img19.png",
+            "sound": "./sounds/animals/img19.mp3"
+        },
+        "mouse": {
+            "image": "./images/animals/img20.png",
+            "sound": "./sounds/animals/img20.mp3"
+        },
+        "snake": {
+            "image": "./images/animals/img21.png",
+            "sound": "./sounds/animals/img21.mp3"
+        },
+        "frog": {
+            "image": "./images/animals/img22.png",
+            "sound": "./sounds/animals/img22.mp3"
+        },
+        "bird": {
+            "image": "./images/animals/img23.png",
+            "sound": "./sounds/animals/img23.mp3"
+        },
+        "eagle": {
+            "image": "./images/animals/img24.png",
+            "sound": "./sounds/animals/img24.mp3"
+        }
+    },
+    "seaanimals": {
+        "whale": {
+            "image": "./images/seaanimals/img1.png",
+            "sound": "./sounds/seaanimals/img1.mp3"
+        },
+        "shark": {
+            "image": "./images/seaanimals/img2.png",
+            "sound": "./sounds/seaanimals/img2.mp3"
+        },
+        "dolphin": {
+            "image": "./images/seaanimals/img3.png",
+            "sound": "./sounds/seaanimals/img3.mp3"
+        },
+        "sea turtle": {
+            "image": "./images/seaanimals/img4.png",
+            "sound": "./sounds/seaanimals/img4.mp3"
+        },
+        "fish": {
+            "image": "./images/seaanimals/img5.png",
+            "sound": "./sounds/seaanimals/img5.mp3"
+        },
+        "squid": {
+            "image": "./images/seaanimals/img6.png",
+            "sound": "./sounds/seaanimals/img6.mp3"
+        },
+        "jellyfish": {
+            "image": "./images/seaanimals/img7.png",
+            "sound": "./sounds/seaanimals/img7.mp3"
+        },
+        "shrimp": {
+            "image": "./images/seaanimals/img8.png",
+            "sound": "./sounds/seaanimals/img8.mp3"
+        }
+    },
+    "bugs": {
+        "ant": {
+            "image": "./images/bugs/img1.png",
+            "sound": "./sounds/bugs/img1.mp3"
+        },
+        "butterfly": {
+            "image": "./images/bugs/img2.png",
+            "sound": "./sounds/bugs/img2.mp3"
+        },
+        "grasshopper": {
+            "image": "./images/bugs/img3.png",
+            "sound": "./sounds/bugs/img3.mp3"
+        },
+        "spider": {
+            "image": "./images/bugs/img4.png",
+            "sound": "./sounds/bugs/img4.mp3"
+        }
+    },
+    "nature": {
+        "desert": {
+            "image": "./images/nature/img1.png",
+            "sound": "./sounds/nature/img1.mp3"
+        },
+        "forest": {
+            "image": "./images/nature/img2.png",
+            "sound": "./sounds/nature/img2.mp3"
+        },
+        "island": {
+            "image": "./images/nature/img3.png",
+            "sound": "./sounds/nature/img3.mp3"
+        },
+        "lake": {
+            "image": "./images/nature/img4.png",
+            "sound": "./sounds/nature/img4.mp3"
+        },
+        "mountain": {
+            "image": "./images/nature/img5.png",
+            "sound": "./sounds/nature/img5.mp3"
+        },
+        "pond": {
+            "image": "./images/nature/img6.png",
+            "sound": "./sounds/nature/img6.mp3"
+        },
+        "river": {
+            "image": "./images/nature/img7.png",
+            "sound": "./sounds/nature/img7.mp3"
+        },
+        "savanna": {
+            "image": "./images/nature/img8.png",
+            "sound": "./sounds/nature/img8.mp3"
+        },
+        "sea": {
+            "image": "./images/nature/img9.png",
+            "sound": "./sounds/nature/img9.mp3"
+        },
+        "wetlands": {
+            "image": "./images/nature/img10.png",
+            "sound": "./sounds/nature/img10.mp3"
+        },
+        "flower": {
+            "image": "./images/nature/img11.png",
+            "sound": "./sounds/nature/img11.mp3"
+        },
+        "tree": {
+            "image": "./images/nature/img12.png",
+            "sound": "./sounds/nature/img12.mp3"
+        }
+    },
+    "months": {
+        "january": {
+            "image": "./images/months/img1.png",
+            "sound": "./sounds/months/img1.mp3"
+        },
+        "february": {
+            "image": "./images/months/img2.png",
+            "sound": "./sounds/months/img2.mp3"
+        },
+        "march": {
+            "image": "./images/months/img3.png",
+            "sound": "./sounds/months/img3.mp3"
+        },
+        "april": {
+            "image": "./images/months/img4.png",
+            "sound": "./sounds/months/img4.mp3"
+        },
+        "may": {
+            "image": "./images/months/img5.png",
+            "sound": "./sounds/months/img5.mp3"
+        },
+        "june": {
+            "image": "./images/months/img6.png",
+            "sound": "./sounds/months/img6.mp3"
+        },
+        "july": {
+            "image": "./images/months/img7.png",
+            "sound": "./sounds/months/img7.mp3"
+        },
+        "august": {
+            "image": "./images/months/img8.png",
+            "sound": "./sounds/months/img8.mp3"
+        },
+        "september": {
+            "image": "./images/months/img9.png",
+            "sound": "./sounds/months/img9.mp3"
+        },
+        "october": {
+            "image": "./images/months/img10.png",
+            "sound": "./sounds/months/img10.mp3"
+        },
+        "november": {
+            "image": "./images/months/img11.png",
+            "sound": "./sounds/months/img11.mp3"
+        },
+        "december": {
+            "image": "./images/months/img12.png",
+            "sound": "./sounds/months/img12.mp3"
+        }
+    },
+    "seasons": {
+        "spring": {
+            "image": "./images/seasons/img1.png",
+            "sound": "./sounds/seasons/img1.mp3"
+        },
+        "summer": {
+            "image": "./images/seasons/img2.png",
+            "sound": "./sounds/seasons/img2.mp3"
+        },
+        "fall": {
+            "image": "./images/seasons/img3.png",
+            "sound": "./sounds/seasons/img3.mp3"
+        },
+        "winter": {
+            "image": "./images/seasons/img4.png",
+            "sound": "./sounds/seasons/img4.mp3"
+        }
+    },
+    "timesofday": {
+        "morning": {
+            "image": "./images/timesofday/img1.png",
+            "sound": "./sounds/timesofday/img1.mp3"
+        },
+        "afternoon": {
+            "image": "./images/timesofday/img2.png",
+            "sound": "./sounds/timesofday/img2.mp3"
+        },
+        "evening": {
+            "image": "./images/timesofday/img3.png",
+            "sound": "./sounds/timesofday/img3.mp3"
+        },
+        "night": {
+            "image": "./images/timesofday/img4.png",
+            "sound": "./sounds/timesofday/img4.mp3"
+        }
+    },
+    "days": {
+        "sunday": {
+            "image": "./images/days/img1.png",
+            "sound": "./sounds/days/img1.mp3"
+        },
+        "monday": {
+            "image": "./images/days/img2.png",
+            "sound": "./sounds/days/img2.mp3"
+        },
+        "tuesday": {
+            "image": "./images/days/img3.png",
+            "sound": "./sounds/days/img3.mp3"
+        },
+        "wednesday": {
+            "image": "./images/days/img4.png",
+            "sound": "./sounds/days/img4.mp3"
+        },
+        "thursday": {
+            "image": "./images/days/img5.png",
+            "sound": "./sounds/days/img5.mp3"
+        },
+        "friday": {
+            "image": "./images/days/img6.png",
+            "sound": "./sounds/days/img6.mp3"
+        },
+        "saturday": {
+            "image": "./images/days/img7.png",
+            "sound": "./sounds/days/img7.mp3"
+        }
+    },
+    "countries": {
+        "america": {
+            "image": "./images/countries/img1.png",
+            "sound": "./sounds/countries/img1.mp3"
+        },
+        "australia": {
+            "image": "./images/countries/img2.png",
+            "sound": "./sounds/countries/img2.mp3"
+        },
+        "brazil": {
+            "image": "./images/countries/img3.png",
+            "sound": "./sounds/countries/img3.mp3"
+        },
+        "canada": {
+            "image": "./images/countries/img4.png",
+            "sound": "./sounds/countries/img4.mp3"
+        },
+        "china": {
+            "image": "./images/countries/img5.png",
+            "sound": "./sounds/countries/img5.mp3"
+        },
+        "egypt": {
+            "image": "./images/countries/img6.png",
+            "sound": "./sounds/countries/img6.mp3"
+        },
+        "france": {
+            "image": "./images/countries/img7.png",
+            "sound": "./sounds/countries/img7.mp3"
+        },
+        "germany": {
+            "image": "./images/countries/img8.png",
+            "sound": "./sounds/countries/img8.mp3"
+        },
+        "ghana": {
+            "image": "./images/countries/img9.png",
+            "sound": "./sounds/countries/img9.mp3"
+        },
+        "india": {
+            "image": "./images/countries/img10.png",
+            "sound": "./sounds/countries/img10.mp3"
+        },
+        "italy": {
+            "image": "./images/countries/img11.png",
+            "sound": "./sounds/countries/img11.mp3"
+        },
+        "japan": {
+            "image": "./images/countries/img12.png",
+            "sound": "./sounds/countries/img12.mp3"
+        },
+        "kenya": {
+            "image": "./images/countries/img13.png",
+            "sound": "./sounds/countries/img13.mp3"
+        },
+        "korea": {
+            "image": "./images/countries/img14.png",
+            "sound": "./sounds/countries/img14.mp3"
+        },
+        "mongolia": {
+            "image": "./images/countries/img15.png",
+            "sound": "./sounds/countries/img15.mp3"
+        },
+        "morocco": {
+            "image": "./images/countries/img16.png",
+            "sound": "./sounds/countries/img16.mp3"
+        },
+        "norway": {
+            "image": "./images/countries/img17.png",
+            "sound": "./sounds/countries/img17.mp3"
+        },
+        "peru": {
+            "image": "./images/countries/img18.png",
+            "sound": "./sounds/countries/img18.mp3"
+        },
+        "russia": {
+            "image": "./images/countries/img19.png",
+            "sound": "./sounds/countries/img19.mp3"
+        },
+        "singapore": {
+            "image": "./images/countries/img20.png",
+            "sound": "./sounds/countries/img20.mp3"
+        },
+        "spain": {
+            "image": "./images/countries/img21.png",
+            "sound": "./sounds/countries/img21.mp3"
+        },
+        "sweden": {
+            "image": "./images/countries/img22.png",
+            "sound": "./sounds/countries/img22.mp3"
+        },
+        "thailand": {
+            "image": "./images/countries/img23.png",
+            "sound": "./sounds/countries/img23.mp3"
+        },
+        "turkey": {
+            "image": "./images/countries/img24.png",
+            "sound": "./sounds/countries/img24.mp3"
+        },
+        "u.k.": {
+            "image": "./images/countries/img25.png",
+            "sound": "./sounds/countries/img25.mp3"
+        },
+        "vietnam": {
+            "image": "./images/countries/img26.png",
+            "sound": "./sounds/countries/img26.mp3"
+        }
+    },
+    "family": {
+        "grandfather": {
+            "image": "./images/family/img1.png",
+            "sound": "./sounds/family/img1.mp3"
+        },
+        "grandmother": {
+            "image": "./images/family/img2.png",
+            "sound": "./sounds/family/img2.mp3"
+        },
+        "mother": {
+            "image": "./images/family/img3.png",
+            "sound": "./sounds/family/img3.mp3"
+        },
+        "father": {
+            "image": "./images/family/img4.png",
+            "sound": "./sounds/family/img4.mp3"
+        },
+        "brother": {
+            "image": "./images/family/img5.png",
+            "sound": "./sounds/family/img5.mp3"
+        },
+        "me": {
+            "image": "./images/family/img6.png",
+            "sound": "./sounds/family/img6.mp3"
+        },
+        "sister": {
+            "image": "./images/family/img7.png",
+            "sound": "./sounds/family/img7.mp3"
+        }
+    },
+    "people": {
+        "boy": {
+            "image": "./images/people/img1.png",
+            "sound": "./sounds/people/img1.mp3"
+        },
+        "girl": {
+            "image": "./images/people/img2.png",
+            "sound": "./sounds/people/img2.mp3"
+        },
+        "friends": {
+            "image": "./images/people/img3.png",
+            "sound": "./sounds/people/img3.mp3"
+        },
+        "classmates": {
+            "image": "./images/people/img4.png",
+            "sound": "./sounds/people/img4.mp3"
+        }
+    },
+    "personalities": {
+        "active": {
+            "image": "./images/personalities/img1.png",
+            "sound": "./sounds/personalities/img1.mp3"
+        },
+        "brave": {
+            "image": "./images/personalities/img2.png",
+            "sound": "./sounds/personalities/img2.mp3"
+        },
+        "friendly": {
+            "image": "./images/personalities/img3.png",
+            "sound": "./sounds/personalities/img3.mp3"
+        },
+        "funny": {
+            "image": "./images/personalities/img4.png",
+            "sound": "./sounds/personalities/img4.mp3"
+        },
+        "gentle": {
+            "image": "./images/personalities/img5.png",
+            "sound": "./sounds/personalities/img5.mp3"
+        },
+        "kind": {
+            "image": "./images/personalities/img6.png",
+            "sound": "./sounds/personalities/img6.mp3"
+        },
+        "strong": {
+            "image": "./images/personalities/img7.png",
+            "sound": "./sounds/personalities/img7.mp3"
+        }
+    },
+    "actions1": {
+        "sing": {
+            "image": "./images/actions1/img1.png",
+            "sound": "./sounds/actions1/img1.mp3"
+        },
+        "run": {
+            "image": "./images/actions1/img2.png",
+            "sound": "./sounds/actions1/img2.mp3"
+        },
+        "jump": {
+            "image": "./images/actions1/img3.png",
+            "sound": "./sounds/actions1/img3.mp3"
+        },
+        "dance": {
+            "image": "./images/actions1/img4.png",
+            "sound": "./sounds/actions1/img4.mp3"
+        },
+        "swim": {
+            "image": "./images/actions1/img5.png",
+            "sound": "./sounds/actions1/img5.mp3"
+        },
+        "skate": {
+            "image": "./images/actions1/img6.png",
+            "sound": "./sounds/actions1/img6.mp3"
+        },
+        "go": {
+            "image": "./images/actions1/img7.png",
+            "sound": "./sounds/actions1/img7.mp3"
+        },
+        "stop": {
+            "image": "./images/actions1/img8.png",
+            "sound": "./sounds/actions1/img8.mp3"
+        },
+        "turn": {
+            "image": "./images/actions1/img9.png",
+            "sound": "./sounds/actions1/img9.mp3"
+        },
+        "eat": {
+            "image": "./images/actions1/img10.png",
+            "sound": "./sounds/actions1/img10.mp3"
+        },
+        "drink": {
+            "image": "./images/actions1/img11.png",
+            "sound": "./sounds/actions1/img11.mp3"
+        },
+        "cook": {
+            "image": "./images/actions1/img12.png",
+            "sound": "./sounds/actions1/img12.mp3"
+        },
+        "bake": {
+            "image": "./images/actions1/img13.png",
+            "sound": "./sounds/actions1/img13.mp3"
+        },
+        "clean": {
+            "image": "./images/actions1/img14.png",
+            "sound": "./sounds/actions1/img14.mp3"
+        },
+        "buy": {
+            "image": "./images/actions1/img15.png",
+            "sound": "./sounds/actions1/img15.mp3"
+        },
+        "ride": {
+            "image": "./images/actions1/img16.png",
+            "sound": "./sounds/actions1/img16.mp3"
+        },
+        "travel": {
+            "image": "./images/actions1/img17.png",
+            "sound": "./sounds/actions1/img17.mp3"
+        },
+        "study": {
+            "image": "./images/actions1/img18.png",
+            "sound": "./sounds/actions1/img18.mp3"
+        },
+        "teach": {
+            "image": "./images/actions1/img19.png",
+            "sound": "./sounds/actions1/img19.mp3"
+        },
+        "speak": {
+            "image": "./images/actions1/img20.png",
+            "sound": "./sounds/actions1/img20.mp3"
+        },
+        "listen": {
+            "image": "./images/actions1/img21.png",
+            "sound": "./sounds/actions1/img21.mp3"
+        },
+        "read": {
+            "image": "./images/actions1/img22.png",
+            "sound": "./sounds/actions1/img22.mp3"
+        },
+        "write": {
+            "image": "./images/actions1/img23.png",
+            "sound": "./sounds/actions1/img23.mp3"
+        },
+        "talk": {
+            "image": "./images/actions1/img24.png",
+            "sound": "./sounds/actions1/img24.mp3"
+        },
+        "draw": {
+            "image": "./images/actions1/img25.png",
+            "sound": "./sounds/actions1/img25.mp3"
+        }
+    },
+    "pastactions": {
+        "went": {
+            "image": "./images/pastactions/img1.png",
+            "sound": "./sounds/pastactions/img1.mp3"
+        },
+        "ate": {
+            "image": "./images/pastactions/img2.png",
+            "sound": "./sounds/pastactions/img2.mp3"
+        },
+        "saw": {
+            "image": "./images/pastactions/img3.png",
+            "sound": "./sounds/pastactions/img3.mp3"
+        },
+        "enjoyed": {
+            "image": "./images/pastactions/img4.png",
+            "sound": "./sounds/pastactions/img4.mp3"
+        },
+        "had": {
+            "image": "./images/pastactions/img5.png",
+            "sound": "./sounds/pastactions/img5.mp3"
+        }
+    },
+    "actions2": {
+        "like": {
+            "image": "./images/actions2/img1.png",
+            "sound": "./sounds/actions2/img1.mp3"
+        },
+        "want": {
+            "image": "./images/actions2/img2.png",
+            "sound": "./sounds/actions2/img2.mp3"
+        },
+        "look": {
+            "image": "./images/actions2/img3.png",
+            "sound": "./sounds/actions2/img3.mp3"
+        },
+        "see": {
+            "image": "./images/actions2/img4.png",
+            "sound": "./sounds/actions2/img4.mp3"
+        },
+        "play": {
+            "image": "./images/actions2/img5.png",
+            "sound": "./sounds/actions2/img5.mp3"
+        },
+        "practice": {
+            "image": "./images/actions2/img6.png",
+            "sound": "./sounds/actions2/img6.mp3"
+        },
+        "try": {
+            "image": "./images/actions2/img7.png",
+            "sound": "./sounds/actions2/img7.mp3"
+        },
+        "enjoy": {
+            "image": "./images/actions2/img8.png",
+            "sound": "./sounds/actions2/img8.mp3"
+        },
+        "get": {
+            "image": "./images/actions2/img9.png",
+            "sound": "./sounds/actions2/img9.mp3"
+        },
+        "have": {
+            "image": "./images/actions2/img10.png",
+            "sound": "./sounds/actions2/img10.mp3"
+        },
+        "make": {
+            "image": "./images/actions2/img11.png",
+            "sound": "./sounds/actions2/img11.mp3"
+        },
+        "help": {
+            "image": "./images/actions2/img12.png",
+            "sound": "./sounds/actions2/img12.mp3"
+        },
+        "join": {
+            "image": "./images/actions2/img13.png",
+            "sound": "./sounds/actions2/img13.mp3"
+        },
+        "live": {
+            "image": "./images/actions2/img14.png",
+            "sound": "./sounds/actions2/img14.mp3"
+        },
+        "think": {
+            "image": "./images/actions2/img15.png",
+            "sound": "./sounds/actions2/img15.mp3"
+        }
+    },
+    "dailyactivities": {
+        "get up": {
+            "image": "./images/dailyactivities/img1.png",
+            "sound": "./sounds/dailyactivities/img1.mp3"
+        },
+        "brush my teeth": {
+            "image": "./images/dailyactivities/img2.png",
+            "sound": "./sounds/dailyactivities/img2.mp3"
+        },
+        "take out the garbage": {
+            "image": "./images/dailyactivities/img3.png",
+            "sound": "./sounds/dailyactivities/img3.mp3"
+        },
+        "get the newspaper": {
+            "image": "./images/dailyactivities/img4.png",
+            "sound": "./sounds/dailyactivities/img4.mp3"
+        },
+        "have breakfast": {
+            "image": "./images/dailyactivities/img5.png",
+            "sound": "./sounds/dailyactivities/img5.mp3"
+        },
+        "go to school": {
+            "image": "./images/dailyactivities/img6.png",
+            "sound": "./sounds/dailyactivities/img6.mp3"
+        },
+        "study english": {
+            "image": "./images/dailyactivities/img7.png",
+            "sound": "./sounds/dailyactivities/img7.mp3"
+        },
+        "have lunch": {
+            "image": "./images/dailyactivities/img8.png",
+            "sound": "./sounds/dailyactivities/img8.mp3"
+        },
+        "go home": {
+            "image": "./images/dailyactivities/img9.png",
+            "sound": "./sounds/dailyactivities/img9.mp3"
+        },
+        "play soccer": {
+            "image": "./images/dailyactivities/img10.png",
+            "sound": "./sounds/dailyactivities/img10.mp3"
+        },
+        "walk my dog": {
+            "image": "./images/dailyactivities/img11.png",
+            "sound": "./sounds/dailyactivities/img11.mp3"
+        },
+        "do my homework": {
+            "image": "./images/dailyactivities/img12.png",
+            "sound": "./sounds/dailyactivities/img12.mp3"
+        },
+        "have dinner": {
+            "image": "./images/dailyactivities/img13.png",
+            "sound": "./sounds/dailyactivities/img13.mp3"
+        },
+        "wash the dishes": {
+            "image": "./images/dailyactivities/img14.png",
+            "sound": "./sounds/dailyactivities/img14.mp3"
+        },
+        "take a bath": {
+            "image": "./images/dailyactivities/img15.png",
+            "sound": "./sounds/dailyactivities/img15.mp3"
+        },
+        "watch tv": {
+            "image": "./images/dailyactivities/img16.png",
+            "sound": "./sounds/dailyactivities/img16.mp3"
+        },
+        "go to bed": {
+            "image": "./images/dailyactivities/img17.png",
+            "sound": "./sounds/dailyactivities/img17.mp3"
+        }
+    },
+    "frequency": {
+        "always": {
+            "image": "./images/frequency/img1.png",
+            "sound": "./sounds/frequency/img1.mp3"
+        },
+        "usually": {
+            "image": "./images/frequency/img2.png",
+            "sound": "./sounds/frequency/img2.mp3"
+        },
+        "sometimes": {
+            "image": "./images/frequency/img3.png",
+            "sound": "./sounds/frequency/img3.mp3"
+        },
+        "never": {
+            "image": "./images/frequency/img4.png",
+            "sound": "./sounds/frequency/img4.mp3"
+        }
+    },
+    "body": {
+        "head": {
+            "image": "./images/body/img1.png",
+            "sound": "./sounds/body/img1.mp3"
+        },
+        "face": {
+            "image": "./images/body/img2.png",
+            "sound": "./sounds/body/img2.mp3"
+        },
+        "shoulder": {
+            "image": "./images/body/img3.png",
+            "sound": "./sounds/body/img3.mp3"
+        },
+        "hand": {
+            "image": "./images/body/img4.png",
+            "sound": "./sounds/body/img4.mp3"
+        },
+        "knee": {
+            "image": "./images/body/img5.png",
+            "sound": "./sounds/body/img5.mp3"
+        },
+        "eye": {
+            "image": "./images/body/img6.png",
+            "sound": "./sounds/body/img6.mp3"
+        },
+        "ear": {
+            "image": "./images/body/img7.png",
+            "sound": "./sounds/body/img7.mp3"
+        },
+        "nose": {
+            "image": "./images/body/img8.png",
+            "sound": "./sounds/body/img8.mp3"
+        },
+        "teeth": {
+            "image": "./images/body/img9.png",
+            "sound": "./sounds/body/img9.mp3"
+        },
+        "mouth": {
+            "image": "./images/body/img10.png",
+            "sound": "./sounds/body/img10.mp3"
+        },
+        "leg": {
+            "image": "./images/body/img11.png",
+            "sound": "./sounds/body/img11.mp3"
+        },
+        "toes": {
+            "image": "./images/body/img12.png",
+            "sound": "./sounds/body/img12.mp3"
+        }
+    },
+    "clothes": {
+        "tshirt": {
+            "image": "./images/clothes/img1.png",
+            "sound": "./sounds/clothes/img1.mp3"
+        },
+        "shirt": {
+            "image": "./images/clothes/img2.png",
+            "sound": "./sounds/clothes/img2.mp3"
+        },
+        "vest": {
+            "image": "./images/clothes/img3.png",
+            "sound": "./sounds/clothes/img3.mp3"
+        },
+        "sweater": {
+            "image": "./images/clothes/img4.png",
+            "sound": "./sounds/clothes/img4.mp3"
+        },
+        "uniform": {
+            "image": "./images/clothes/img5.png",
+            "sound": "./sounds/clothes/img5.mp3"
+        },
+        "pants": {
+            "image": "./images/clothes/img6.png",
+            "sound": "./sounds/clothes/img6.mp3"
+        },
+        "cap": {
+            "image": "./images/clothes/img7.png",
+            "sound": "./sounds/clothes/img7.mp3"
+        },
+        "hat": {
+            "image": "./images/clothes/img8.png",
+            "sound": "./sounds/clothes/img8.mp3"
+        },
+        "gloves": {
+            "image": "./images/clothes/img9.png",
+            "sound": "./sounds/clothes/img9.mp3"
+        },
+        "socks": {
+            "image": "./images/clothes/img10.png",
+            "sound": "./sounds/clothes/img10.mp3"
+        }
+    },
+    "buildings": {
+        "house": {
+            "image": "./images/buildings/img1.png",
+            "sound": "./sounds/buildings/img1.mp3"
+        },
+        "elementary school": {
+            "image": "./images/buildings/img2.png",
+            "sound": "./sounds/buildings/img2.mp3"
+        },
+        "junior high school": {
+            "image": "./images/buildings/img3.png",
+            "sound": "./sounds/buildings/img3.mp3"
+        },
+        "park": {
+            "image": "./images/buildings/img4.png",
+            "sound": "./sounds/buildings/img4.mp3"
+        },
+        "library": {
+            "image": "./images/buildings/img5.png",
+            "sound": "./sounds/buildings/img5.mp3"
+        },
+        "museum": {
+            "image": "./images/buildings/img6.png",
+            "sound": "./sounds/buildings/img6.mp3"
+        },
+        "city hall": {
+            "image": "./images/buildings/img7.png",
+            "sound": "./sounds/buildings/img7.mp3"
+        },
+        "hospital": {
+            "image": "./images/buildings/img8.png",
+            "sound": "./sounds/buildings/img8.mp3"
+        },
+        "bus stop": {
+            "image": "./images/buildings/img9.png",
+            "sound": "./sounds/buildings/img9.mp3"
+        },
+        "station": {
+            "image": "./images/buildings/img10.png",
+            "sound": "./sounds/buildings/img10.mp3"
+        },
+        "police station": {
+            "image": "./images/buildings/img11.png",
+            "sound": "./sounds/buildings/img11.mp3"
+        },
+        "fire station": {
+            "image": "./images/buildings/img12.png",
+            "sound": "./sounds/buildings/img12.mp3"
+        },
+        "gas station": {
+            "image": "./images/buildings/img13.png",
+            "sound": "./sounds/buildings/img13.mp3"
+        },
+        "post office": {
+            "image": "./images/buildings/img14.png",
+            "sound": "./sounds/buildings/img14.mp3"
+        },
+        "bookstore": {
+            "image": "./images/buildings/img15.png",
+            "sound": "./sounds/buildings/img15.mp3"
+        },
+        "convenience store": {
+            "image": "./images/buildings/img16.png",
+            "sound": "./sounds/buildings/img16.mp3"
+        },
+        "department store": {
+            "image": "./images/buildings/img17.png",
+            "sound": "./sounds/buildings/img17.mp3"
+        },
+        "restaurant": {
+            "image": "./images/buildings/img18.png",
+            "sound": "./sounds/buildings/img18.mp3"
+        },
+        "supermarket": {
+            "image": "./images/buildings/img19.png",
+            "sound": "./sounds/buildings/img19.mp3"
+        },
+        "flower shop": {
+            "image": "./images/buildings/img20.png",
+            "sound": "./sounds/buildings/img20.mp3"
+        },
+        "castle": {
+            "image": "./images/buildings/img21.png",
+            "sound": "./sounds/buildings/img21.mp3"
+        },
+        "shrine": {
+            "image": "./images/buildings/img22.png",
+            "sound": "./sounds/buildings/img22.mp3"
+        },
+        "temple": {
+            "image": "./images/buildings/img23.png",
+            "sound": "./sounds/buildings/img23.mp3"
+        },
+        "amusement park": {
+            "image": "./images/buildings/img24.png",
+            "sound": "./sounds/buildings/img24.mp3"
+        },
+        "aquarium": {
+            "image": "./images/buildings/img25.png",
+            "sound": "./sounds/buildings/img25.mp3"
+        },
+        "stadium": {
+            "image": "./images/buildings/img26.png",
+            "sound": "./sounds/buildings/img26.mp3"
+        },
+        "zoo": {
+            "image": "./images/buildings/img27.png",
+            "sound": "./sounds/buildings/img27.mp3"
+        },
+        "bridge": {
+            "image": "./images/buildings/img28.png",
+            "sound": "./sounds/buildings/img28.mp3"
+        },
+        "street": {
+            "image": "./images/buildings/img29.png",
+            "sound": "./sounds/buildings/img29.mp3"
+        }
+    },
+    "directions": {
+        "go": {
+            "image": "./images/directions/img1.png",
+            "sound": "./sounds/directions/img1.mp3"
+        },
+        "straight": {
+            "image": "./images/directions/img2.png",
+            "sound": "./sounds/directions/img2.mp3"
+        },
+        "turn": {
+            "image": "./images/directions/img3.png",
+            "sound": "./sounds/directions/img3.mp3"
+        },
+        "right": {
+            "image": "./images/directions/img4.png",
+            "sound": "./sounds/directions/img4.mp3"
+        },
+        "left": {
+            "image": "./images/directions/img5.png",
+            "sound": "./sounds/directions/img5.mp3"
+        },
+        "block": {
+            "image": "./images/directions/img6.png",
+            "sound": "./sounds/directions/img6.mp3"
+        },
+        "see": {
+            "image": "./images/directions/img7.png",
+            "sound": "./sounds/directions/img7.mp3"
+        }
+    },
+    "locations": {
+        "by": {
+            "image": "./images/locations/img1.png",
+            "sound": "./sounds/locations/img1.mp3"
+        },
+        "in": {
+            "image": "./images/locations/img2.png",
+            "sound": "./sounds/locations/img2.mp3"
+        },
+        "on": {
+            "image": "./images/locations/img3.png",
+            "sound": "./sounds/locations/img3.mp3"
+        },
+        "under": {
+            "image": "./images/locations/img4.png",
+            "sound": "./sounds/locations/img4.mp3"
+        }
+    },
+    "vehicles": {
+        "bus": {
+            "image": "./images/vehicles/img1.png",
+            "sound": "./sounds/vehicles/img1.mp3"
+        },
+        "car": {
+            "image": "./images/vehicles/img2.png",
+            "sound": "./sounds/vehicles/img2.mp3"
+        },
+        "taxi": {
+            "image": "./images/vehicles/img3.png",
+            "sound": "./sounds/vehicles/img3.mp3"
+        },
+        "truck": {
+            "image": "./images/vehicles/img4.png",
+            "sound": "./sounds/vehicles/img4.mp3"
+        },
+        "train": {
+            "image": "./images/vehicles/img5.png",
+            "sound": "./sounds/vehicles/img5.mp3"
+        },
+        "subway": {
+            "image": "./images/vehicles/img6.png",
+            "sound": "./sounds/vehicles/img6.mp3"
+        },
+        "ship": {
+            "image": "./images/vehicles/img7.png",
+            "sound": "./sounds/vehicles/img7.mp3"
+        },
+        "boat": {
+            "image": "./images/vehicles/img8.png",
+            "sound": "./sounds/vehicles/img8.mp3"
+        },
+        "airplane": {
+            "image": "./images/vehicles/img9.png",
+            "sound": "./sounds/vehicles/img9.mp3"
+        },
+        "bike": {
+            "image": "./images/vehicles/img10.png",
+            "sound": "./sounds/vehicles/img10.mp3"
+        }
+    },
+    "school": {
+        "classroom": {
+            "image": "./images/school/img1.png",
+            "sound": "./sounds/school/img1.mp3"
+        },
+        "library": {
+            "image": "./images/school/img2.png",
+            "sound": "./sounds/school/img2.mp3"
+        },
+        "music room": {
+            "image": "./images/school/img3.png",
+            "sound": "./sounds/school/img3.mp3"
+        },
+        "gym": {
+            "image": "./images/school/img4.png",
+            "sound": "./sounds/school/img4.mp3"
+        },
+        "playground": {
+            "image": "./images/school/img5.png",
+            "sound": "./sounds/school/img5.mp3"
+        },
+        "swimming pool": {
+            "image": "./images/school/img6.png",
+            "sound": "./sounds/school/img6.mp3"
+        },
+        "teachers office": {
+            "image": "./images/school/img7.png",
+            "sound": "./sounds/school/img7.mp3"
+        },
+        "school nurses office": {
+            "image": "./images/school/img8.png",
+            "sound": "./sounds/school/img8.mp3"
+        },
+        "school principals office": {
+            "image": "./images/school/img9.png",
+            "sound": "./sounds/school/img9.mp3"
+        },
+        "entrance": {
+            "image": "./images/school/img10.png",
+            "sound": "./sounds/school/img10.mp3"
+        },
+        "restroom": {
+            "image": "./images/school/img11.png",
+            "sound": "./sounds/school/img11.mp3"
+        },
+        "science room": {
+            "image": "./images/school/img12.png",
+            "sound": "./sounds/school/img12.mp3"
+        },
+        "computer room": {
+            "image": "./images/school/img13.png",
+            "sound": "./sounds/school/img13.mp3"
+        },
+        "cooking room": {
+            "image": "./images/school/img14.png",
+            "sound": "./sounds/school/img14.mp3"
+        },
+        "arts and crafts room": {
+            "image": "./images/school/img15.png",
+            "sound": "./sounds/school/img15.mp3"
+        },
+        "lunch room": {
+            "image": "./images/school/img16.png",
+            "sound": "./sounds/school/img16.mp3"
+        }
+    },
+    "subjects": {
+        "english": {
+            "image": "./images/subjects/img1.png",
+            "sound": "./sounds/subjects/img1.mp3"
+        },
+        "japanese": {
+            "image": "./images/subjects/img2.png",
+            "sound": "./sounds/subjects/img2.mp3"
+        },
+        "caligraphy": {
+            "image": "./images/subjects/img3.png",
+            "sound": "./sounds/subjects/img3.mp3"
+        },
+        "social studies": {
+            "image": "./images/subjects/img4.png",
+            "sound": "./sounds/subjects/img4.mp3"
+        },
+        "math": {
+            "image": "./images/subjects/img5.png",
+            "sound": "./sounds/subjects/img5.mp3"
+        },
+        "science": {
+            "image": "./images/subjects/img6.png",
+            "sound": "./sounds/subjects/img6.mp3"
+        },
+        "music": {
+            "image": "./images/subjects/img7.png",
+            "sound": "./sounds/subjects/img7.mp3"
+        },
+        "arts and crafts": {
+            "image": "./images/subjects/img8.png",
+            "sound": "./sounds/subjects/img8.mp3"
+        },
+        "home economics": {
+            "image": "./images/subjects/img9.png",
+            "sound": "./sounds/subjects/img9.mp3"
+        },
+        "p.e": {
+            "image": "./images/subjects/img10.png",
+            "sound": "./sounds/subjects/img10.mp3"
+        },
+        "moral education": {
+            "image": "./images/subjects/img11.png",
+            "sound": "./sounds/subjects/img11.mp3"
+        }
+    },
+    "instruments": {
+        "recorder": {
+            "image": "./images/instruments/img1.png",
+            "sound": "./sounds/instruments/img1.mp3"
+        },
+        "harmonica": {
+            "image": "./images/instruments/img2.png",
+            "sound": "./sounds/instruments/img2.mp3"
+        },
+        "triangle": {
+            "image": "./images/instruments/img3.png",
+            "sound": "./sounds/instruments/img3.mp3"
+        },
+        "piano": {
+            "image": "./images/instruments/img4.png",
+            "sound": "./sounds/instruments/img4.mp3"
+        },
+        "guitar": {
+            "image": "./images/instruments/img5.png",
+            "sound": "./sounds/instruments/img5.mp3"
+        },
+        "violin": {
+            "image": "./images/instruments/img6.png",
+            "sound": "./sounds/instruments/img6.mp3"
+        },
+        "drum": {
+            "image": "./images/instruments/img7.png",
+            "sound": "./sounds/instruments/img7.mp3"
+        },
+        "xylophone": {
+            "image": "./images/instruments/img8.png",
+            "sound": "./sounds/instruments/img8.mp3"
+        }
+    },
+    "stationery": {
+        "crayon": {
+            "image": "./images/stationery/img1.png",
+            "sound": "./sounds/stationery/img1.mp3"
+        },
+        "marker": {
+            "image": "./images/stationery/img2.png",
+            "sound": "./sounds/stationery/img2.mp3"
+        },
+        "pen": {
+            "image": "./images/stationery/img3.png",
+            "sound": "./sounds/stationery/img3.mp3"
+        },
+        "pencil": {
+            "image": "./images/stationery/img4.png",
+            "sound": "./sounds/stationery/img4.mp3"
+        },
+        "pencil case": {
+            "image": "./images/stationery/img5.png",
+            "sound": "./sounds/stationery/img5.mp3"
+        },
+        "pencil sharpener": {
+            "image": "./images/stationery/img6.png",
+            "sound": "./sounds/stationery/img6.mp3"
+        },
+        "eraser": {
+            "image": "./images/stationery/img7.png",
+            "sound": "./sounds/stationery/img7.mp3"
+        },
+        "ruler": {
+            "image": "./images/stationery/img8.png",
+            "sound": "./sounds/stationery/img8.mp3"
+        },
+        "glue": {
+            "image": "./images/stationery/img9.png",
+            "sound": "./sounds/stationery/img9.mp3"
+        },
+        "scissors": {
+            "image": "./images/stationery/img10.png",
+            "sound": "./sounds/stationery/img10.mp3"
+        },
+        "stapler": {
+            "image": "./images/stationery/img11.png",
+            "sound": "./sounds/stationery/img11.mp3"
+        },
+        "notebook": {
+            "image": "./images/stationery/img12.png",
+            "sound": "./sounds/stationery/img12.mp3"
+        }
+    },
+    "commonitems": {
+        "ball": {
+            "image": "./images/commonitems/img1.png",
+            "sound": "./sounds/commonitems/img1.mp3"
+        },
+        "bat": {
+            "image": "./images/commonitems/img2.png",
+            "sound": "./sounds/commonitems/img2.mp3"
+        },
+        "racket": {
+            "image": "./images/commonitems/img3.png",
+            "sound": "./sounds/commonitems/img3.mp3"
+        },
+        "bag": {
+            "image": "./images/commonitems/img4.png",
+            "sound": "./sounds/commonitems/img4.mp3"
+        },
+        "plastic bag": {
+            "image": "./images/commonitems/img5.png",
+            "sound": "./sounds/commonitems/img5.mp3"
+        },
+        "basket": {
+            "image": "./images/commonitems/img6.png",
+            "sound": "./sounds/commonitems/img6.mp3"
+        },
+        "box": {
+            "image": "./images/commonitems/img7.png",
+            "sound": "./sounds/commonitems/img7.mp3"
+        },
+        "cup": {
+            "image": "./images/commonitems/img8.png",
+            "sound": "./sounds/commonitems/img8.mp3"
+        },
+        "watch": {
+            "image": "./images/commonitems/img9.png",
+            "sound": "./sounds/commonitems/img9.mp3"
+        },
+        "clock": {
+            "image": "./images/commonitems/img10.png",
+            "sound": "./sounds/commonitems/img10.mp3"
+        },
+        "book": {
+            "image": "./images/commonitems/img11.png",
+            "sound": "./sounds/commonitems/img11.mp3"
+        },
+        "textbook": {
+            "image": "./images/commonitems/img12.png",
+            "sound": "./sounds/commonitems/img12.mp3"
+        },
+        "comic book": {
+            "image": "./images/commonitems/img13.png",
+            "sound": "./sounds/commonitems/img13.mp3"
+        },
+        "computer": {
+            "image": "./images/commonitems/img14.png",
+            "sound": "./sounds/commonitems/img14.mp3"
+        },
+        "calendar": {
+            "image": "./images/commonitems/img15.png",
+            "sound": "./sounds/commonitems/img15.mp3"
+        },
+        "map": {
+            "image": "./images/commonitems/img16.png",
+            "sound": "./sounds/commonitems/img16.mp3"
+        },
+        "pictures": {
+            "image": "./images/commonitems/img17.png",
+            "sound": "./sounds/commonitems/img17.mp3"
+        },
+        "umbrella": {
+            "image": "./images/commonitems/img18.png",
+            "sound": "./sounds/commonitems/img18.mp3"
+        },
+        "present": {
+            "image": "./images/commonitems/img19.png",
+            "sound": "./sounds/commonitems/img19.mp3"
+        },
+        "treasure": {
+            "image": "./images/commonitems/img20.png",
+            "sound": "./sounds/commonitems/img20.mp3"
+        },
+        "desk": {
+            "image": "./images/commonitems/img21.png",
+            "sound": "./sounds/commonitems/img21.mp3"
+        },
+        "chair": {
+            "image": "./images/commonitems/img22.png",
+            "sound": "./sounds/commonitems/img22.mp3"
+        },
+        "wheelchair": {
+            "image": "./images/commonitems/img23.png",
+            "sound": "./sounds/commonitems/img23.mp3"
+        },
+        "table": {
+            "image": "./images/commonitems/img24.png",
+            "sound": "./sounds/commonitems/img24.mp3"
+        },
+        "bath": {
+            "image": "./images/commonitems/img25.png",
+            "sound": "./sounds/commonitems/img25.mp3"
+        },
+        "bed": {
+            "image": "./images/commonitems/img26.png",
+            "sound": "./sounds/commonitems/img26.mp3"
+        },
+        "wall": {
+            "image": "./images/commonitems/img27.png",
+            "sound": "./sounds/commonitems/img27.mp3"
+        },
+        "window": {
+            "image": "./images/commonitems/img28.png",
+            "sound": "./sounds/commonitems/img28.mp3"
+        }
+    },
+    "activities": {
+        "camping": {
+            "image": "./images/activities/img1.png",
+            "sound": "./sounds/activities/img1.mp3"
+        },
+        "fishing": {
+            "image": "./images/activities/img2.png",
+            "sound": "./sounds/activities/img2.mp3"
+        },
+        "hiking": {
+            "image": "./images/activities/img3.png",
+            "sound": "./sounds/activities/img3.mp3"
+        },
+        "shopping": {
+            "image": "./images/activities/img4.png",
+            "sound": "./sounds/activities/img4.mp3"
+        },
+        "reading": {
+            "image": "./images/activities/img5.png",
+            "sound": "./sounds/activities/img5.mp3"
+        },
+        "running": {
+            "image": "./images/activities/img6.png",
+            "sound": "./sounds/activities/img6.mp3"
+        },
+        "jogging": {
+            "image": "./images/activities/img7.png",
+            "sound": "./sounds/activities/img7.mp3"
+        },
+        "kite flying": {
+            "image": "./images/activities/img8.png",
+            "sound": "./sounds/activities/img8.mp3"
+        },
+        "top spinning": {
+            "image": "./images/activities/img9.png",
+            "sound": "./sounds/activities/img9.mp3"
+        },
+        "cards": {
+            "image": "./images/activities/img10.png",
+            "sound": "./sounds/activities/img10.mp3"
+        },
+        "rock paper scissors": {
+            "image": "./images/activities/img11.png",
+            "sound": "./sounds/activities/img11.mp3"
+        },
+        "tag": {
+            "image": "./images/activities/img12.png",
+            "sound": "./sounds/activities/img12.mp3"
+        },
+        "jump rope": {
+            "image": "./images/activities/img13.png",
+            "sound": "./sounds/activities/img13.mp3"
+        },
+        "unicycle": {
+            "image": "./images/activities/img14.png",
+            "sound": "./sounds/activities/img14.mp3"
+        }
+    },
+    "schoolevents": {
+        "field trip": {
+            "image": "./images/schoolevents/img1.png",
+            "sound": "./sounds/schoolevents/img1.mp3"
+        },
+        "school trip": {
+            "image": "./images/schoolevents/img2.png",
+            "sound": "./sounds/schoolevents/img2.mp3"
+        },
+        "chorus contest": {
+            "image": "./images/schoolevents/img3.png",
+            "sound": "./sounds/schoolevents/img3.mp3"
+        },
+        "drama festival": {
+            "image": "./images/schoolevents/img4.png",
+            "sound": "./sounds/schoolevents/img4.mp3"
+        },
+        "music festival": {
+            "image": "./images/schoolevents/img5.png",
+            "sound": "./sounds/schoolevents/img5.mp3"
+        },
+        "school festival": {
+            "image": "./images/schoolevents/img6.png",
+            "sound": "./sounds/schoolevents/img6.mp3"
+        },
+        "volunteer day": {
+            "image": "./images/schoolevents/img7.png",
+            "sound": "./sounds/schoolevents/img7.mp3"
+        },
+        "sports day": {
+            "image": "./images/schoolevents/img8.png",
+            "sound": "./sounds/schoolevents/img8.mp3"
+        },
+        "swimming meet": {
+            "image": "./images/schoolevents/img9.png",
+            "sound": "./sounds/schoolevents/img9.mp3"
+        },
+        "fire drill": {
+            "image": "./images/schoolevents/img10.png",
+            "sound": "./sounds/schoolevents/img10.mp3"
+        },
+        "summer vacation": {
+            "image": "./images/schoolevents/img11.png",
+            "sound": "./sounds/schoolevents/img11.mp3"
+        },
+        "entrance ceremony": {
+            "image": "./images/schoolevents/img12.png",
+            "sound": "./sounds/schoolevents/img12.mp3"
+        },
+        "graduation ceremony": {
+            "image": "./images/schoolevents/img13.png",
+            "sound": "./sounds/schoolevents/img13.mp3"
+        }
+    },
+    "yearlyevents": {
+        "birthday": {
+            "image": "./images/yearlyevents/img1.png",
+            "sound": "./sounds/yearlyevents/img1.mp3"
+        },
+        "new years day": {
+            "image": "./images/yearlyevents/img2.png",
+            "sound": "./sounds/yearlyevents/img2.mp3"
+        },
+        "dolls festival": {
+            "image": "./images/yearlyevents/img3.png",
+            "sound": "./sounds/yearlyevents/img3.mp3"
+        },
+        "april fools day": {
+            "image": "./images/yearlyevents/img4.png",
+            "sound": "./sounds/yearlyevents/img4.mp3"
+        },
+        "childrens day": {
+            "image": "./images/yearlyevents/img5.png",
+            "sound": "./sounds/yearlyevents/img5.mp3"
+        },
+        "star festival": {
+            "image": "./images/yearlyevents/img6.png",
+            "sound": "./sounds/yearlyevents/img6.mp3"
+        },
+        "fireworks": {
+            "image": "./images/yearlyevents/img7.png",
+            "sound": "./sounds/yearlyevents/img7.mp3"
+        },
+        "halloween": {
+            "image": "./images/yearlyevents/img8.png",
+            "sound": "./sounds/yearlyevents/img8.mp3"
+        },
+        "christmas day": {
+            "image": "./images/yearlyevents/img9.png",
+            "sound": "./sounds/yearlyevents/img9.mp3"
+        },
+        "new years eve": {
+            "image": "./images/yearlyevents/img10.png",
+            "sound": "./sounds/yearlyevents/img10.mp3"
+        }
+    },
+    "conditions": {
+        "big": {
+            "image": "./images/conditions/img1.png",
+            "sound": "./sounds/conditions/img1.mp3"
+        },
+        "small": {
+            "image": "./images/conditions/img2.png",
+            "sound": "./sounds/conditions/img2.mp3"
+        },
+        "long": {
+            "image": "./images/conditions/img3.png",
+            "sound": "./sounds/conditions/img3.mp3"
+        },
+        "short": {
+            "image": "./images/conditions/img4.png",
+            "sound": "./sounds/conditions/img4.mp3"
+        },
+        "new": {
+            "image": "./images/conditions/img5.png",
+            "sound": "./sounds/conditions/img5.mp3"
+        },
+        "old": {
+            "image": "./images/conditions/img6.png",
+            "sound": "./sounds/conditions/img6.mp3"
+        },
+        "easy": {
+            "image": "./images/conditions/img7.png",
+            "sound": "./sounds/conditions/img7.mp3"
+        },
+        "difficult": {
+            "image": "./images/conditions/img8.png",
+            "sound": "./sounds/conditions/img8.mp3"
+        },
+        "same": {
+            "image": "./images/conditions/img9.png",
+            "sound": "./sounds/conditions/img9.mp3"
+        },
+        "different": {
+            "image": "./images/conditions/img10.png",
+            "sound": "./sounds/conditions/img10.mp3"
+        },
+        "fast": {
+            "image": "./images/conditions/img11.png",
+            "sound": "./sounds/conditions/img11.mp3"
+        },
+        "slow": {
+            "image": "./images/conditions/img12.png",
+            "sound": "./sounds/conditions/img12.mp3"
+        }
+    },
+    "descriptions": {
+        "good": {
+            "image": "./images/descriptions/img1.png",
+            "sound": "./sounds/descriptions/img1.mp3"
+        },
+        "great": {
+            "image": "./images/descriptions/img2.png",
+            "sound": "./sounds/descriptions/img2.mp3"
+        },
+        "nice": {
+            "image": "./images/descriptions/img3.png",
+            "sound": "./sounds/descriptions/img3.mp3"
+        },
+        "fantastic": {
+            "image": "./images/descriptions/img4.png",
+            "sound": "./sounds/descriptions/img4.mp3"
+        },
+        "wonderful": {
+            "image": "./images/descriptions/img5.png",
+            "sound": "./sounds/descriptions/img5.mp3"
+        },
+        "beautiful": {
+            "image": "./images/descriptions/img6.png",
+            "sound": "./sounds/descriptions/img6.mp3"
+        },
+        "cool": {
+            "image": "./images/descriptions/img7.png",
+            "sound": "./sounds/descriptions/img7.mp3"
+        },
+        "cute": {
+            "image": "./images/descriptions/img8.png",
+            "sound": "./sounds/descriptions/img8.mp3"
+        },
+        "favorite": {
+            "image": "./images/descriptions/img9.png",
+            "sound": "./sounds/descriptions/img9.mp3"
+        },
+        "interesting": {
+            "image": "./images/descriptions/img10.png",
+            "sound": "./sounds/descriptions/img10.mp3"
+        },
+        "exciting": {
+            "image": "./images/descriptions/img11.png",
+            "sound": "./sounds/descriptions/img11.mp3"
+        },
+        "famous": {
+            "image": "./images/descriptions/img12.png",
+            "sound": "./sounds/descriptions/img12.mp3"
+        },
+        "popular": {
+            "image": "./images/descriptions/img13.png",
+            "sound": "./sounds/descriptions/img13.mp3"
+        },
+        "international": {
+            "image": "./images/descriptions/img14.png",
+            "sound": "./sounds/descriptions/img14.mp3"
+        },
+        "fun": {
+            "image": "./images/descriptions/img15.png",
+            "sound": "./sounds/descriptions/img15.mp3"
+        }
+    },
+    "jobs": {
+        "artist": {
+            "image": "./images/jobs/img1.png",
+            "sound": "./sounds/jobs/img1.mp3"
+        },
+        "musician": {
+            "image": "./images/jobs/img2.png",
+            "sound": "./sounds/jobs/img2.mp3"
+        },
+        "singer": {
+            "image": "./images/jobs/img3.png",
+            "sound": "./sounds/jobs/img3.mp3"
+        },
+        "comedian": {
+            "image": "./images/jobs/img4.png",
+            "sound": "./sounds/jobs/img4.mp3"
+        },
+        "doctor": {
+            "image": "./images/jobs/img5.png",
+            "sound": "./sounds/jobs/img5.mp3"
+        },
+        "nurse": {
+            "image": "./images/jobs/img6.png",
+            "sound": "./sounds/jobs/img6.mp3"
+        },
+        "dentist": {
+            "image": "./images/jobs/img7.png",
+            "sound": "./sounds/jobs/img7.mp3"
+        },
+        "vet": {
+            "image": "./images/jobs/img8.png",
+            "sound": "./sounds/jobs/img8.mp3"
+        },
+        "zookeeper": {
+            "image": "./images/jobs/img9.png",
+            "sound": "./sounds/jobs/img9.mp3"
+        },
+        "cook": {
+            "image": "./images/jobs/img10.png",
+            "sound": "./sounds/jobs/img10.mp3"
+        },
+        "baker": {
+            "image": "./images/jobs/img11.png",
+            "sound": "./sounds/jobs/img11.mp3"
+        },
+        "florist": {
+            "image": "./images/jobs/img12.png",
+            "sound": "./sounds/jobs/img12.mp3"
+        },
+        "farmer": {
+            "image": "./images/jobs/img13.png",
+            "sound": "./sounds/jobs/img13.mp3"
+        },
+        "police officer": {
+            "image": "./images/jobs/img14.png",
+            "sound": "./sounds/jobs/img14.mp3"
+        },
+        "fire fighter": {
+            "image": "./images/jobs/img15.png",
+            "sound": "./sounds/jobs/img15.mp3"
+        },
+        "pilot": {
+            "image": "./images/jobs/img16.png",
+            "sound": "./sounds/jobs/img16.mp3"
+        },
+        "flight attendant": {
+            "image": "./images/jobs/img17.png",
+            "sound": "./sounds/jobs/img17.mp3"
+        },
+        "bus driver": {
+            "image": "./images/jobs/img18.png",
+            "sound": "./sounds/jobs/img18.mp3"
+        },
+        "astronaut": {
+            "image": "./images/jobs/img19.png",
+            "sound": "./sounds/jobs/img19.mp3"
+        },
+        "teacher": {
+            "image": "./images/jobs/img20.png",
+            "sound": "./sounds/jobs/img20.mp3"
+        },
+        "scientist": {
+            "image": "./images/jobs/img21.png",
+            "sound": "./sounds/jobs/img21.mp3"
+        },
+        "programmer": {
+            "image": "./images/jobs/img22.png",
+            "sound": "./sounds/jobs/img22.mp3"
+        },
+        "baseball player": {
+            "image": "./images/jobs/img23.png",
+            "sound": "./sounds/jobs/img23.mp3"
+        },
+        "soccer player": {
+            "image": "./images/jobs/img24.png",
+            "sound": "./sounds/jobs/img24.mp3"
+        },
+        "figure skater": {
+            "image": "./images/jobs/img25.png",
+            "sound": "./sounds/jobs/img25.mp3"
+        }
+    },
+    "clubactivities": {
+        "baseball team": {
+            "image": "./images/clubactivities/img1.png",
+            "sound": "./sounds/clubactivities/img1.mp3"
+        },
+        "softball team": {
+            "image": "./images/clubactivities/img2.png",
+            "sound": "./sounds/clubactivities/img2.mp3"
+        },
+        "basketball team": {
+            "image": "./images/clubactivities/img3.png",
+            "sound": "./sounds/clubactivities/img3.mp3"
+        },
+        "volleyball team": {
+            "image": "./images/clubactivities/img4.png",
+            "sound": "./sounds/clubactivities/img4.mp3"
+        },
+        "soccer team": {
+            "image": "./images/clubactivities/img5.png",
+            "sound": "./sounds/clubactivities/img5.mp3"
+        },
+        "tennis team": {
+            "image": "./images/clubactivities/img6.png",
+            "sound": "./sounds/clubactivities/img6.mp3"
+        },
+        "table tennis team": {
+            "image": "./images/clubactivities/img7.png",
+            "sound": "./sounds/clubactivities/img7.mp3"
+        },
+        "badminton team": {
+            "image": "./images/clubactivities/img8.png",
+            "sound": "./sounds/clubactivities/img8.mp3"
+        },
+        "track and field team": {
+            "image": "./images/clubactivities/img9.png",
+            "sound": "./sounds/clubactivities/img9.mp3"
+        },
+        "gymnastics team": {
+            "image": "./images/clubactivities/img10.png",
+            "sound": "./sounds/clubactivities/img10.mp3"
+        },
+        "art club": {
+            "image": "./images/clubactivities/img11.png",
+            "sound": "./sounds/clubactivities/img11.mp3"
+        },
+        "drama club": {
+            "image": "./images/clubactivities/img12.png",
+            "sound": "./sounds/clubactivities/img12.mp3"
+        },
+        "broadcasting club": {
+            "image": "./images/clubactivities/img13.png",
+            "sound": "./sounds/clubactivities/img13.mp3"
+        },
+        "cooking club": {
+            "image": "./images/clubactivities/img14.png",
+            "sound": "./sounds/clubactivities/img14.mp3"
+        },
+        "newspaper club": {
+            "image": "./images/clubactivities/img15.png",
+            "sound": "./sounds/clubactivities/img15.mp3"
+        },
+        "photography club": {
+            "image": "./images/clubactivities/img16.png",
+            "sound": "./sounds/clubactivities/img16.mp3"
+        },
+        "brass band": {
+            "image": "./images/clubactivities/img17.png",
+            "sound": "./sounds/clubactivities/img17.mp3"
+        },
+        "chorus": {
+            "image": "./images/clubactivities/img18.png",
+            "sound": "./sounds/clubactivities/img18.mp3"
+        }
+    },
+    "christmas": {},
+    "autumnforest": {},
+    "goodmorning": {},
+    "ABC": {
+        "A": {
+            "image": "./images/alphabet/img1.png",
+            "sound": "./sounds/alphabet/img1.mp3"
+        },
+        "B": {
+            "image": "./images/alphabet/img2.png",
+            "sound": "./sounds/alphabet/img2.mp3"
+        },
+        "C": {
+            "image": "./images/alphabet/img3.png",
+            "sound": "./sounds/alphabet/img3.mp3"
+        },
+        "D": {
+            "image": "./images/alphabet/img4.png",
+            "sound": "./sounds/alphabet/img4.mp3"
+        },
+        "E": {
+            "image": "./images/alphabet/img5.png",
+            "sound": "./sounds/alphabet/img5.mp3"
+        },
+        "F": {
+            "image": "./images/alphabet/img6.png",
+            "sound": "./sounds/alphabet/img6.mp3"
+        },
+        "G": {
+            "image": "./images/alphabet/img7.png",
+            "sound": "./sounds/alphabet/img7.mp3"
+        },
+        "H": {
+            "image": "./images/alphabet/img8.png",
+            "sound": "./sounds/alphabet/img8.mp3"
+        },
+        "I": {
+            "image": "./images/alphabet/img9.png",
+            "sound": "./sounds/alphabet/img9.mp3"
+        },
+        "J": {
+            "image": "./images/alphabet/img10.png",
+            "sound": "./sounds/alphabet/img10.mp3"
+        },
+        "K": {
+            "image": "./images/alphabet/img11.png",
+            "sound": "./sounds/alphabet/img11.mp3"
+        },
+        "L": {
+            "image": "./images/alphabet/img12.png",
+            "sound": "./sounds/alphabet/img12.mp3"
+        },
+        "M": {
+            "image": "./images/alphabet/img13.png",
+            "sound": "./sounds/alphabet/img13.mp3"
+        },
+        "N": {
+            "image": "./images/alphabet/img14.png",
+            "sound": "./sounds/alphabet/img14.mp3"
+        },
+        "O": {
+            "image": "./images/alphabet/img15.png",
+            "sound": "./sounds/alphabet/img15.mp3"
+        },
+        "P": {
+            "image": "./images/alphabet/img16.png",
+            "sound": "./sounds/alphabet/img16.mp3"
+        },
+        "Q": {
+            "image": "./images/alphabet/img17.png",
+            "sound": "./sounds/alphabet/img17.mp3"
+        },
+        "R": {
+            "image": "./images/alphabet/img18.png",
+            "sound": "./sounds/alphabet/img18.mp3"
+        },
+        "S": {
+            "image": "./images/alphabet/img19.png",
+            "sound": "./sounds/alphabet/img19.mp3"
+        },
+        "T": {
+            "image": "./images/alphabet/img20.png",
+            "sound": "./sounds/alphabet/img20.mp3"
+        },
+        "U": {
+            "image": "./images/alphabet/img21.png",
+            "sound": "./sounds/alphabet/img21.mp3"
+        },
+        "V": {
+            "image": "./images/alphabet/img22.png",
+            "sound": "./sounds/alphabet/img22.mp3"
+        },
+        "W": {
+            "image": "./images/alphabet/img23.png",
+            "sound": "./sounds/alphabet/img23.mp3"
+        },
+        "X": {
+            "image": "./images/alphabet/img24.png",
+            "sound": "./sounds/alphabet/img24.mp3"
+        },
+        "Y": {
+            "image": "./images/alphabet/img25.png",
+            "sound": "./sounds/alphabet/img25.mp3"
+        },
+        "Z": {
+            "image": "./images/alphabet/img26.png",
+            "sound": "./sounds/alphabet/img26.mp3"
+        }
+    },
+    "abc": {
+        "a": {
+            "image": "./images/alphabet/img27.png",
+            "sound": "./sounds/alphabet/img27.mp3"
+        },
+        "b": {
+            "image": "./images/alphabet/img28.png",
+            "sound": "./sounds/alphabet/img28.mp3"
+        },
+        "c": {
+            "image": "./images/alphabet/img29.png",
+            "sound": "./sounds/alphabet/img29.mp3"
+        },
+        "d": {
+            "image": "./images/alphabet/img30.png",
+            "sound": "./sounds/alphabet/img30.mp3"
+        },
+        "e": {
+            "image": "./images/alphabet/img31.png",
+            "sound": "./sounds/alphabet/img31.mp3"
+        },
+        "f": {
+            "image": "./images/alphabet/img32.png",
+            "sound": "./sounds/alphabet/img32.mp3"
+        },
+        "g": {
+            "image": "./images/alphabet/img33.png",
+            "sound": "./sounds/alphabet/img33.mp3"
+        },
+        "h": {
+            "image": "./images/alphabet/img34.png",
+            "sound": "./sounds/alphabet/img34.mp3"
+        },
+        "i": {
+            "image": "./images/alphabet/img35.png",
+            "sound": "./sounds/alphabet/img35.mp3"
+        },
+        "j": {
+            "image": "./images/alphabet/img36.png",
+            "sound": "./sounds/alphabet/img36.mp3"
+        },
+        "k": {
+            "image": "./images/alphabet/img37.png",
+            "sound": "./sounds/alphabet/img37.mp3"
+        },
+        "l": {
+            "image": "./images/alphabet/img38.png",
+            "sound": "./sounds/alphabet/img38.mp3"
+        },
+        "m": {
+            "image": "./images/alphabet/img39.png",
+            "sound": "./sounds/alphabet/img39.mp3"
+        },
+        "n": {
+            "image": "./images/alphabet/img40.png",
+            "sound": "./sounds/alphabet/img40.mp3"
+        },
+        "o": {
+            "image": "./images/alphabet/img41.png",
+            "sound": "./sounds/alphabet/img41.mp3"
+        },
+        "p": {
+            "image": "./images/alphabet/img42.png",
+            "sound": "./sounds/alphabet/img42.mp3"
+        },
+        "q": {
+            "image": "./images/alphabet/img43.png",
+            "sound": "./sounds/alphabet/img43.mp3"
+        },
+        "r": {
+            "image": "./images/alphabet/img44.png",
+            "sound": "./sounds/alphabet/img44.mp3"
+        },
+        "s": {
+            "image": "./images/alphabet/img45.png",
+            "sound": "./sounds/alphabet/img45.mp3"
+        },
+        "t": {
+            "image": "./images/alphabet/img46.png",
+            "sound": "./sounds/alphabet/img46.mp3"
+        },
+        "u": {
+            "image": "./images/alphabet/img47.png",
+            "sound": "./sounds/alphabet/img47.mp3"
+        },
+        "v": {
+            "image": "./images/alphabet/img48.png",
+            "sound": "./sounds/alphabet/img48.mp3"
+        },
+        "w": {
+            "image": "./images/alphabet/img49.png",
+            "sound": "./sounds/alphabet/img49.mp3"
+        },
+        "x": {
+            "image": "./images/alphabet/img50.png",
+            "sound": "./sounds/alphabet/img50.mp3"
+        },
+        "y": {
+            "image": "./images/alphabet/img51.png",
+            "sound": "./sounds/alphabet/img51.mp3"
+        },
+        "z": {
+            "image": "./images/alphabet/img52.png",
+            "sound": "./sounds/alphabet/img52.mp3"
+        }
+    },
+    "lt-times": {
+        "wake up time": {
+            "image": "./images/lt-times/img1.png",
+            "sound": "./sounds/lt-times/img1.mp3"
+        },
+        "breakfast time": {
+            "image": "./images/lt-times/img2.png",
+            "sound": "./sounds/lt-times/img2.mp3"
+        },
+        "study time": {
+            "image": "./images/lt-times/img3.png",
+            "sound": "./sounds/lt-times/img3.mp3"
+        },
+        "lunch time": {
+            "image": "./images/lt-times/img4.png",
+            "sound": "./sounds/lt-times/img4.mp3"
+        },
+        "snack time": {
+            "image": "./images/lt-times/img5.png",
+            "sound": "./sounds/lt-times/img5.mp3"
+        },
+        "homework time": {
+            "image": "./images/lt-times/img6.png",
+            "sound": "./sounds/lt-times/img6.mp3"
+        },
+        "dinner time": {
+            "image": "./images/lt-times/img7.png",
+            "sound": "./sounds/lt-times/img7.mp3"
+        },
+        "bath time": {
+            "image": "./images/lt-times/img8.png",
+            "sound": "./sounds/lt-times/img8.mp3"
+        },
+        "bed time": {
+            "image": "./images/lt-times/img9.png",
+            "sound": "./sounds/lt-times/img9.mp3"
+        },
+        "dream time": {
+            "image": "./images/lt-times/img10.png",
+            "sound": "./sounds/lt-times/img10.mp3"
+        }
+    },
+    "lt-months": {
+        "january": {
+            "image": "./images/lt-months/img1.png",
+            "sound": "./sounds/lt-months/img1.mp3"
+        },
+        "february": {
+            "image": "./images/lt-months/img2.png",
+            "sound": "./sounds/lt-months/img2.mp3"
+        },
+        "march": {
+            "image": "./images/lt-months/img3.png",
+            "sound": "./sounds/lt-months/img3.mp3"
+        },
+        "april": {
+            "image": "./images/lt-months/img4.png",
+            "sound": "./sounds/lt-months/img4.mp3"
+        },
+        "may": {
+            "image": "./images/lt-months/img5.png",
+            "sound": "./sounds/lt-months/img5.mp3"
+        },
+        "june": {
+            "image": "./images/lt-months/img6.png",
+            "sound": "./sounds/lt-months/img6.mp3"
+        },
+        "july": {
+            "image": "./images/lt-months/img7.png",
+            "sound": "./sounds/lt-months/img7.mp3"
+        },
+        "august": {
+            "image": "./images/lt-months/img8.png",
+            "sound": "./sounds/lt-months/img8.mp3"
+        },
+        "september": {
+            "image": "./images/lt-months/img9.png",
+            "sound": "./sounds/lt-months/img9.mp3"
+        },
+        "october": {
+            "image": "./images/lt-months/img10.png",
+            "sound": "./sounds/lt-months/img10.mp3"
+        },
+        "november": {
+            "image": "./images/lt-months/img11.png",
+            "sound": "./sounds/lt-months/img11.mp3"
+        },
+        "december": {
+            "image": "./images/lt-months/img12.png",
+            "sound": "./sounds/lt-months/img12.mp3"
+        }
+    },
+    "lt-stationery": {
+        "calendar": {
+            "image": "./images/lt-stationery/img1.png",
+            "sound": "./sounds/lt-stationery/img1.mp3"
+        },
+        "crayon": {
+            "image": "./images/lt-stationery/img2.png",
+            "sound": "./sounds/lt-stationery/img2.mp3"
+        },
+        "eraser": {
+            "image": "./images/lt-stationery/img3.png",
+            "sound": "./sounds/lt-stationery/img3.mp3"
+        },
+        "glue": {
+            "image": "./images/lt-stationery/img4.png",
+            "sound": "./sounds/lt-stationery/img4.mp3"
+        },
+        "magnet": {
+            "image": "./images/lt-stationery/img5.png",
+            "sound": "./sounds/lt-stationery/img5.mp3"
+        },
+        "marker": {
+            "image": "./images/lt-stationery/img6.png",
+            "sound": "./sounds/lt-stationery/img6.mp3"
+        },
+        "notebook": {
+            "image": "./images/lt-stationery/img7.png",
+            "sound": "./sounds/lt-stationery/img7.mp3"
+        },
+        "pen": {
+            "image": "./images/lt-stationery/img8.png",
+            "sound": "./sounds/lt-stationery/img8.mp3"
+        },
+        "pencil": {
+            "image": "./images/lt-stationery/img9.png",
+            "sound": "./sounds/lt-stationery/img9.mp3"
+        },
+        "pencil case": {
+            "image": "./images/lt-stationery/img10.png",
+            "sound": "./sounds/lt-stationery/img10.mp3"
+        },
+        "pencil sharpener": {
+            "image": "./images/lt-stationery/img11.png",
+            "sound": "./sounds/lt-stationery/img11.mp3"
+        },
+        "ruler": {
+            "image": "./images/lt-stationery/img12.png",
+            "sound": "./sounds/lt-stationery/img12.mp3"
+        },
+        "scissors": {
+            "image": "./images/lt-stationery/img13.png",
+            "sound": "./sounds/lt-stationery/img13.mp3"
+        },
+        "stapler": {
+            "image": "./images/lt-stationery/img14.png",
+            "sound": "./sounds/lt-stationery/img14.mp3"
+        }
+    },
+    "lt-descriptions": {
+        "active": {
+            "image": "./images/lt-descriptions/img1.png",
+            "sound": "./sounds/lt-descriptions/img1.mp3"
+        },
+        "beautiful": {
+            "image": "./images/lt-descriptions/img2.png",
+            "sound": "./sounds/lt-descriptions/img2.mp3"
+        },
+        "big": {
+            "image": "./images/lt-descriptions/img3.png",
+            "sound": "./sounds/lt-descriptions/img3.mp3"
+        },
+        "brave": {
+            "image": "./images/lt-descriptions/img4.png",
+            "sound": "./sounds/lt-descriptions/img4.mp3"
+        },
+        "cool": {
+            "image": "./images/lt-descriptions/img5.png",
+            "sound": "./sounds/lt-descriptions/img5.mp3"
+        },
+        "exciting": {
+            "image": "./images/lt-descriptions/img6.png",
+            "sound": "./sounds/lt-descriptions/img6.mp3"
+        },
+        "fantastic": {
+            "image": "./images/lt-descriptions/img7.png",
+            "sound": "./sounds/lt-descriptions/img7.mp3"
+        },
+        "friendly": {
+            "image": "./images/lt-descriptions/img8.png",
+            "sound": "./sounds/lt-descriptions/img8.mp3"
+        },
+        "fun": {
+            "image": "./images/lt-descriptions/img9.png",
+            "sound": "./sounds/lt-descriptions/img9.mp3"
+        },
+        "furry": {
+            "image": "./images/lt-descriptions/img10.png",
+            "sound": "./sounds/lt-descriptions/img10.mp3"
+        },
+        "gentle": {
+            "image": "./images/lt-descriptions/img11.png",
+            "sound": "./sounds/lt-descriptions/img11.mp3"
+        },
+        "great": {
+            "image": "./images/lt-descriptions/img12.png",
+            "sound": "./sounds/lt-descriptions/img12.mp3"
+        },
+        "kind": {
+            "image": "./images/lt-descriptions/img13.png",
+            "sound": "./sounds/lt-descriptions/img13.mp3"
+        },
+        "long": {
+            "image": "./images/lt-descriptions/img14.png",
+            "sound": "./sounds/lt-descriptions/img14.mp3"
+        },
+        "new": {
+            "image": "./images/lt-descriptions/img15.png",
+            "sound": "./sounds/lt-descriptions/img15.mp3"
+        },
+        "nice": {
+            "image": "./images/lt-descriptions/img16.png",
+            "sound": "./sounds/lt-descriptions/img16.mp3"
+        },
+        "old": {
+            "image": "./images/lt-descriptions/img17.png",
+            "sound": "./sounds/lt-descriptions/img17.mp3"
+        },
+        "round": {
+            "image": "./images/lt-descriptions/img18.png",
+            "sound": "./sounds/lt-descriptions/img18.mp3"
+        },
+        "scary": {
+            "image": "./images/lt-descriptions/img19.png",
+            "sound": "./sounds/lt-descriptions/img19.mp3"
+        },
+        "shiny": {
+            "image": "./images/lt-descriptions/img20.png",
+            "sound": "./sounds/lt-descriptions/img20.mp3"
+        },
+        "short": {
+            "image": "./images/lt-descriptions/img21.png",
+            "sound": "./sounds/lt-descriptions/img21.mp3"
+        },
+        "small": {
+            "image": "./images/lt-descriptions/img22.png",
+            "sound": "./sounds/lt-descriptions/img22.mp3"
+        },
+        "wonderful": {
+            "image": "./images/lt-descriptions/img23.png",
+            "sound": "./sounds/lt-descriptions/img23.mp3"
+        }
+    },
+    "lt-instruments": {
+        "drum": {
+            "image": "./images/lt-instruments/img1.png",
+            "sound": "./sounds/lt-instruments/img1.mp3"
+        },
+        "guitar": {
+            "image": "./images/lt-instruments/img2.png",
+            "sound": "./sounds/lt-instruments/img2.mp3"
+        },
+        "piano": {
+            "image": "./images/lt-instruments/img3.png",
+            "sound": "./sounds/lt-instruments/img3.mp3"
+        },
+        "recorder": {
+            "image": "./images/lt-instruments/img4.png",
+            "sound": "./sounds/lt-instruments/img4.mp3"
+        },
+        "violin": {
+            "image": "./images/lt-instruments/img5.png",
+            "sound": "./sounds/lt-instruments/img5.mp3"
+        }
+    },
+    "lt-shapes": {
+        "blue circle": {
+            "image": "./images/lt-shapes/img1.png",
+            "sound": "./sounds/lt-shapes/img1.mp3"
+        },
+        "pink circle": {
+            "image": "./images/lt-shapes/img2.png",
+            "sound": "./sounds/lt-shapes/img2.mp3"
+        },
+        "purple circle": {
+            "image": "./images/lt-shapes/img3.png",
+            "sound": "./sounds/lt-shapes/img3.mp3"
+        },
+        "red circle": {
+            "image": "./images/lt-shapes/img4.png",
+            "sound": "./sounds/lt-shapes/img4.mp3"
+        },
+        "black diamond": {
+            "image": "./images/lt-shapes/img5.png",
+            "sound": "./sounds/lt-shapes/img5.mp3"
+        },
+        "blue diamond": {
+            "image": "./images/lt-shapes/img6.png",
+            "sound": "./sounds/lt-shapes/img6.mp3"
+        },
+        "green diamond": {
+            "image": "./images/lt-shapes/img7.png",
+            "sound": "./sounds/lt-shapes/img7.mp3"
+        },
+        "purple diamond": {
+            "image": "./images/lt-shapes/img8.png",
+            "sound": "./sounds/lt-shapes/img8.mp3"
+        },
+        "blue heart": {
+            "image": "./images/lt-shapes/img9.png",
+            "sound": "./sounds/lt-shapes/img9.mp3"
+        },
+        "pink heart": {
+            "image": "./images/lt-shapes/img10.png",
+            "sound": "./sounds/lt-shapes/img10.mp3"
+        },
+        "purple heart": {
+            "image": "./images/lt-shapes/img11.png",
+            "sound": "./sounds/lt-shapes/img11.mp3"
+        },
+        "red heart": {
+            "image": "./images/lt-shapes/img12.png",
+            "sound": "./sounds/lt-shapes/img12.mp3"
+        },
+        "black rectangle": {
+            "image": "./images/lt-shapes/img13.png",
+            "sound": "./sounds/lt-shapes/img13.mp3"
+        },
+        "pink rectangle": {
+            "image": "./images/lt-shapes/img14.png",
+            "sound": "./sounds/lt-shapes/img14.mp3"
+        },
+        "white rectangle": {
+            "image": "./images/lt-shapes/img15.png",
+            "sound": "./sounds/lt-shapes/img15.mp3"
+        },
+        "yellow rectangle": {
+            "image": "./images/lt-shapes/img16.png",
+            "sound": "./sounds/lt-shapes/img16.mp3"
+        },
+        "blue square": {
+            "image": "./images/lt-shapes/img17.png",
+            "sound": "./sounds/lt-shapes/img17.mp3"
+        },
+        "green square": {
+            "image": "./images/lt-shapes/img18.png",
+            "sound": "./sounds/lt-shapes/img18.mp3"
+        },
+        "white square": {
+            "image": "./images/lt-shapes/img19.png",
+            "sound": "./sounds/lt-shapes/img19.mp3"
+        },
+        "yellow square": {
+            "image": "./images/lt-shapes/img20.png",
+            "sound": "./sounds/lt-shapes/img20.mp3"
+        },
+        "green star": {
+            "image": "./images/lt-shapes/img21.png",
+            "sound": "./sounds/lt-shapes/img21.mp3"
+        },
+        "red star": {
+            "image": "./images/lt-shapes/img22.png",
+            "sound": "./sounds/lt-shapes/img22.mp3"
+        },
+        "white star": {
+            "image": "./images/lt-shapes/img23.png",
+            "sound": "./sounds/lt-shapes/img23.mp3"
+        },
+        "yellow star": {
+            "image": "./images/lt-shapes/img24.png",
+            "sound": "./sounds/lt-shapes/img24.mp3"
+        },
+        "black triangle": {
+            "image": "./images/lt-shapes/img25.png",
+            "sound": "./sounds/lt-shapes/img25.mp3"
+        },
+        "pink triangle": {
+            "image": "./images/lt-shapes/img26.png",
+            "sound": "./sounds/lt-shapes/img26.mp3"
+        },
+        "purple triangle": {
+            "image": "./images/lt-shapes/img27.png",
+            "sound": "./sounds/lt-shapes/img27.mp3"
+        },
+        "red triangle": {
+            "image": "./images/lt-shapes/img28.png",
+            "sound": "./sounds/lt-shapes/img28.mp3"
+        },
+        "cirlce": {
+            "image": "./images/lt-shapes/img29.png",
+            "sound": "./sounds/lt-shapes/img29.mp3"
+        },
+        "diamond": {
+            "image": "./images/lt-shapes/img30.png",
+            "sound": "./sounds/lt-shapes/img30.mp3"
+        },
+        "heart": {
+            "image": "./images/lt-shapes/img31.png",
+            "sound": "./sounds/lt-shapes/img31.mp3"
+        },
+        "rectangle": {
+            "image": "./images/lt-shapes/img32.png",
+            "sound": "./sounds/lt-shapes/img32.mp3"
+        },
+        "square": {
+            "image": "./images/lt-shapes/img33.png",
+            "sound": "./sounds/lt-shapes/img33.mp3"
+        },
+        "star": {
+            "image": "./images/lt-shapes/img34.png",
+            "sound": "./sounds/lt-shapes/img34.mp3"
+        },
+        "triangle": {
+            "image": "./images/lt-shapes/img35.png",
+            "sound": "./sounds/lt-shapes/img35.mp3"
+        },
+        "cross": {
+            "image": "./images/lt-shapes/img36.png",
+            "sound": "./sounds/lt-shapes/img36.mp3"
+        }
+    },
+    "lt-fruitandveg": {
+        "apple": {
+            "image": "./images/lt-fruitandveg/img1.png",
+            "sound": "./sounds/lt-fruitandveg/img1.mp3"
+        },
+        "banana": {
+            "image": "./images/lt-fruitandveg/img2.png",
+            "sound": "./sounds/lt-fruitandveg/img2.mp3"
+        },
+        "brocolli": {
+            "image": "./images/lt-fruitandveg/img3.png",
+            "sound": "./sounds/lt-fruitandveg/img3.mp3"
+        },
+        "cabbage": {
+            "image": "./images/lt-fruitandveg/img4.png",
+            "sound": "./sounds/lt-fruitandveg/img4.mp3"
+        },
+        "carrot": {
+            "image": "./images/lt-fruitandveg/img5.png",
+            "sound": "./sounds/lt-fruitandveg/img5.mp3"
+        },
+        "cherry": {
+            "image": "./images/lt-fruitandveg/img6.png",
+            "sound": "./sounds/lt-fruitandveg/img6.mp3"
+        },
+        "corn": {
+            "image": "./images/lt-fruitandveg/img7.png",
+            "sound": "./sounds/lt-fruitandveg/img7.mp3"
+        },
+        "cucumber": {
+            "image": "./images/lt-fruitandveg/img8.png",
+            "sound": "./sounds/lt-fruitandveg/img8.mp3"
+        },
+        "grapes": {
+            "image": "./images/lt-fruitandveg/img9.png",
+            "sound": "./sounds/lt-fruitandveg/img9.mp3"
+        },
+        "green pepper": {
+            "image": "./images/lt-fruitandveg/img10.png",
+            "sound": "./sounds/lt-fruitandveg/img10.mp3"
+        },
+        "kiwi fruit": {
+            "image": "./images/lt-fruitandveg/img11.png",
+            "sound": "./sounds/lt-fruitandveg/img11.mp3"
+        },
+        "lemon": {
+            "image": "./images/lt-fruitandveg/img12.png",
+            "sound": "./sounds/lt-fruitandveg/img12.mp3"
+        },
+        "lettuce": {
+            "image": "./images/lt-fruitandveg/img13.png",
+            "sound": "./sounds/lt-fruitandveg/img13.mp3"
+        },
+        "melon": {
+            "image": "./images/lt-fruitandveg/img14.png",
+            "sound": "./sounds/lt-fruitandveg/img14.mp3"
+        },
+        "mushroom": {
+            "image": "./images/lt-fruitandveg/img15.png",
+            "sound": "./sounds/lt-fruitandveg/img15.mp3"
+        },
+        "onion": {
+            "image": "./images/lt-fruitandveg/img16.png",
+            "sound": "./sounds/lt-fruitandveg/img16.mp3"
+        },
+        "orange": {
+            "image": "./images/lt-fruitandveg/img17.png",
+            "sound": "./sounds/lt-fruitandveg/img17.mp3"
+        },
+        "peach": {
+            "image": "./images/lt-fruitandveg/img18.png",
+            "sound": "./sounds/lt-fruitandveg/img18.mp3"
+        },
+        "pineapple": {
+            "image": "./images/lt-fruitandveg/img19.png",
+            "sound": "./sounds/lt-fruitandveg/img19.mp3"
+        },
+        "potato": {
+            "image": "./images/lt-fruitandveg/img20.png",
+            "sound": "./sounds/lt-fruitandveg/img20.mp3"
+        },
+        "radish": {
+            "image": "./images/lt-fruitandveg/img21.png",
+            "sound": "./sounds/lt-fruitandveg/img21.mp3"
+        },
+        "strawberry": {
+            "image": "./images/lt-fruitandveg/img22.png",
+            "sound": "./sounds/lt-fruitandveg/img22.mp3"
+        },
+        "tomato": {
+            "image": "./images/lt-fruitandveg/img23.png",
+            "sound": "./sounds/lt-fruitandveg/img23.mp3"
+        },
+        "watermelon": {
+            "image": "./images/lt-fruitandveg/img24.png",
+            "sound": "./sounds/lt-fruitandveg/img24.mp3"
+        }
+    },
+    "lt-feelings": {
+        "fine": {
+            "image": "./images/lt-feelings/img1.png",
+            "sound": "./sounds/lt-feelings/img1.mp3"
+        },
+        "good": {
+            "image": "./images/lt-feelings/img2.png",
+            "sound": "./sounds/lt-feelings/img2.mp3"
+        },
+        "happy": {
+            "image": "./images/lt-feelings/img3.png",
+            "sound": "./sounds/lt-feelings/img3.mp3"
+        },
+        "hungry": {
+            "image": "./images/lt-feelings/img4.png",
+            "sound": "./sounds/lt-feelings/img4.mp3"
+        },
+        "sad": {
+            "image": "./images/lt-feelings/img5.png",
+            "sound": "./sounds/lt-feelings/img5.mp3"
+        },
+        "sleepy": {
+            "image": "./images/lt-feelings/img6.png",
+            "sound": "./sounds/lt-feelings/img6.mp3"
+        },
+        "tired": {
+            "image": "./images/lt-feelings/img7.png",
+            "sound": "./sounds/lt-feelings/img7.mp3"
+        },
+        "busy": {
+            "image": "./images/lt-feelings/img8.png",
+            "sound": "./sounds/lt-feelings/img8.mp3"
+        }
+    },
+    "lt-animals": {
+        "bear": {
+            "image": "./images/lt-animals/img1.png",
+            "sound": "./sounds/lt-animals/img1.mp3"
+        },
+        "cat": {
+            "image": "./images/lt-animals/img2.png",
+            "sound": "./sounds/lt-animals/img2.mp3"
+        },
+        "chicken": {
+            "image": "./images/lt-animals/img3.png",
+            "sound": "./sounds/lt-animals/img3.mp3"
+        },
+        "cow": {
+            "image": "./images/lt-animals/img4.png",
+            "sound": "./sounds/lt-animals/img4.mp3"
+        },
+        "dog": {
+            "image": "./images/lt-animals/img5.png",
+            "sound": "./sounds/lt-animals/img5.mp3"
+        },
+        "dragon": {
+            "image": "./images/lt-animals/img6.png",
+            "sound": "./sounds/lt-animals/img6.mp3"
+        },
+        "elephant": {
+            "image": "./images/lt-animals/img7.png",
+            "sound": "./sounds/lt-animals/img7.mp3"
+        },
+        "fish": {
+            "image": "./images/lt-animals/img8.png",
+            "sound": "./sounds/lt-animals/img8.mp3"
+        },
+        "frog": {
+            "image": "./images/lt-animals/img9.png",
+            "sound": "./sounds/lt-animals/img9.mp3"
+        },
+        "horse": {
+            "image": "./images/lt-animals/img10.png",
+            "sound": "./sounds/lt-animals/img10.mp3"
+        },
+        "monkey": {
+            "image": "./images/lt-animals/img11.png",
+            "sound": "./sounds/lt-animals/img11.mp3"
+        },
+        "butterfly": {
+            "image": "./images/lt-animals/img12.png",
+            "sound": "./sounds/lt-animals/img12.mp3"
+        },
+        "mouse": {
+            "image": "./images/lt-animals/img13.png",
+            "sound": "./sounds/lt-animals/img13.mp3"
+        },
+        "panda": {
+            "image": "./images/lt-animals/img14.png",
+            "sound": "./sounds/lt-animals/img14.mp3"
+        },
+        "rabbit": {
+            "image": "./images/lt-animals/img15.png",
+            "sound": "./sounds/lt-animals/img15.mp3"
+        },
+        "sheep": {
+            "image": "./images/lt-animals/img16.png",
+            "sound": "./sounds/lt-animals/img16.mp3"
+        },
+        "snake": {
+            "image": "./images/lt-animals/img17.png",
+            "sound": "./sounds/lt-animals/img17.mp3"
+        },
+        "spider": {
+            "image": "./images/lt-animals/img18.png",
+            "sound": "./sounds/lt-animals/img18.mp3"
+        },
+        "tiger": {
+            "image": "./images/lt-animals/img19.png",
+            "sound": "./sounds/lt-animals/img19.mp3"
+        },
+        "wild boar": {
+            "image": "./images/lt-animals/img20.png",
+            "sound": "./sounds/lt-animals/img20.mp3"
+        }
+    },
+    "lt-time": {
+        "eight": {
+            "image": "./images/lt-time/img1.png",
+            "sound": "./sounds/lt-time/img1.mp3"
+        },
+        "six": {
+            "image": "./images/lt-time/img2.png",
+            "sound": "./sounds/lt-time/img2.mp3"
+        },
+        "ten": {
+            "image": "./images/lt-time/img3.png",
+            "sound": "./sounds/lt-time/img3.mp3"
+        },
+        "three": {
+            "image": "./images/lt-time/img4.png",
+            "sound": "./sounds/lt-time/img4.mp3"
+        },
+        "twelve": {
+            "image": "./images/lt-time/img5.png",
+            "sound": "./sounds/lt-time/img5.mp3"
+        }
+    },
+    "lt-body": {
+        "ear": {
+            "image": "./images/lt-body/img1.png",
+            "sound": "./sounds/lt-body/img1.mp3"
+        },
+        "ears": {
+            "image": "./images/lt-body/img2.png",
+            "sound": "./sounds/lt-body/img2.mp3"
+        },
+        "eye": {
+            "image": "./images/lt-body/img3.png",
+            "sound": "./sounds/lt-body/img3.mp3"
+        },
+        "eyes": {
+            "image": "./images/lt-body/img4.png",
+            "sound": "./sounds/lt-body/img4.mp3"
+        },
+        "face": {
+            "image": "./images/lt-body/img5.png",
+            "sound": "./sounds/lt-body/img5.mp3"
+        },
+        "hair": {
+            "image": "./images/lt-body/img6.png",
+            "sound": "./sounds/lt-body/img6.mp3"
+        },
+        "hand": {
+            "image": "./images/lt-body/img7.png",
+            "sound": "./sounds/lt-body/img7.mp3"
+        },
+        "head": {
+            "image": "./images/lt-body/img8.png",
+            "sound": "./sounds/lt-body/img8.mp3"
+        },
+        "knee": {
+            "image": "./images/lt-body/img9.png",
+            "sound": "./sounds/lt-body/img9.mp3"
+        },
+        "knees": {
+            "image": "./images/lt-body/img10.png",
+            "sound": "./sounds/lt-body/img10.mp3"
+        },
+        "leg": {
+            "image": "./images/lt-body/img11.png",
+            "sound": "./sounds/lt-body/img11.mp3"
+        },
+        "teeth": {
+            "image": "./images/lt-body/img13.png",
+            "sound": "./sounds/lt-body/img13.mp3"
+        },
+        "nose": {
+            "image": "./images/lt-body/img15.png",
+            "sound": "./sounds/lt-body/img15.mp3"
+        },
+        "shoulder": {
+            "image": "./images/lt-body/img16.png",
+            "sound": "./sounds/lt-body/img16.mp3"
+        },
+        "shoulders": {
+            "image": "./images/lt-body/img17.png",
+            "sound": "./sounds/lt-body/img17.mp3"
+        },
+        "mouth": {
+            "image": "./images/lt-body/img18.png",
+            "sound": "./sounds/lt-body/img18.mp3"
+        },
+        "toe": {
+            "image": "./images/lt-body/img19.png",
+            "sound": "./sounds/lt-body/img19.mp3"
+        },
+        "toes": {
+            "image": "./images/lt-body/img20.png",
+            "sound": "./sounds/lt-body/img20.mp3"
+        }
+    },
+    "lt-school": {
+        "arts and crafts room": {
+            "image": "./images/lt-school/img1.png",
+            "sound": "./sounds/lt-school/img1.mp3"
+        },
+        "classroom": {
+            "image": "./images/lt-school/img2.png",
+            "sound": "./sounds/lt-school/img2.mp3"
+        },
+        "computer room": {
+            "image": "./images/lt-school/img3.png",
+            "sound": "./sounds/lt-school/img3.mp3"
+        },
+        "cooking room": {
+            "image": "./images/lt-school/img4.png",
+            "sound": "./sounds/lt-school/img4.mp3"
+        },
+        "entrance": {
+            "image": "./images/lt-school/img5.png",
+            "sound": "./sounds/lt-school/img5.mp3"
+        },
+        "gym": {
+            "image": "./images/lt-school/img6.png",
+            "sound": "./sounds/lt-school/img6.mp3"
+        },
+        "library": {
+            "image": "./images/lt-school/img7.png",
+            "sound": "./sounds/lt-school/img7.mp3"
+        },
+        "lunch room": {
+            "image": "./images/lt-school/img8.png",
+            "sound": "./sounds/lt-school/img8.mp3"
+        },
+        "music room": {
+            "image": "./images/lt-school/img9.png",
+            "sound": "./sounds/lt-school/img9.mp3"
+        },
+        "playground": {
+            "image": "./images/lt-school/img10.png",
+            "sound": "./sounds/lt-school/img10.mp3"
+        },
+        "restroom": {
+            "image": "./images/lt-school/img11.png",
+            "sound": "./sounds/lt-school/img11.mp3"
+        },
+        "school nurses office": {
+            "image": "./images/lt-school/img12.png",
+            "sound": "./sounds/lt-school/img12.mp3"
+        },
+        "school office": {
+            "image": "./images/lt-school/img13.png",
+            "sound": "./sounds/lt-school/img13.mp3"
+        },
+        "school principals office": {
+            "image": "./images/lt-school/img14.png",
+            "sound": "./sounds/lt-school/img14.mp3"
+        },
+        "science room": {
+            "image": "./images/lt-school/img15.png",
+            "sound": "./sounds/lt-school/img15.mp3"
+        },
+        "teachers office": {
+            "image": "./images/lt-school/img16.png",
+            "sound": "./sounds/lt-school/img16.mp3"
+        }
+    },
+    "lt-jobs": {
+        "artist": {
+            "image": "./images/lt-jobs/img1.png",
+            "sound": "./sounds/lt-jobs/img1.mp3"
+        },
+        "astronaut": {
+            "image": "./images/lt-jobs/img2.png",
+            "sound": "./sounds/lt-jobs/img2.mp3"
+        },
+        "baker": {
+            "image": "./images/lt-jobs/img3.png",
+            "sound": "./sounds/lt-jobs/img3.mp3"
+        },
+        "baseball player": {
+            "image": "./images/lt-jobs/img4.png",
+            "sound": "./sounds/lt-jobs/img4.mp3"
+        },
+        "bus driver": {
+            "image": "./images/lt-jobs/img5.png",
+            "sound": "./sounds/lt-jobs/img5.mp3"
+        },
+        "comedian": {
+            "image": "./images/lt-jobs/img6.png",
+            "sound": "./sounds/lt-jobs/img6.mp3"
+        },
+        "cook": {
+            "image": "./images/lt-jobs/img7.png",
+            "sound": "./sounds/lt-jobs/img7.mp3"
+        },
+        "dentist": {
+            "image": "./images/lt-jobs/img8.png",
+            "sound": "./sounds/lt-jobs/img8.mp3"
+        },
+        "doctor": {
+            "image": "./images/lt-jobs/img9.png",
+            "sound": "./sounds/lt-jobs/img9.mp3"
+        },
+        "farmer": {
+            "image": "./images/lt-jobs/img10.png",
+            "sound": "./sounds/lt-jobs/img10.mp3"
+        },
+        "figure skater": {
+            "image": "./images/lt-jobs/img11.png",
+            "sound": "./sounds/lt-jobs/img11.mp3"
+        },
+        "fire fighter": {
+            "image": "./images/lt-jobs/img12.png",
+            "sound": "./sounds/lt-jobs/img12.mp3"
+        },
+        "flight attendant": {
+            "image": "./images/lt-jobs/img13.png",
+            "sound": "./sounds/lt-jobs/img13.mp3"
+        },
+        "florist": {
+            "image": "./images/lt-jobs/img14.png",
+            "sound": "./sounds/lt-jobs/img14.mp3"
+        },
+        "pilot": {
+            "image": "./images/lt-jobs/img15.png",
+            "sound": "./sounds/lt-jobs/img15.mp3"
+        },
+        "police officer": {
+            "image": "./images/lt-jobs/img16.png",
+            "sound": "./sounds/lt-jobs/img16.mp3"
+        },
+        "school nurse": {
+            "image": "./images/lt-jobs/img17.png",
+            "sound": "./sounds/lt-jobs/img17.mp3"
+        },
+        "school principal": {
+            "image": "./images/lt-jobs/img18.png",
+            "sound": "./sounds/lt-jobs/img18.mp3"
+        },
+        "singer": {
+            "image": "./images/lt-jobs/img19.png",
+            "sound": "./sounds/lt-jobs/img19.mp3"
+        },
+        "soccer player": {
+            "image": "./images/lt-jobs/img20.png",
+            "sound": "./sounds/lt-jobs/img20.mp3"
+        },
+        "teacher": {
+            "image": "./images/lt-jobs/img21.png",
+            "sound": "./sounds/lt-jobs/img21.mp3"
+        },
+        "vet": {
+            "image": "./images/lt-jobs/img22.png",
+            "sound": "./sounds/lt-jobs/img22.mp3"
+        }
+    },
+    "lt-drinks": {
+        "coffee": {
+            "image": "./images/lt-drinks/img1.png",
+            "sound": "./sounds/lt-drinks/img1.mp3"
+        },
+        "green tea": {
+            "image": "./images/lt-drinks/img2.png",
+            "sound": "./sounds/lt-drinks/img2.mp3"
+        },
+        "juice": {
+            "image": "./images/lt-drinks/img3.png",
+            "sound": "./sounds/lt-drinks/img3.mp3"
+        },
+        "milk": {
+            "image": "./images/lt-drinks/img5.png",
+            "sound": "./sounds/lt-drinks/img5.mp3"
+        },
+        "mineral water": {
+            "image": "./images/lt-drinks/img6.png",
+            "sound": "./sounds/lt-drinks/img6.mp3"
+        },
+        "orange juice": {
+            "image": "./images/lt-drinks/img7.png",
+            "sound": "./sounds/lt-drinks/img7.mp3"
+        },
+        "soda pop": {
+            "image": "./images/lt-drinks/img8.png",
+            "sound": "./sounds/lt-drinks/img8.mp3"
+        },
+        "tea": {
+            "image": "./images/lt-drinks/img9.png",
+            "sound": "./sounds/lt-drinks/img9.mp3"
+        }
+    },
+    "lt-dailyactivities": {
+        "brush my teeth": {
+            "image": "./images/lt-dailyactivities/img1.png",
+            "sound": "./sounds/lt-dailyactivities/img1.mp3"
+        },
+        "check my schoolbag": {
+            "image": "./images/lt-dailyactivities/img2.png",
+            "sound": "./sounds/lt-dailyactivities/img2.mp3"
+        },
+        "do my homework": {
+            "image": "./images/lt-dailyactivities/img3.png",
+            "sound": "./sounds/lt-dailyactivities/img3.mp3"
+        },
+        "finish my dinner": {
+            "image": "./images/lt-dailyactivities/img4.png",
+            "sound": "./sounds/lt-dailyactivities/img4.mp3"
+        },
+        "go home": {
+            "image": "./images/lt-dailyactivities/img5.png",
+            "sound": "./sounds/lt-dailyactivities/img5.mp3"
+        },
+        "go to school": {
+            "image": "./images/lt-dailyactivities/img6.png",
+            "sound": "./sounds/lt-dailyactivities/img6.mp3"
+        },
+        "leave my house": {
+            "image": "./images/lt-dailyactivities/img7.png",
+            "sound": "./sounds/lt-dailyactivities/img7.mp3"
+        },
+        "put away my futon": {
+            "image": "./images/lt-dailyactivities/img8.png",
+            "sound": "./sounds/lt-dailyactivities/img8.mp3"
+        },
+        "take out the garbage": {
+            "image": "./images/lt-dailyactivities/img9.png",
+            "sound": "./sounds/lt-dailyactivities/img9.mp3"
+        },
+        "wash my face": {
+            "image": "./images/lt-dailyactivities/img10.png",
+            "sound": "./sounds/lt-dailyactivities/img10.mp3"
+        }
+    },
+    "lt-activities": {
+        "camping": {
+            "image": "./images/lt-activities/img1.png",
+            "sound": "./sounds/lt-activities/img1.mp3"
+        },
+        "fishing": {
+            "image": "./images/lt-activities/img2.png",
+            "sound": "./sounds/lt-activities/img2.mp3"
+        },
+        "hiking": {
+            "image": "./images/lt-activities/img3.png",
+            "sound": "./sounds/lt-activities/img3.mp3"
+        },
+        "jogging": {
+            "image": "./images/lt-activities/img4.png",
+            "sound": "./sounds/lt-activities/img4.mp3"
+        },
+        "jump rope": {
+            "image": "./images/lt-activities/img5.png",
+            "sound": "./sounds/lt-activities/img5.mp3"
+        },
+        "make a snowman": {
+            "image": "./images/lt-activities/img6.png",
+            "sound": "./sounds/lt-activities/img6.mp3"
+        },
+        "play cards": {
+            "image": "./images/lt-activities/img7.png",
+            "sound": "./sounds/lt-activities/img7.mp3"
+        },
+        "play dodgeball": {
+            "image": "./images/lt-activities/img8.png",
+            "sound": "./sounds/lt-activities/img8.mp3"
+        },
+        "play": {
+            "image": "./images/lt-activities/img9.png",
+            "sound": "./sounds/lt-activities/img9.mp3"
+        },
+        "play tag": {
+            "image": "./images/lt-activities/img10.png",
+            "sound": "./sounds/lt-activities/img10.mp3"
+        },
+        "read books": {
+            "image": "./images/lt-activities/img11.png",
+            "sound": "./sounds/lt-activities/img11.mp3"
+        },
+        "go shopping": {
+            "image": "./images/lt-activities/img12.png",
+            "sound": "./sounds/lt-activities/img12.mp3"
+        },
+        "skating": {
+            "image": "./images/lt-activities/img13.png",
+            "sound": "./sounds/lt-activities/img13.mp3"
+        },
+        "skiing": {
+            "image": "./images/lt-activities/img14.png",
+            "sound": "./sounds/lt-activities/img14.mp3"
+        },
+        "ride a unicycle": {
+            "image": "./images/lt-activities/img15.png",
+            "sound": "./sounds/lt-activities/img15.mp3"
+        }
+    },
+    "lt-commonitems": {
+        "bag": {
+            "image": "./images/lt-commonitems/img1.png",
+            "sound": "./sounds/lt-commonitems/img1.mp3"
+        },
+        "ball": {
+            "image": "./images/lt-commonitems/img2.png",
+            "sound": "./sounds/lt-commonitems/img2.mp3"
+        },
+        "bat": {
+            "image": "./images/lt-commonitems/img3.png",
+            "sound": "./sounds/lt-commonitems/img3.mp3"
+        },
+        "bath": {
+            "image": "./images/lt-commonitems/img4.png",
+            "sound": "./sounds/lt-commonitems/img4.mp3"
+        },
+        "bed": {
+            "image": "./images/lt-commonitems/img5.png",
+            "sound": "./sounds/lt-commonitems/img5.mp3"
+        },
+        "book": {
+            "image": "./images/lt-commonitems/img6.png",
+            "sound": "./sounds/lt-commonitems/img6.mp3"
+        },
+        "box": {
+            "image": "./images/lt-commonitems/img7.png",
+            "sound": "./sounds/lt-commonitems/img7.mp3"
+        },
+        "card": {
+            "image": "./images/lt-commonitems/img8.png",
+            "sound": "./sounds/lt-commonitems/img8.mp3"
+        },
+        "chair": {
+            "image": "./images/lt-commonitems/img9.png",
+            "sound": "./sounds/lt-commonitems/img9.mp3"
+        },
+        "clock": {
+            "image": "./images/lt-commonitems/img10.png",
+            "sound": "./sounds/lt-commonitems/img10.mp3"
+        },
+        "computer": {
+            "image": "./images/lt-commonitems/img11.png",
+            "sound": "./sounds/lt-commonitems/img11.mp3"
+        },
+        "cup": {
+            "image": "./images/lt-commonitems/img12.png",
+            "sound": "./sounds/lt-commonitems/img12.mp3"
+        },
+        "desk": {
+            "image": "./images/lt-commonitems/img13.png",
+            "sound": "./sounds/lt-commonitems/img13.mp3"
+        },
+        "dish": {
+            "image": "./images/lt-commonitems/img14.png",
+            "sound": "./sounds/lt-commonitems/img14.mp3"
+        },
+        "flower": {
+            "image": "./images/lt-commonitems/img15.png",
+            "sound": "./sounds/lt-commonitems/img15.mp3"
+        },
+        "garbage": {
+            "image": "./images/lt-commonitems/img16.png",
+            "sound": "./sounds/lt-commonitems/img16.mp3"
+        },
+        "letter": {
+            "image": "./images/lt-commonitems/img17.png",
+            "sound": "./sounds/lt-commonitems/img17.mp3"
+        },
+        "postbox": {
+            "image": "./images/lt-commonitems/img18.png",
+            "sound": "./sounds/lt-commonitems/img18.mp3"
+        },
+        "racket": {
+            "image": "./images/lt-commonitems/img19.png",
+            "sound": "./sounds/lt-commonitems/img19.mp3"
+        },
+        "table": {
+            "image": "./images/lt-commonitems/img20.png",
+            "sound": "./sounds/lt-commonitems/img20.mp3"
+        },
+        "telephone": {
+            "image": "./images/lt-commonitems/img21.png",
+            "sound": "./sounds/lt-commonitems/img21.mp3"
+        },
+        "tree": {
+            "image": "./images/lt-commonitems/img22.png",
+            "sound": "./sounds/lt-commonitems/img22.mp3"
+        },
+        "tv": {
+            "image": "./images/lt-commonitems/img23.png",
+            "sound": "./sounds/lt-commonitems/img23.mp3"
+        },
+        "umbrella": {
+            "image": "./images/lt-commonitems/img24.png",
+            "sound": "./sounds/lt-commonitems/img24.mp3"
+        },
+        "watch": {
+            "image": "./images/lt-commonitems/img25.png",
+            "sound": "./sounds/lt-commonitems/img25.mp3"
+        },
+        "wheelchair": {
+            "image": "./images/lt-commonitems/img26.png",
+            "sound": "./sounds/lt-commonitems/img26.mp3"
+        }
+    },
+    "lt-actions": {
+        "brush": {
+            "image": "./images/lt-actions/img1.png",
+            "sound": "./sounds/lt-actions/img1.mp3"
+        },
+        "buy": {
+            "image": "./images/lt-actions/img2.png",
+            "sound": "./sounds/lt-actions/img2.mp3"
+        },
+        "check": {
+            "image": "./images/lt-actions/img3.png",
+            "sound": "./sounds/lt-actions/img3.mp3"
+        },
+        "clean": {
+            "image": "./images/lt-actions/img4.png",
+            "sound": "./sounds/lt-actions/img4.mp3"
+        },
+        "cook": {
+            "image": "./images/lt-actions/img5.png",
+            "sound": "./sounds/lt-actions/img5.mp3"
+        },
+        "dance": {
+            "image": "./images/lt-actions/img6.png",
+            "sound": "./sounds/lt-actions/img6.mp3"
+        },
+        "drink": {
+            "image": "./images/lt-actions/img7.png",
+            "sound": "./sounds/lt-actions/img7.mp3"
+        },
+        "eat": {
+            "image": "./images/lt-actions/img8.png",
+            "sound": "./sounds/lt-actions/img8.mp3"
+        },
+        "get": {
+            "image": "./images/lt-actions/img9.png",
+            "sound": "./sounds/lt-actions/img9.mp3"
+        },
+        "go": {
+            "image": "./images/lt-actions/img10.png",
+            "sound": "./sounds/lt-actions/img10.mp3"
+        },
+        "jump": {
+            "image": "./images/lt-actions/img11.png",
+            "sound": "./sounds/lt-actions/img11.mp3"
+        },
+        "leave": {
+            "image": "./images/lt-actions/img12.png",
+            "sound": "./sounds/lt-actions/img12.mp3"
+        },
+        "like": {
+            "image": "./images/lt-actions/img13.png",
+            "sound": "./sounds/lt-actions/img13.mp3"
+        },
+        "look": {
+            "image": "./images/lt-actions/img14.png",
+            "sound": "./sounds/lt-actions/img14.mp3"
+        },
+        "make": {
+            "image": "./images/lt-actions/img15.png",
+            "sound": "./sounds/lt-actions/img15.mp3"
+        },
+        "meet": {
+            "image": "./images/lt-actions/img16.png",
+            "sound": "./sounds/lt-actions/img16.mp3"
+        },
+        "play": {
+            "image": "./images/lt-actions/img17.png",
+            "sound": "./sounds/lt-actions/img17.mp3"
+        },
+        "practice": {
+            "image": "./images/lt-actions/img18.png",
+            "sound": "./sounds/lt-actions/img18.mp3"
+        },
+        "put": {
+            "image": "./images/lt-actions/img19.png",
+            "sound": "./sounds/lt-actions/img19.mp3"
+        },
+        "read": {
+            "image": "./images/lt-actions/img20.png",
+            "sound": "./sounds/lt-actions/img20.mp3"
+        },
+        "ride": {
+            "image": "./images/lt-actions/img21.png",
+            "sound": "./sounds/lt-actions/img21.mp3"
+        },
+        "run": {
+            "image": "./images/lt-actions/img22.png",
+            "sound": "./sounds/lt-actions/img22.mp3"
+        },
+        "see": {
+            "image": "./images/lt-actions/img23.png",
+            "sound": "./sounds/lt-actions/img23.mp3"
+        },
+        "sing": {
+            "image": "./images/lt-actions/img24.png",
+            "sound": "./sounds/lt-actions/img24.mp3"
+        },
+        "speak": {
+            "image": "./images/lt-actions/img25.png",
+            "sound": "./sounds/lt-actions/img25.mp3"
+        },
+        "stop": {
+            "image": "./images/lt-actions/img26.png",
+            "sound": "./sounds/lt-actions/img26.mp3"
+        },
+        "study": {
+            "image": "./images/lt-actions/img27.png",
+            "sound": "./sounds/lt-actions/img27.mp3"
+        },
+        "swim": {
+            "image": "./images/lt-actions/img28.png",
+            "sound": "./sounds/lt-actions/img28.mp3"
+        },
+        "teach": {
+            "image": "./images/lt-actions/img29.png",
+            "sound": "./sounds/lt-actions/img29.mp3"
+        },
+        "turn": {
+            "image": "./images/lt-actions/img30.png",
+            "sound": "./sounds/lt-actions/img30.mp3"
+        },
+        "walk": {
+            "image": "./images/lt-actions/img31.png",
+            "sound": "./sounds/lt-actions/img31.mp3"
+        },
+        "want": {
+            "image": "./images/lt-actions/img32.png",
+            "sound": "./sounds/lt-actions/img32.mp3"
+        },
+        "wash": {
+            "image": "./images/lt-actions/img33.png",
+            "sound": "./sounds/lt-actions/img33.mp3"
+        },
+        "watch": {
+            "image": "./images/lt-actions/img34.png",
+            "sound": "./sounds/lt-actions/img34.mp3"
+        }
+    },
+    "lt-clothes": {
+        "boots": {
+            "image": "./images/lt-clothes/img1.png",
+            "sound": "./sounds/lt-clothes/img1.mp3"
+        },
+        "cap": {
+            "image": "./images/lt-clothes/img2.png",
+            "sound": "./sounds/lt-clothes/img2.mp3"
+        },
+        "glove": {
+            "image": "./images/lt-clothes/img3.png",
+            "sound": "./sounds/lt-clothes/img3.mp3"
+        },
+        "hat": {
+            "image": "./images/lt-clothes/img5.png",
+            "sound": "./sounds/lt-clothes/img5.mp3"
+        },
+        "jacket": {
+            "image": "./images/lt-clothes/img6.png",
+            "sound": "./sounds/lt-clothes/img6.mp3"
+        },
+        "pants": {
+            "image": "./images/lt-clothes/img7.png",
+            "sound": "./sounds/lt-clothes/img7.mp3"
+        },
+        "shirt": {
+            "image": "./images/lt-clothes/img8.png",
+            "sound": "./sounds/lt-clothes/img8.mp3"
+        },
+        "shorts": {
+            "image": "./images/lt-clothes/img9.png",
+            "sound": "./sounds/lt-clothes/img9.mp3"
+        },
+        "sweater": {
+            "image": "./images/lt-clothes/img10.png",
+            "sound": "./sounds/lt-clothes/img10.mp3"
+        },
+        "tshirt": {
+            "image": "./images/lt-clothes/img11.png",
+            "sound": "./sounds/lt-clothes/img11.mp3"
+        }
+    },
+    "lt-foods": {
+        "beef steak": {
+            "image": "./images/lt-foods/img1.png",
+            "sound": "./sounds/lt-foods/img1.mp3"
+        },
+        "bread": {
+            "image": "./images/lt-foods/img2.png",
+            "sound": "./sounds/lt-foods/img2.mp3"
+        },
+        "cake": {
+            "image": "./images/lt-foods/img3.png",
+            "sound": "./sounds/lt-foods/img3.mp3"
+        },
+        "chocolate": {
+            "image": "./images/lt-foods/img4.png",
+            "sound": "./sounds/lt-foods/img4.mp3"
+        },
+        "curry and rice": {
+            "image": "./images/lt-foods/img5.png",
+            "sound": "./sounds/lt-foods/img5.mp3"
+        },
+        "dessert": {
+            "image": "./images/lt-foods/img6.png",
+            "sound": "./sounds/lt-foods/img6.mp3"
+        },
+        "egg": {
+            "image": "./images/lt-foods/img7.png",
+            "sound": "./sounds/lt-foods/img7.mp3"
+        },
+        "french fries": {
+            "image": "./images/lt-foods/img8.png",
+            "sound": "./sounds/lt-foods/img8.mp3"
+        },
+        "fried chicken": {
+            "image": "./images/lt-foods/img9.png",
+            "sound": "./sounds/lt-foods/img9.mp3"
+        },
+        "grilled fish": {
+            "image": "./images/lt-foods/img10.png",
+            "sound": "./sounds/lt-foods/img10.mp3"
+        },
+        "hamburger": {
+            "image": "./images/lt-foods/img11.png",
+            "sound": "./sounds/lt-foods/img11.mp3"
+        },
+        "ice cream": {
+            "image": "./images/lt-foods/img12.png",
+            "sound": "./sounds/lt-foods/img12.mp3"
+        },
+        "jam": {
+            "image": "./images/lt-foods/img13.png",
+            "sound": "./sounds/lt-foods/img13.mp3"
+        },
+        "noodles": {
+            "image": "./images/lt-foods/img14.png",
+            "sound": "./sounds/lt-foods/img14.mp3"
+        },
+        "nut": {
+            "image": "./images/lt-foods/img15.png",
+            "sound": "./sounds/lt-foods/img15.mp3"
+        },
+        "omelet": {
+            "image": "./images/lt-foods/img16.png",
+            "sound": "./sounds/lt-foods/img16.mp3"
+        },
+        "parfait": {
+            "image": "./images/lt-foods/img17.png",
+            "sound": "./sounds/lt-foods/img17.mp3"
+        },
+        "pie": {
+            "image": "./images/lt-foods/img18.png",
+            "sound": "./sounds/lt-foods/img18.mp3"
+        },
+        "pizza": {
+            "image": "./images/lt-foods/img19.png",
+            "sound": "./sounds/lt-foods/img19.mp3"
+        },
+        "popcorn": {
+            "image": "./images/lt-foods/img20.png",
+            "sound": "./sounds/lt-foods/img20.mp3"
+        },
+        "pudding": {
+            "image": "./images/lt-foods/img21.png",
+            "sound": "./sounds/lt-foods/img21.mp3"
+        },
+        "rice ball": {
+            "image": "./images/lt-foods/img22.png",
+            "sound": "./sounds/lt-foods/img22.mp3"
+        },
+        "salad": {
+            "image": "./images/lt-foods/img23.png",
+            "sound": "./sounds/lt-foods/img23.mp3"
+        },
+        "sandwich": {
+            "image": "./images/lt-foods/img24.png",
+            "sound": "./sounds/lt-foods/img24.mp3"
+        },
+        "sausage": {
+            "image": "./images/lt-foods/img25.png",
+            "sound": "./sounds/lt-foods/img25.mp3"
+        },
+        "shaved ice": {
+            "image": "./images/lt-foods/img26.png",
+            "sound": "./sounds/lt-foods/img26.mp3"
+        },
+        "snacks": {
+            "image": "./images/lt-foods/img27.png",
+            "sound": "./sounds/lt-foods/img27.mp3"
+        },
+        "soup": {
+            "image": "./images/lt-foods/img28.png",
+            "sound": "./sounds/lt-foods/img28.mp3"
+        },
+        "spaghetti": {
+            "image": "./images/lt-foods/img29.png",
+            "sound": "./sounds/lt-foods/img29.mp3"
+        },
+        "steak": {
+            "image": "./images/lt-foods/img30.png",
+            "sound": "./sounds/lt-foods/img30.mp3"
+        },
+        "sushi": {
+            "image": "./images/lt-foods/img31.png",
+            "sound": "./sounds/lt-foods/img31.mp3"
+        }
+    },
+    "lt-sports": {
+        "archery": {
+            "image": "./images/lt-sports/img1.png",
+            "sound": "./sounds/lt-sports/img1.mp3"
+        },
+        "athletics": {
+            "image": "./images/lt-sports/img2.png",
+            "sound": "./sounds/lt-sports/img2.mp3"
+        },
+        "badminton": {
+            "image": "./images/lt-sports/img3.png",
+            "sound": "./sounds/lt-sports/img3.mp3"
+        },
+        "baseball2": {
+            "image": "./images/lt-sports/img4.png",
+            "sound": "./sounds/lt-sports/img4.mp3"
+        },
+        "baseball": {
+            "image": "./images/lt-sports/img5.png",
+            "sound": "./sounds/lt-sports/img5.mp3"
+        },
+        "basketball": {
+            "image": "./images/lt-sports/img7.png",
+            "sound": "./sounds/lt-sports/img7.mp3"
+        },
+        "boxing": {
+            "image": "./images/lt-sports/img8.png",
+            "sound": "./sounds/lt-sports/img8.mp3"
+        },
+        "canoe": {
+            "image": "./images/lt-sports/img9.png",
+            "sound": "./sounds/lt-sports/img9.mp3"
+        },
+        "climbing": {
+            "image": "./images/lt-sports/img10.png",
+            "sound": "./sounds/lt-sports/img10.mp3"
+        },
+        "cycling": {
+            "image": "./images/lt-sports/img11.png",
+            "sound": "./sounds/lt-sports/img11.mp3"
+        },
+        "dodgeball": {
+            "image": "./images/lt-sports/img12.png",
+            "sound": "./sounds/lt-sports/img12.mp3"
+        },
+        "football": {
+            "image": "./images/lt-sports/img13.png",
+            "sound": "./sounds/lt-sports/img13.mp3"
+        },
+        "gymnastics": {
+            "image": "./images/lt-sports/img14.png",
+            "sound": "./sounds/lt-sports/img14.mp3"
+        },
+        "marathon": {
+            "image": "./images/lt-sports/img15.png",
+            "sound": "./sounds/lt-sports/img15.mp3"
+        },
+        "rugby": {
+            "image": "./images/lt-sports/img16.png",
+            "sound": "./sounds/lt-sports/img16.mp3"
+        },
+        "sailing": {
+            "image": "./images/lt-sports/img17.png",
+            "sound": "./sounds/lt-sports/img17.mp3"
+        },
+        "soccer": {
+            "image": "./images/lt-sports/img19.png",
+            "sound": "./sounds/lt-sports/img19.mp3"
+        },
+        "surfing": {
+            "image": "./images/lt-sports/img20.png",
+            "sound": "./sounds/lt-sports/img20.mp3"
+        },
+        "swimming": {
+            "image": "./images/lt-sports/img22.png",
+            "sound": "./sounds/lt-sports/img22.mp3"
+        },
+        "table tennis": {
+            "image": "./images/lt-sports/img24.png",
+            "sound": "./sounds/lt-sports/img24.mp3"
+        },
+        "tennis": {
+            "image": "./images/lt-sports/img25.png",
+            "sound": "./sounds/lt-sports/img25.mp3"
+        },
+        "track and field": {
+            "image": "./images/lt-sports/img26.png",
+            "sound": "./sounds/lt-sports/img26.mp3"
+        },
+        "volleyball": {
+            "image": "./images/lt-sports/img28.png",
+            "sound": "./sounds/lt-sports/img28.mp3"
+        },
+        "weightlifting": {
+            "image": "./images/lt-sports/img29.png",
+            "sound": "./sounds/lt-sports/img29.mp3"
+        },
+        "wrestling": {
+            "image": "./images/lt-sports/img30.png",
+            "sound": "./sounds/lt-sports/img30.mp3"
+        }
+    },
+    "lt-buildings": {
+        "amusement park": {
+            "image": "./images/lt-buildings/img1.png",
+            "sound": "./sounds/lt-buildings/img1.mp3"
+        },
+        "aquarium": {
+            "image": "./images/lt-buildings/img2.png",
+            "sound": "./sounds/lt-buildings/img2.mp3"
+        },
+        "beach": {
+            "image": "./images/lt-buildings/img3.png",
+            "sound": "./sounds/lt-buildings/img3.mp3"
+        },
+        "bookstore": {
+            "image": "./images/lt-buildings/img4.png",
+            "sound": "./sounds/lt-buildings/img4.mp3"
+        },
+        "castle": {
+            "image": "./images/lt-buildings/img5.png",
+            "sound": "./sounds/lt-buildings/img5.mp3"
+        },
+        "convenience store": {
+            "image": "./images/lt-buildings/img6.png",
+            "sound": "./sounds/lt-buildings/img6.mp3"
+        },
+        "department store": {
+            "image": "./images/lt-buildings/img7.png",
+            "sound": "./sounds/lt-buildings/img7.mp3"
+        },
+        "fire station": {
+            "image": "./images/lt-buildings/img8.png",
+            "sound": "./sounds/lt-buildings/img8.mp3"
+        },
+        "florist": {
+            "image": "./images/lt-buildings/img9.png",
+            "sound": "./sounds/lt-buildings/img9.mp3"
+        },
+        "gas station": {
+            "image": "./images/lt-buildings/img10.png",
+            "sound": "./sounds/lt-buildings/img10.mp3"
+        },
+        "hospital": {
+            "image": "./images/lt-buildings/img11.png",
+            "sound": "./sounds/lt-buildings/img11.mp3"
+        },
+        "house": {
+            "image": "./images/lt-buildings/img12.png",
+            "sound": "./sounds/lt-buildings/img12.mp3"
+        },
+        "lake": {
+            "image": "./images/lt-buildings/img13.png",
+            "sound": "./sounds/lt-buildings/img13.mp3"
+        },
+        "mountain": {
+            "image": "./images/lt-buildings/img14.png",
+            "sound": "./sounds/lt-buildings/img14.mp3"
+        },
+        "museum": {
+            "image": "./images/lt-buildings/img15.png",
+            "sound": "./sounds/lt-buildings/img15.mp3"
+        },
+        "park": {
+            "image": "./images/lt-buildings/img16.png",
+            "sound": "./sounds/lt-buildings/img16.mp3"
+        },
+        "police station": {
+            "image": "./images/lt-buildings/img17.png",
+            "sound": "./sounds/lt-buildings/img17.mp3"
+        },
+        "post office": {
+            "image": "./images/lt-buildings/img18.png",
+            "sound": "./sounds/lt-buildings/img18.mp3"
+        },
+        "restaurant": {
+            "image": "./images/lt-buildings/img19.png",
+            "sound": "./sounds/lt-buildings/img19.mp3"
+        },
+        "river": {
+            "image": "./images/lt-buildings/img20.png",
+            "sound": "./sounds/lt-buildings/img20.mp3"
+        },
+        "sea": {
+            "image": "./images/lt-buildings/img21.png",
+            "sound": "./sounds/lt-buildings/img21.mp3"
+        },
+        "shrine": {
+            "image": "./images/lt-buildings/img22.png",
+            "sound": "./sounds/lt-buildings/img22.mp3"
+        },
+        "station": {
+            "image": "./images/lt-buildings/img23.png",
+            "sound": "./sounds/lt-buildings/img23.mp3"
+        },
+        "street": {
+            "image": "./images/lt-buildings/img24.png",
+            "sound": "./sounds/lt-buildings/img24.mp3"
+        },
+        "supermarket": {
+            "image": "./images/lt-buildings/img25.png",
+            "sound": "./sounds/lt-buildings/img25.mp3"
+        },
+        "temple": {
+            "image": "./images/lt-buildings/img26.png",
+            "sound": "./sounds/lt-buildings/img26.mp3"
+        }
+    },
+    "lt-weather": {
+        "cloudy": {
+            "image": "./images/lt-weather/img1.png",
+            "sound": "./sounds/lt-weather/img1.mp3"
+        },
+        "cold": {
+            "image": "./images/lt-weather/img2.png",
+            "sound": "./sounds/lt-weather/img2.mp3"
+        },
+        "hot": {
+            "image": "./images/lt-weather/img3.png",
+            "sound": "./sounds/lt-weather/img3.mp3"
+        },
+        "rainy": {
+            "image": "./images/lt-weather/img4.png",
+            "sound": "./sounds/lt-weather/img4.mp3"
+        },
+        "snowy": {
+            "image": "./images/lt-weather/img5.png",
+            "sound": "./sounds/lt-weather/img5.mp3"
+        },
+        "sunny": {
+            "image": "./images/lt-weather/img6.png",
+            "sound": "./sounds/lt-weather/img6.mp3"
+        }
+    },
+    "lt-days": {
+        "monday": {
+            "image": "./images/lt-days/img1.png",
+            "sound": "./sounds/lt-days/img1.mp3"
+        },
+        "tuesday": {
+            "image": "./images/lt-days/img2.png",
+            "sound": "./sounds/lt-days/img2.mp3"
+        },
+        "wednesday": {
+            "image": "./images/lt-days/img3.png",
+            "sound": "./sounds/lt-days/img3.mp3"
+        },
+        "thursday": {
+            "image": "./images/lt-days/img4.png",
+            "sound": "./sounds/lt-days/img4.mp3"
+        },
+        "friday": {
+            "image": "./images/lt-days/img5.png",
+            "sound": "./sounds/lt-days/img5.mp3"
+        },
+        "saturday": {
+            "image": "./images/lt-days/img6.png",
+            "sound": "./sounds/lt-days/img6.mp3"
+        },
+        "sunday": {
+            "image": "./images/lt-days/img7.png",
+            "sound": "./sounds/lt-days/img7.mp3"
+        }
+    }
+}

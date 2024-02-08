@@ -24,3 +24,10 @@ dist-ssr
 *.sw?
 
 images/
+
+sounds/
+
+fav/
+
+old dist/
+
