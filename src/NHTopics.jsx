@@ -59,6 +59,9 @@ export function NHTopics() {
             <div className="topic-button" id="nature" onClick={() => acceptButtonPush("nature")}>
                 Nature
             </div>
+            <div className="topic-button" id="environment" onClick={() => acceptButtonPush("environment")}>
+                Environment
+            </div>
             <div className="topic-button" id="months" onClick={() => acceptButtonPush("months")}>
                 Months
             </div>
@@ -91,6 +94,9 @@ export function NHTopics() {
             </div>
             <div className="topic-button" id="actions2" onClick={() => acceptButtonPush("actions2")}>
                 Actions2
+            </div>
+            <div className="topic-button" id="actions3" onClick={() => acceptButtonPush("actions3")}>
+                Actions3
             </div>
             <div className="topic-button" id="dailyactivities" onClick={() => acceptButtonPush("dailyactivities")}>
                 Daily Activity
