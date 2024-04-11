@@ -26,6 +26,9 @@ export function NHTopics() {
             <div className="topic-button" id="sports" onClick={() => acceptButtonPush("sports")}>
                 Sports
             </div>
+            <div className="topic-button" id="sports+" onClick={() => acceptButtonPush("sports+")}>
+                Sports+
+            </div>
             <div className="topic-button" id="foods" onClick={() => acceptButtonPush("foods")}>
                 Foods
             </div>
@@ -50,14 +53,23 @@ export function NHTopics() {
             <div className="topic-button" id="animals" onClick={() => acceptButtonPush("animals")}>
                 Animals
             </div>
+            <div className="topic-button" id="animals+" onClick={() => acceptButtonPush("animals+")}>
+                Animals+
+            </div>
             <div className="topic-button" id="seaanimals" onClick={() => acceptButtonPush("seaanimals")}>
                 Sea Animals
+            </div>
+            <div className="topic-button" id="seaanimals+" onClick={() => acceptButtonPush("seaanimals+")}>
+                Sea Animals+
             </div>
             <div className="topic-button" id="bugs" onClick={() => acceptButtonPush("bugs")}>
                 Bugs
             </div>
             <div className="topic-button" id="nature" onClick={() => acceptButtonPush("nature")}>
                 Nature
+            </div>
+            <div className="topic-button" id="nature+" onClick={() => acceptButtonPush("nature+")}>
+                Nature+
             </div>
             <div className="topic-button" id="environment" onClick={() => acceptButtonPush("environment")}>
                 Environment
@@ -86,6 +98,9 @@ export function NHTopics() {
             <div className="topic-button" id="personalities" onClick={() => acceptButtonPush("personalities")}>
                 Personalities
             </div>
+            <div className="topic-button" id="personalities+" onClick={() => acceptButtonPush("personalities+")}>
+                Personalities+
+            </div>
             <div className="topic-button" id="actions1" onClick={() => acceptButtonPush("actions1")}>
                 Actions1
             </div>
@@ -110,8 +125,14 @@ export function NHTopics() {
             <div className="topic-button" id="clothes" onClick={() => acceptButtonPush("clothes")}>
                 Clothes
             </div>
+            <div className="topic-button" id="clothes+" onClick={() => acceptButtonPush("clothes+")}>
+                Clothes+
+            </div>
             <div className="topic-button" id="buildings" onClick={() => acceptButtonPush("buildings")}>
                 Buildings
+            </div>
+            <div className="topic-button" id="buildings+" onClick={() => acceptButtonPush("buildings+")}>
+                Buildings+
             </div>
             <div className="topic-button" id="directions" onClick={() => acceptButtonPush("directions")}>
                 Directions
@@ -137,17 +158,32 @@ export function NHTopics() {
             <div className="topic-button" id="commonitems" onClick={() => acceptButtonPush("commonitems")}>
                 Common Items
             </div>
+            <div className="topic-button" id="commonitems+" onClick={() => acceptButtonPush("commonitems+")}>
+                Common Items+
+            </div>
             <div className="topic-button" id="activities" onClick={() => acceptButtonPush("activities")}>
                 Activities
+            </div>
+            <div className="topic-button" id="activities+" onClick={() => acceptButtonPush("activities+")}>
+                Activities+
             </div>
             <div className="topic-button" id="schoolevents" onClick={() => acceptButtonPush("schoolevents")}>
                 School Events
             </div>
+            <div className="topic-button" id="schoolevents+" onClick={() => acceptButtonPush("schoolevents+")}>
+                School Events+
+            </div>
             <div className="topic-button" id="yearlyevents" onClick={() => acceptButtonPush("yearlyevents")}>
                 Yearly Events
             </div>
+            <div className="topic-button" id="yearlyevents+" onClick={() => acceptButtonPush("yearlyevents+")}>
+                Yearly Events+
+            </div>
             <div className="topic-button" id="conditions" onClick={() => acceptButtonPush("conditions")}>
                 Conditions
+            </div>
+            <div className="topic-button" id="conditions+" onClick={() => acceptButtonPush("conditions+")}>
+                Conditions+
             </div>
             <div className="topic-button" id="descriptions" onClick={() => acceptButtonPush("descriptions")}>
                 Descriptions
@@ -155,8 +191,14 @@ export function NHTopics() {
             <div className="topic-button" id="jobs" onClick={() => acceptButtonPush("jobs")}>
                 Jobs
             </div>
+            <div className="topic-button" id="jobs+" onClick={() => acceptButtonPush("jobs+")}>
+                Jobs+
+            </div>
             <div className="topic-button" id="clubactivities" onClick={() => acceptButtonPush("clubactivities")}>
                 Club Activities
+            </div>
+            <div className="topic-button" id="clubactivities+" onClick={() => acceptButtonPush("clubactivities+")}>
+                Club Activities+
             </div>
             <div className="topic-button" id="christmas" onClick={() => acceptButtonPush("christmas")}>
                 Christmas

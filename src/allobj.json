@@ -20,27 +20,27 @@
             "image": "./images/feelings/img5.png",
             "sound": "./sounds/feelings/img5.mp3"
         },
-        "tired": {
+        "nervous": {
             "image": "./images/feelings/img6.png",
             "sound": "./sounds/feelings/img6.mp3"
         },
-        "sleepy": {
+        "tired": {
             "image": "./images/feelings/img7.png",
             "sound": "./sounds/feelings/img7.mp3"
         },
-        "busy": {
+        "sleepy": {
             "image": "./images/feelings/img8.png",
             "sound": "./sounds/feelings/img8.mp3"
         },
-        "hungry": {
+        "busy": {
             "image": "./images/feelings/img9.png",
             "sound": "./sounds/feelings/img9.mp3"
         },
-        "thirsty": {
+        "hungry": {
             "image": "./images/feelings/img10.png",
             "sound": "./sounds/feelings/img10.mp3"
         },
-        "nervous": {
+        "thirsty": {
             "image": "./images/feelings/img11.png",
             "sound": "./sounds/feelings/img11.mp3"
         }
@@ -208,19 +208,19 @@
             "image": "./images/weather/img2.png",
             "sound": "./sounds/weather/img2.mp3"
         },
-        "rainy": {
+        "windy": {
             "image": "./images/weather/img3.png",
             "sound": "./sounds/weather/img3.mp3"
         },
-        "snowy": {
+        "rainy": {
             "image": "./images/weather/img4.png",
             "sound": "./sounds/weather/img4.mp3"
         },
-        "cold": {
+        "snowy": {
             "image": "./images/weather/img5.png",
             "sound": "./sounds/weather/img5.mp3"
         },
-        "hot": {
+        "cold": {
             "image": "./images/weather/img6.png",
             "sound": "./sounds/weather/img6.mp3"
         },
@@ -228,11 +228,11 @@
             "image": "./images/weather/img7.png",
             "sound": "./sounds/weather/img7.mp3"
         },
-        "humid": {
+        "hot": {
             "image": "./images/weather/img8.png",
             "sound": "./sounds/weather/img8.mp3"
         },
-        "windy": {
+        "humid": {
             "image": "./images/weather/img9.png",
             "sound": "./sounds/weather/img9.mp3"
         }
@@ -334,19 +334,19 @@
             "image": "./images/sports/img1.png",
             "sound": "./sounds/sports/img1.mp3"
         },
-        "softball": {
+        "basketball": {
             "image": "./images/sports/img2.png",
             "sound": "./sounds/sports/img2.mp3"
         },
-        "basketball": {
+        "volleyball": {
             "image": "./images/sports/img3.png",
             "sound": "./sounds/sports/img3.mp3"
         },
-        "volleyball": {
+        "dodgeball": {
             "image": "./images/sports/img4.png",
             "sound": "./sounds/sports/img4.mp3"
         },
-        "dodgeball": {
+        "rugby": {
             "image": "./images/sports/img5.png",
             "sound": "./sounds/sports/img5.mp3"
         },
@@ -366,49 +366,51 @@
             "image": "./images/sports/img9.png",
             "sound": "./sounds/sports/img9.mp3"
         },
-        "track and field": {
+        "cricket": {
             "image": "./images/sports/img10.png",
             "sound": "./sounds/sports/img10.mp3"
         },
-        "swimming": {
+        "gymnastics": {
             "image": "./images/sports/img11.png",
             "sound": "./sounds/sports/img11.mp3"
         },
-        "skating": {
+        "track and field": {
             "image": "./images/sports/img12.png",
             "sound": "./sounds/sports/img12.mp3"
         },
-        "skiing": {
+        "judo": {
             "image": "./images/sports/img13.png",
             "sound": "./sounds/sports/img13.mp3"
         },
-        "rugby": {
+        "kendo": {
             "image": "./images/sports/img14.png",
             "sound": "./sounds/sports/img14.mp3"
         },
-        "cricket": {
+        "sumo": {
             "image": "./images/sports/img15.png",
             "sound": "./sounds/sports/img15.mp3"
         },
-        "gymnastics": {
+        "swimming": {
             "image": "./images/sports/img16.png",
             "sound": "./sounds/sports/img16.mp3"
         },
-        "judo": {
+        "skateboarding": {
             "image": "./images/sports/img17.png",
             "sound": "./sounds/sports/img17.mp3"
         },
-        "kendo": {
+        "skiing": {
             "image": "./images/sports/img18.png",
             "sound": "./sounds/sports/img18.mp3"
+        }
+    },
+    "sports+": {
+        "softball": {
+            "image": "./images/sports+/img1.png",
+            "sound": "./sounds/sports+/img1.mp3"
         },
-        "sumo": {
-            "image": "./images/sports/img19.png",
-            "sound": "./sounds/sports/img19.mp3"
-        },
-        "skateboarding": {
-            "image": "./images/sports/img20.png",
-            "sound": "./sounds/sports/img20.mp3"
+        "skating": {
+            "image": "./images/sports+/img2.png",
+            "sound": "./sounds/sports+/img2.mp3"
         }
     },
     "foods": {
@@ -522,39 +524,39 @@
             "image": "./images/desserts/img1.png",
             "sound": "./sounds/desserts/img1.mp3"
         },
-        "parfait": {
+        "donut": {
             "image": "./images/desserts/img2.png",
             "sound": "./sounds/desserts/img2.mp3"
         },
-        "pudding": {
+        "parfait": {
             "image": "./images/desserts/img3.png",
             "sound": "./sounds/desserts/img3.mp3"
         },
-        "ice cream": {
+        "pudding": {
             "image": "./images/desserts/img4.png",
             "sound": "./sounds/desserts/img4.mp3"
         },
-        "shaved ice": {
+        "ice cream": {
             "image": "./images/desserts/img5.png",
             "sound": "./sounds/desserts/img5.mp3"
         },
-        "chocolate": {
+        "shaved ice": {
             "image": "./images/desserts/img6.png",
             "sound": "./sounds/desserts/img6.mp3"
         },
-        "popcorn": {
+        "chocolate": {
             "image": "./images/desserts/img7.png",
             "sound": "./sounds/desserts/img7.mp3"
         },
-        "snack food": {
+        "cream puff": {
             "image": "./images/desserts/img8.png",
             "sound": "./sounds/desserts/img8.mp3"
         },
-        "donut": {
+        "popcorn": {
             "image": "./images/desserts/img9.png",
             "sound": "./sounds/desserts/img9.mp3"
         },
-        "cream puff": {
+        "potato chips": {
             "image": "./images/desserts/img10.png",
             "sound": "./sounds/desserts/img10.mp3"
         }
@@ -810,19 +812,19 @@
             "image": "./images/animals/img1.png",
             "sound": "./sounds/animals/img1.mp3"
         },
-        "polar bear": {
+        "elephant": {
             "image": "./images/animals/img2.png",
             "sound": "./sounds/animals/img2.mp3"
         },
-        "elephant": {
+        "tiger": {
             "image": "./images/animals/img3.png",
             "sound": "./sounds/animals/img3.mp3"
         },
-        "tiger": {
+        "lion": {
             "image": "./images/animals/img4.png",
             "sound": "./sounds/animals/img4.mp3"
         },
-        "lion": {
+        "horse": {
             "image": "./images/animals/img5.png",
             "sound": "./sounds/animals/img5.mp3"
         },
@@ -830,55 +832,55 @@
             "image": "./images/animals/img6.png",
             "sound": "./sounds/animals/img6.mp3"
         },
-        "gorilla": {
+        "camel": {
             "image": "./images/animals/img7.png",
             "sound": "./sounds/animals/img7.mp3"
         },
-        "monkey": {
+        "giraffe": {
             "image": "./images/animals/img8.png",
             "sound": "./sounds/animals/img8.mp3"
         },
-        "horse": {
+        "gorilla": {
             "image": "./images/animals/img9.png",
             "sound": "./sounds/animals/img9.mp3"
         },
-        "camel": {
+        "monkey": {
             "image": "./images/animals/img10.png",
             "sound": "./sounds/animals/img10.mp3"
         },
-        "cow": {
+        "orangutan": {
             "image": "./images/animals/img11.png",
             "sound": "./sounds/animals/img11.mp3"
         },
-        "sheep": {
+        "panda": {
             "image": "./images/animals/img12.png",
             "sound": "./sounds/animals/img12.mp3"
         },
-        "pig": {
+        "koala": {
             "image": "./images/animals/img13.png",
             "sound": "./sounds/animals/img13.mp3"
         },
-        "panda": {
+        "dog": {
             "image": "./images/animals/img14.png",
             "sound": "./sounds/animals/img14.mp3"
         },
-        "koala": {
+        "cat": {
             "image": "./images/animals/img15.png",
             "sound": "./sounds/animals/img15.mp3"
         },
-        "dog": {
+        "fox": {
             "image": "./images/animals/img16.png",
             "sound": "./sounds/animals/img16.mp3"
         },
-        "cat": {
+        "rabbit": {
             "image": "./images/animals/img17.png",
             "sound": "./sounds/animals/img17.mp3"
         },
-        "rabbit": {
+        "mouse": {
             "image": "./images/animals/img18.png",
             "sound": "./sounds/animals/img18.mp3"
         },
-        "mouse": {
+        "crocodile": {
             "image": "./images/animals/img19.png",
             "sound": "./sounds/animals/img19.mp3"
         },
@@ -893,30 +895,32 @@
         "bird": {
             "image": "./images/animals/img22.png",
             "sound": "./sounds/animals/img22.mp3"
+        }
+    },
+    "animals+": {
+        "polar bear": {
+            "image": "./images/animals+/img1.png",
+            "sound": "./sounds/animals+/img1.mp3"
+        },
+        "cow": {
+            "image": "./images/animals+/img2.png",
+            "sound": "./sounds/animals+/img2.mp3"
+        },
+        "sheep": {
+            "image": "./images/animals+/img3.png",
+            "sound": "./sounds/animals+/img3.mp3"
+        },
+        "pig": {
+            "image": "./images/animals+/img4.png",
+            "sound": "./sounds/animals+/img4.mp3"
         },
         "eagle": {
-            "image": "./images/animals/img23.png",
-            "sound": "./sounds/animals/img23.mp3"
-        },
-        "fox": {
-            "image": "./images/animals/img24.png",
-            "sound": "./sounds/animals/img24.mp3"
-        },
-        "crocodile": {
-            "image": "./images/animals/img25.png",
-            "sound": "./sounds/animals/img25.mp3"
-        },
-        "giraffe": {
-            "image": "./images/animals/img26.png",
-            "sound": "./sounds/animals/img26.mp3"
-        },
-        "orangutan": {
-            "image": "./images/animals/img27.png",
-            "sound": "./sounds/animals/img27.mp3"
+            "image": "./images/animals+/img5.png",
+            "sound": "./sounds/animals+/img5.mp3"
         },
         "turtle": {
-            "image": "./images/animals/img28.png",
-            "sound": "./sounds/animals/img28.mp3"
+            "image": "./images/animals+/img6.png",
+            "sound": "./sounds/animals+/img6.mp3"
         }
     },
     "seaanimals": {
@@ -924,11 +928,11 @@
             "image": "./images/seaanimals/img1.png",
             "sound": "./sounds/seaanimals/img1.mp3"
         },
-        "shark": {
+        "dolphin": {
             "image": "./images/seaanimals/img2.png",
             "sound": "./sounds/seaanimals/img2.mp3"
         },
-        "dolphin": {
+        "penguin": {
             "image": "./images/seaanimals/img3.png",
             "sound": "./sounds/seaanimals/img3.mp3"
         },
@@ -940,25 +944,27 @@
             "image": "./images/seaanimals/img5.png",
             "sound": "./sounds/seaanimals/img5.mp3"
         },
-        "squid": {
+        "shark": {
             "image": "./images/seaanimals/img6.png",
             "sound": "./sounds/seaanimals/img6.mp3"
         },
-        "jellyfish": {
+        "crab": {
             "image": "./images/seaanimals/img7.png",
             "sound": "./sounds/seaanimals/img7.mp3"
         },
-        "shrimp": {
+        "jellyfish": {
             "image": "./images/seaanimals/img8.png",
             "sound": "./sounds/seaanimals/img8.mp3"
+        }
+    },
+    "seaanimals+": {
+        "squid": {
+            "image": "./images/seaanimals+/img1.png",
+            "sound": "./sounds/seaanimals+/img1.mp3"
         },
-        "penguin": {
-            "image": "./images/seaanimals/img9.png",
-            "sound": "./sounds/seaanimals/img9.mp3"
-        },
-        "crab": {
-            "image": "./images/seaanimals/img10.png",
-            "sound": "./sounds/seaanimals/img10.mp3"
+        "shrimp": {
+            "image": "./images/seaanimals+/img2.png",
+            "sound": "./sounds/seaanimals+/img2.mp3"
         }
     },
     "bugs": {
@@ -966,31 +972,31 @@
             "image": "./images/bugs/img1.png",
             "sound": "./sounds/bugs/img1.mp3"
         },
-        "butterfly": {
+        "beetle": {
             "image": "./images/bugs/img2.png",
             "sound": "./sounds/bugs/img2.mp3"
         },
-        "grasshopper": {
+        "stag beetle": {
             "image": "./images/bugs/img3.png",
             "sound": "./sounds/bugs/img3.mp3"
         },
-        "spider": {
+        "butterfly": {
             "image": "./images/bugs/img4.png",
             "sound": "./sounds/bugs/img4.mp3"
         },
-        "beetle": {
+        "dragonfly": {
             "image": "./images/bugs/img5.png",
             "sound": "./sounds/bugs/img5.mp3"
         },
-        "stag beetle": {
+        "grasshopper": {
             "image": "./images/bugs/img6.png",
             "sound": "./sounds/bugs/img6.mp3"
         },
-        "dragonfly": {
+        "mantis": {
             "image": "./images/bugs/img7.png",
             "sound": "./sounds/bugs/img7.mp3"
         },
-        "mantis": {
+        "spider": {
             "image": "./images/bugs/img8.png",
             "sound": "./sounds/bugs/img8.mp3"
         }
@@ -1004,7 +1010,7 @@
             "image": "./images/nature/img2.png",
             "sound": "./sounds/nature/img2.mp3"
         },
-        "island": {
+        "rainforest": {
             "image": "./images/nature/img3.png",
             "sound": "./sounds/nature/img3.mp3"
         },
@@ -1016,37 +1022,39 @@
             "image": "./images/nature/img5.png",
             "sound": "./sounds/nature/img5.mp3"
         },
-        "pond": {
+        "river": {
             "image": "./images/nature/img6.png",
             "sound": "./sounds/nature/img6.mp3"
         },
-        "river": {
+        "savanna": {
             "image": "./images/nature/img7.png",
             "sound": "./sounds/nature/img7.mp3"
         },
-        "savanna": {
+        "sea": {
             "image": "./images/nature/img8.png",
             "sound": "./sounds/nature/img8.mp3"
+        }
+    },
+    "nature+": {
+        "island": {
+            "image": "./images/nature+/img1.png",
+            "sound": "./sounds/nature+/img1.mp3"
         },
-        "sea": {
-            "image": "./images/nature/img9.png",
-            "sound": "./sounds/nature/img9.mp3"
+        "pond": {
+            "image": "./images/nature+/img2.png",
+            "sound": "./sounds/nature+/img2.mp3"
         },
         "wetlands": {
-            "image": "./images/nature/img10.png",
-            "sound": "./sounds/nature/img10.mp3"
+            "image": "./images/nature+/img3.png",
+            "sound": "./sounds/nature+/img3.mp3"
         },
         "flower": {
-            "image": "./images/nature/img11.png",
-            "sound": "./sounds/nature/img11.mp3"
+            "image": "./images/nature+/img4.png",
+            "sound": "./sounds/nature+/img4.mp3"
         },
         "tree": {
-            "image": "./images/nature/img12.png",
-            "sound": "./sounds/nature/img12.mp3"
-        },
-        "rainforest": {
-            "image": "./images/nature/img13.png",
-            "sound": "./sounds/nature/img13.mp3"
+            "image": "./images/nature+/img5.png",
+            "sound": "./sounds/nature+/img5.mp3"
         }
     },
     "environment": {
@@ -1438,25 +1446,27 @@
             "image": "./images/personalities/img4.png",
             "sound": "./sounds/personalities/img4.mp3"
         },
-        "gentle": {
+        "kind": {
             "image": "./images/personalities/img5.png",
             "sound": "./sounds/personalities/img5.mp3"
         },
-        "kind": {
+        "shy": {
             "image": "./images/personalities/img6.png",
             "sound": "./sounds/personalities/img6.mp3"
         },
-        "strong": {
+        "smart": {
             "image": "./images/personalities/img7.png",
             "sound": "./sounds/personalities/img7.mp3"
         },
-        "shy": {
+        "strong": {
             "image": "./images/personalities/img8.png",
             "sound": "./sounds/personalities/img8.mp3"
-        },
-        "smart": {
-            "image": "./images/personalities/img9.png",
-            "sound": "./sounds/personalities/img9.mp3"
+        }
+    },
+    "personalities+": {
+        "gentle": {
+            "image": "./images/personalities+/img1.png",
+            "sound": "./sounds/personalities+/img1.mp3"
         }
     },
     "actions1": {
@@ -1704,7 +1714,7 @@
             "image": "./images/dailyactivities/img1.png",
             "sound": "./sounds/dailyactivities/img1.mp3"
         },
-        "brush my teeth": {
+        "comb my hair": {
             "image": "./images/dailyactivities/img2.png",
             "sound": "./sounds/dailyactivities/img2.mp3"
         },
@@ -1720,43 +1730,43 @@
             "image": "./images/dailyactivities/img5.png",
             "sound": "./sounds/dailyactivities/img5.mp3"
         },
-        "go to school": {
+        "brush my teeth": {
             "image": "./images/dailyactivities/img6.png",
             "sound": "./sounds/dailyactivities/img6.mp3"
         },
-        "study english": {
+        "go to school": {
             "image": "./images/dailyactivities/img7.png",
             "sound": "./sounds/dailyactivities/img7.mp3"
         },
-        "have lunch": {
+        "study english": {
             "image": "./images/dailyactivities/img8.png",
             "sound": "./sounds/dailyactivities/img8.mp3"
         },
-        "go home": {
+        "have lunch": {
             "image": "./images/dailyactivities/img9.png",
             "sound": "./sounds/dailyactivities/img9.mp3"
         },
-        "play soccer": {
+        "go home": {
             "image": "./images/dailyactivities/img10.png",
             "sound": "./sounds/dailyactivities/img10.mp3"
         },
-        "walk my dog": {
+        "play soccer": {
             "image": "./images/dailyactivities/img11.png",
             "sound": "./sounds/dailyactivities/img11.mp3"
         },
-        "do my homework": {
+        "walk my dog": {
             "image": "./images/dailyactivities/img12.png",
             "sound": "./sounds/dailyactivities/img12.mp3"
         },
-        "have dinner": {
+        "do my homework": {
             "image": "./images/dailyactivities/img13.png",
             "sound": "./sounds/dailyactivities/img13.mp3"
         },
-        "wash the dishes": {
+        "have dinner": {
             "image": "./images/dailyactivities/img14.png",
             "sound": "./sounds/dailyactivities/img14.mp3"
         },
-        "take a bath": {
+        "wash the dishes": {
             "image": "./images/dailyactivities/img15.png",
             "sound": "./sounds/dailyactivities/img15.mp3"
         },
@@ -1764,11 +1774,11 @@
             "image": "./images/dailyactivities/img16.png",
             "sound": "./sounds/dailyactivities/img16.mp3"
         },
-        "go to bed": {
+        "take a bath": {
             "image": "./images/dailyactivities/img17.png",
             "sound": "./sounds/dailyactivities/img17.mp3"
         },
-        "comb my hair": {
+        "go to bed": {
             "image": "./images/dailyactivities/img18.png",
             "sound": "./sounds/dailyactivities/img18.mp3"
         }
@@ -1792,77 +1802,77 @@
         }
     },
     "body": {
-        "head": {
+        "hair": {
             "image": "./images/body/img1.png",
             "sound": "./sounds/body/img1.mp3"
         },
-        "face": {
+        "head": {
             "image": "./images/body/img2.png",
             "sound": "./sounds/body/img2.mp3"
         },
-        "shoulder": {
+        "face": {
             "image": "./images/body/img3.png",
             "sound": "./sounds/body/img3.mp3"
         },
-        "hand": {
+        "shoulder": {
             "image": "./images/body/img4.png",
             "sound": "./sounds/body/img4.mp3"
         },
-        "knee": {
+        "hand": {
             "image": "./images/body/img5.png",
             "sound": "./sounds/body/img5.mp3"
         },
-        "eye": {
+        "arm": {
             "image": "./images/body/img6.png",
             "sound": "./sounds/body/img6.mp3"
         },
-        "ear": {
+        "knee": {
             "image": "./images/body/img7.png",
             "sound": "./sounds/body/img7.mp3"
         },
-        "nose": {
+        "eye": {
             "image": "./images/body/img8.png",
             "sound": "./sounds/body/img8.mp3"
         },
-        "teeth": {
+        "ear": {
             "image": "./images/body/img9.png",
             "sound": "./sounds/body/img9.mp3"
         },
-        "mouth": {
+        "nose": {
             "image": "./images/body/img10.png",
             "sound": "./sounds/body/img10.mp3"
         },
-        "leg": {
+        "mouth": {
             "image": "./images/body/img11.png",
             "sound": "./sounds/body/img11.mp3"
         },
-        "toes": {
+        "teeth": {
             "image": "./images/body/img12.png",
             "sound": "./sounds/body/img12.mp3"
         },
-        "arm": {
+        "neck": {
             "image": "./images/body/img13.png",
             "sound": "./sounds/body/img13.mp3"
         },
-        "hair": {
+        "leg": {
             "image": "./images/body/img14.png",
             "sound": "./sounds/body/img14.mp3"
         },
-        "neck": {
+        "toe": {
             "image": "./images/body/img15.png",
             "sound": "./sounds/body/img15.mp3"
         }
     },
     "clothes": {
-        "tshirt": {
+        "shirt": {
             "image": "./images/clothes/img1.png",
             "sound": "./sounds/clothes/img1.mp3"
         },
-        "shirt": {
+        "tshirt": {
             "image": "./images/clothes/img2.png",
             "sound": "./sounds/clothes/img2.mp3"
         },
-        "vest": {
+        "sweatshirt": {
             "image": "./images/clothes/img3.png",
             "sound": "./sounds/clothes/img3.mp3"
         },
@@ -1878,23 +1888,23 @@
             "image": "./images/clothes/img6.png",
             "sound": "./sounds/clothes/img6.mp3"
         },
-        "cap": {
+        "jeans": {
             "image": "./images/clothes/img7.png",
             "sound": "./sounds/clothes/img7.mp3"
         },
-        "hat": {
+        "cap": {
             "image": "./images/clothes/img8.png",
             "sound": "./sounds/clothes/img8.mp3"
         },
-        "gloves": {
+        "hat": {
             "image": "./images/clothes/img9.png",
             "sound": "./sounds/clothes/img9.mp3"
         },
-        "socks": {
+        "gloves": {
             "image": "./images/clothes/img10.png",
             "sound": "./sounds/clothes/img10.mp3"
         },
-        "jeans": {
+        "socks": {
             "image": "./images/clothes/img11.png",
             "sound": "./sounds/clothes/img11.mp3"
         },
@@ -1903,130 +1913,138 @@
             "sound": "./sounds/clothes/img12.mp3"
         }
     },
+    "clothes+": {
+        "vest": {
+            "image": "./images/clothes+/img1.png",
+            "sound": "./sounds/clothes+/img1.mp3"
+        }
+    },
     "buildings": {
         "house": {
             "image": "./images/buildings/img1.png",
             "sound": "./sounds/buildings/img1.mp3"
         },
-        "elementary school": {
+        "park": {
             "image": "./images/buildings/img2.png",
             "sound": "./sounds/buildings/img2.mp3"
         },
-        "junior high school": {
+        "library": {
             "image": "./images/buildings/img3.png",
             "sound": "./sounds/buildings/img3.mp3"
         },
-        "park": {
+        "museum": {
             "image": "./images/buildings/img4.png",
             "sound": "./sounds/buildings/img4.mp3"
         },
-        "library": {
+        "hospital": {
             "image": "./images/buildings/img5.png",
             "sound": "./sounds/buildings/img5.mp3"
         },
-        "museum": {
+        "bus stop": {
             "image": "./images/buildings/img6.png",
             "sound": "./sounds/buildings/img6.mp3"
         },
-        "city hall": {
+        "station": {
             "image": "./images/buildings/img7.png",
             "sound": "./sounds/buildings/img7.mp3"
         },
-        "hospital": {
+        "police station": {
             "image": "./images/buildings/img8.png",
             "sound": "./sounds/buildings/img8.mp3"
         },
-        "bus stop": {
+        "fire station": {
             "image": "./images/buildings/img9.png",
             "sound": "./sounds/buildings/img9.mp3"
         },
-        "station": {
+        "post office": {
             "image": "./images/buildings/img10.png",
             "sound": "./sounds/buildings/img10.mp3"
         },
-        "police station": {
+        "bookstore": {
             "image": "./images/buildings/img11.png",
             "sound": "./sounds/buildings/img11.mp3"
         },
-        "fire station": {
+        "restaurant": {
             "image": "./images/buildings/img12.png",
             "sound": "./sounds/buildings/img12.mp3"
         },
-        "gas station": {
+        "supermarket": {
             "image": "./images/buildings/img13.png",
             "sound": "./sounds/buildings/img13.mp3"
         },
-        "post office": {
+        "castle": {
             "image": "./images/buildings/img14.png",
             "sound": "./sounds/buildings/img14.mp3"
         },
-        "bookstore": {
+        "shrine": {
             "image": "./images/buildings/img15.png",
             "sound": "./sounds/buildings/img15.mp3"
         },
-        "convenience store": {
+        "temple": {
             "image": "./images/buildings/img16.png",
             "sound": "./sounds/buildings/img16.mp3"
         },
-        "department store": {
+        "church": {
             "image": "./images/buildings/img17.png",
             "sound": "./sounds/buildings/img17.mp3"
         },
-        "restaurant": {
+        "aquarium": {
             "image": "./images/buildings/img18.png",
             "sound": "./sounds/buildings/img18.mp3"
         },
-        "supermarket": {
+        "stadium": {
             "image": "./images/buildings/img19.png",
             "sound": "./sounds/buildings/img19.mp3"
         },
-        "flower shop": {
+        "zoo": {
             "image": "./images/buildings/img20.png",
             "sound": "./sounds/buildings/img20.mp3"
         },
-        "castle": {
+        "amusement park": {
             "image": "./images/buildings/img21.png",
             "sound": "./sounds/buildings/img21.mp3"
         },
-        "shrine": {
+        "convenience store": {
             "image": "./images/buildings/img22.png",
             "sound": "./sounds/buildings/img22.mp3"
         },
-        "temple": {
+        "elementary school": {
             "image": "./images/buildings/img23.png",
             "sound": "./sounds/buildings/img23.mp3"
         },
-        "amusement park": {
+        "junior high school": {
             "image": "./images/buildings/img24.png",
             "sound": "./sounds/buildings/img24.mp3"
+        }
+    },
+    "buildings+": {
+        "city hall": {
+            "image": "./images/buildings+/img1.png",
+            "sound": "./sounds/buildings+/img1.mp3"
         },
-        "aquarium": {
-            "image": "./images/buildings/img25.png",
-            "sound": "./sounds/buildings/img25.mp3"
+        "gas station": {
+            "image": "./images/buildings+/img2.png",
+            "sound": "./sounds/buildings+/img2.mp3"
         },
-        "stadium": {
-            "image": "./images/buildings/img26.png",
-            "sound": "./sounds/buildings/img26.mp3"
+        "florist": {
+            "image": "./images/buildings+/img3.png",
+            "sound": "./sounds/buildings+/img3.mp3"
         },
-        "zoo": {
-            "image": "./images/buildings/img27.png",
-            "sound": "./sounds/buildings/img27.mp3"
+        "department store": {
+            "image": "./images/buildings+/img4.png",
+            "sound": "./sounds/buildings+/img4.mp3"
         },
         "bridge": {
-            "image": "./images/buildings/img28.png",
-            "sound": "./sounds/buildings/img28.mp3"
+            "image": "./images/buildings+/img5.png",
+            "sound": "./sounds/buildings+/img5.mp3"
         },
         "street": {
-            "image": "./images/buildings/img29.png",
-            "sound": "./sounds/buildings/img29.mp3"
-        },
-        "church": {
-            "image": "./images/buildings/img30.png",
-            "sound": "./sounds/buildings/img30.mp3"
+            "image": "./images/buildings+/img6.png",
+            "sound": "./sounds/buildings+/img6.mp3"
         },
         "town": {
-            "image": "./images/buildings/img31.png",
-            "sound": "./sounds/buildings/img31.mp3"
+            "image": "./images/buildings+/img7.png",
+            "sound": "./sounds/buildings+/img7.mp3"
         }
     },
     "directions": {
@@ -2050,23 +2068,23 @@
             "image": "./images/directions/img5.png",
             "sound": "./sounds/directions/img5.mp3"
         },
-        "block": {
+        "see": {
             "image": "./images/directions/img6.png",
             "sound": "./sounds/directions/img6.mp3"
         },
-        "see": {
+        "up": {
             "image": "./images/directions/img7.png",
             "sound": "./sounds/directions/img7.mp3"
         },
-        "up": {
+        "down": {
             "image": "./images/directions/img8.png",
             "sound": "./sounds/directions/img8.mp3"
         },
-        "down": {
+        "block": {
             "image": "./images/directions/img9.png",
             "sound": "./sounds/directions/img9.mp3"
         },
-        "cprner": {
+        "corner": {
             "image": "./images/directions/img10.png",
             "sound": "./sounds/directions/img10.mp3"
         }
@@ -2136,11 +2154,11 @@
             "image": "./images/school/img1.png",
             "sound": "./sounds/school/img1.mp3"
         },
-        "library": {
+        "computer room": {
             "image": "./images/school/img2.png",
             "sound": "./sounds/school/img2.mp3"
         },
-        "music room": {
+        "entrance": {
             "image": "./images/school/img3.png",
             "sound": "./sounds/school/img3.mp3"
         },
@@ -2148,15 +2166,15 @@
             "image": "./images/school/img4.png",
             "sound": "./sounds/school/img4.mp3"
         },
-        "playground": {
+        "library": {
             "image": "./images/school/img5.png",
             "sound": "./sounds/school/img5.mp3"
         },
-        "swimming pool": {
+        "music room": {
             "image": "./images/school/img6.png",
             "sound": "./sounds/school/img6.mp3"
         },
-        "teachers office": {
+        "playground": {
             "image": "./images/school/img7.png",
             "sound": "./sounds/school/img7.mp3"
         },
@@ -2164,31 +2182,31 @@
             "image": "./images/school/img8.png",
             "sound": "./sounds/school/img8.mp3"
         },
-        "school principals office": {
+        "restroom": {
             "image": "./images/school/img9.png",
             "sound": "./sounds/school/img9.mp3"
         },
-        "entrance": {
+        "swimming pool": {
             "image": "./images/school/img10.png",
             "sound": "./sounds/school/img10.mp3"
         },
-        "restroom": {
+        "teachers office": {
             "image": "./images/school/img11.png",
             "sound": "./sounds/school/img11.mp3"
         },
-        "science room": {
+        "school principals office": {
             "image": "./images/school/img12.png",
             "sound": "./sounds/school/img12.mp3"
         },
-        "computer room": {
+        "science room": {
             "image": "./images/school/img13.png",
             "sound": "./sounds/school/img13.mp3"
         },
-        "cooking room": {
+        "arts and crafts room": {
             "image": "./images/school/img14.png",
             "sound": "./sounds/school/img14.mp3"
         },
-        "arts and crafts room": {
+        "cooking room": {
             "image": "./images/school/img15.png",
             "sound": "./sounds/school/img15.mp3"
         },
@@ -2336,7 +2354,7 @@
         }
     },
     "commonitems": {
-        "ball": {
+        "bag": {
             "image": "./images/commonitems/img1.png",
             "sound": "./sounds/commonitems/img1.mp3"
         },
@@ -2344,75 +2362,75 @@
             "image": "./images/commonitems/img2.png",
             "sound": "./sounds/commonitems/img2.mp3"
         },
-        "racket": {
+        "glove": {
             "image": "./images/commonitems/img3.png",
             "sound": "./sounds/commonitems/img3.mp3"
         },
-        "bag": {
+        "racket": {
             "image": "./images/commonitems/img4.png",
             "sound": "./sounds/commonitems/img4.mp3"
         },
-        "plastic bag": {
+        "soccer shoes": {
             "image": "./images/commonitems/img5.png",
             "sound": "./sounds/commonitems/img5.mp3"
         },
-        "basket": {
+        "umbrella": {
             "image": "./images/commonitems/img6.png",
             "sound": "./sounds/commonitems/img6.mp3"
         },
-        "box": {
+        "glass": {
             "image": "./images/commonitems/img7.png",
             "sound": "./sounds/commonitems/img7.mp3"
         },
-        "cup": {
+        "mug": {
             "image": "./images/commonitems/img8.png",
             "sound": "./sounds/commonitems/img8.mp3"
         },
-        "watch": {
+        "textbook": {
             "image": "./images/commonitems/img9.png",
             "sound": "./sounds/commonitems/img9.mp3"
         },
-        "clock": {
+        "comic book": {
             "image": "./images/commonitems/img10.png",
             "sound": "./sounds/commonitems/img10.mp3"
         },
-        "book": {
+        "dictionary": {
             "image": "./images/commonitems/img11.png",
             "sound": "./sounds/commonitems/img11.mp3"
         },
-        "textbook": {
+        "present": {
             "image": "./images/commonitems/img12.png",
             "sound": "./sounds/commonitems/img12.mp3"
         },
-        "comic book": {
+        "treasure": {
             "image": "./images/commonitems/img13.png",
             "sound": "./sounds/commonitems/img13.mp3"
         },
-        "computer": {
+        "sticker": {
             "image": "./images/commonitems/img14.png",
             "sound": "./sounds/commonitems/img14.mp3"
         },
-        "calendar": {
+        "ticket": {
             "image": "./images/commonitems/img15.png",
             "sound": "./sounds/commonitems/img15.mp3"
         },
-        "map": {
+        "watch": {
             "image": "./images/commonitems/img16.png",
             "sound": "./sounds/commonitems/img16.mp3"
         },
-        "pictures": {
+        "tv": {
             "image": "./images/commonitems/img17.png",
             "sound": "./sounds/commonitems/img17.mp3"
         },
-        "umbrella": {
+        "computer": {
             "image": "./images/commonitems/img18.png",
             "sound": "./sounds/commonitems/img18.mp3"
         },
-        "present": {
+        "smartphone": {
             "image": "./images/commonitems/img19.png",
             "sound": "./sounds/commonitems/img19.mp3"
         },
-        "treasure": {
+        "tablet": {
             "image": "./images/commonitems/img20.png",
             "sound": "./sounds/commonitems/img20.mp3"
         },
@@ -2424,69 +2442,71 @@
             "image": "./images/commonitems/img22.png",
             "sound": "./sounds/commonitems/img22.mp3"
         },
-        "wheelchair": {
+        "bed": {
             "image": "./images/commonitems/img23.png",
             "sound": "./sounds/commonitems/img23.mp3"
+        }
+    },
+    "commonitems+": {
+        "ball": {
+            "image": "./images/commonitems+/img1.png",
+            "sound": "./sounds/commonitems+/img1.mp3"
+        },
+        "plastic bag": {
+            "image": "./images/commonitems+/img2.png",
+            "sound": "./sounds/commonitems+/img2.mp3"
+        },
+        "basket": {
+            "image": "./images/commonitems+/img3.png",
+            "sound": "./sounds/commonitems+/img3.mp3"
+        },
+        "box": {
+            "image": "./images/commonitems+/img4.png",
+            "sound": "./sounds/commonitems+/img4.mp3"
+        },
+        "cup": {
+            "image": "./images/commonitems+/img5.png",
+            "sound": "./sounds/commonitems+/img5.mp3"
+        },
+        "clock": {
+            "image": "./images/commonitems+/img6.png",
+            "sound": "./sounds/commonitems+/img6.mp3"
+        },
+        "book": {
+            "image": "./images/commonitems+/img7.png",
+            "sound": "./sounds/commonitems+/img7.mp3"
+        },
+        "calendar": {
+            "image": "./images/commonitems+/img8.png",
+            "sound": "./sounds/commonitems+/img8.mp3"
+        },
+        "map": {
+            "image": "./images/commonitems+/img9.png",
+            "sound": "./sounds/commonitems+/img9.mp3"
+        },
+        "picture": {
+            "image": "./images/commonitems+/img10.png",
+            "sound": "./sounds/commonitems+/img10.mp3"
+        },
+        "wheelchair": {
+            "image": "./images/commonitems+/img11.png",
+            "sound": "./sounds/commonitems+/img11.mp3"
         },
         "table": {
-            "image": "./images/commonitems/img24.png",
-            "sound": "./sounds/commonitems/img24.mp3"
+            "image": "./images/commonitems+/img12.png",
+            "sound": "./sounds/commonitems+/img12.mp3"
         },
         "bath": {
-            "image": "./images/commonitems/img25.png",
-            "sound": "./sounds/commonitems/img25.mp3"
-        },
-        "bed": {
-            "image": "./images/commonitems/img26.png",
-            "sound": "./sounds/commonitems/img26.mp3"
+            "image": "./images/commonitems+/img13.png",
+            "sound": "./sounds/commonitems+/img13.mp3"
         },
         "wall": {
-            "image": "./images/commonitems/img27.png",
-            "sound": "./sounds/commonitems/img27.mp3"
+            "image": "./images/commonitems+/img14.png",
+            "sound": "./sounds/commonitems+/img14.mp3"
         },
         "window": {
-            "image": "./images/commonitems/img28.png",
-            "sound": "./sounds/commonitems/img28.mp3"
-        },
-        "dictionary": {
-            "image": "./images/commonitems/img29.png",
-            "sound": "./sounds/commonitems/img29.mp3"
-        },
-        "glass": {
-            "image": "./images/commonitems/img30.png",
-            "sound": "./sounds/commonitems/img30.mp3"
-        },
-        "glove": {
-            "image": "./images/commonitems/img31.png",
-            "sound": "./sounds/commonitems/img31.mp3"
-        },
-        "mug": {
-            "image": "./images/commonitems/img32.png",
-            "sound": "./sounds/commonitems/img32.mp3"
-        },
-        "smartphone": {
-            "image": "./images/commonitems/img33.png",
-            "sound": "./sounds/commonitems/img33.mp3"
-        },
-        "soccer shoes": {
-            "image": "./images/commonitems/img34.png",
-            "sound": "./sounds/commonitems/img34.mp3"
-        },
-        "sticker": {
-            "image": "./images/commonitems/img35.png",
-            "sound": "./sounds/commonitems/img35.mp3"
-        },
-        "tablet": {
-            "image": "./images/commonitems/img36.png",
-            "sound": "./sounds/commonitems/img36.mp3"
-        },
-        "ticket": {
-            "image": "./images/commonitems/img37.png",
-            "sound": "./sounds/commonitems/img37.mp3"
-        },
-        "tv": {
-            "image": "./images/commonitems/img38.png",
-            "sound": "./sounds/commonitems/img38.mp3"
+            "image": "./images/commonitems+/img15.png",
+            "sound": "./sounds/commonitems+/img15.mp3"
         }
     },
     "activities": {
@@ -2494,63 +2514,63 @@
             "image": "./images/activities/img1.png",
             "sound": "./sounds/activities/img1.mp3"
         },
-        "fishing": {
+        "dancing": {
             "image": "./images/activities/img2.png",
             "sound": "./sounds/activities/img2.mp3"
         },
-        "hiking": {
+        "fishing": {
             "image": "./images/activities/img3.png",
             "sound": "./sounds/activities/img3.mp3"
         },
-        "shopping": {
+        "hiking": {
             "image": "./images/activities/img4.png",
             "sound": "./sounds/activities/img4.mp3"
         },
-        "reading": {
+        "shopping": {
             "image": "./images/activities/img5.png",
             "sound": "./sounds/activities/img5.mp3"
         },
-        "running": {
+        "reading": {
             "image": "./images/activities/img6.png",
             "sound": "./sounds/activities/img6.mp3"
         },
-        "jogging": {
+        "drawing": {
             "image": "./images/activities/img7.png",
             "sound": "./sounds/activities/img7.mp3"
         },
-        "kite flying": {
+        "jogging": {
             "image": "./images/activities/img8.png",
             "sound": "./sounds/activities/img8.mp3"
         },
-        "top spinning": {
+        "skateboarding": {
             "image": "./images/activities/img9.png",
             "sound": "./sounds/activities/img9.mp3"
         },
-        "cards": {
+        "swinging": {
             "image": "./images/activities/img10.png",
             "sound": "./sounds/activities/img10.mp3"
         },
-        "rock paper scissors": {
+        "playing the piano": {
             "image": "./images/activities/img11.png",
             "sound": "./sounds/activities/img11.mp3"
         },
-        "tag": {
+        "playing video games": {
             "image": "./images/activities/img12.png",
             "sound": "./sounds/activities/img12.mp3"
         },
-        "jump rope": {
+        "seeing movies": {
             "image": "./images/activities/img13.png",
             "sound": "./sounds/activities/img13.mp3"
         },
-        "unicycle": {
+        "cards": {
             "image": "./images/activities/img14.png",
             "sound": "./sounds/activities/img14.mp3"
         },
-        "dancing": {
+        "jump rope": {
             "image": "./images/activities/img15.png",
             "sound": "./sounds/activities/img15.mp3"
         },
-        "drawing": {
+        "tag": {
             "image": "./images/activities/img16.png",
             "sound": "./sounds/activities/img16.mp3"
         },
@@ -2558,25 +2578,27 @@
             "image": "./images/activities/img17.png",
             "sound": "./sounds/activities/img17.mp3"
         },
-        "playing the piano": {
+        "rock paper scissors": {
             "image": "./images/activities/img18.png",
             "sound": "./sounds/activities/img18.mp3"
+        }
+    },
+    "activities+": {
+        "running": {
+            "image": "./images/activities+/img1.png",
+            "sound": "./sounds/activities+/img1.mp3"
         },
-        "playing video games": {
-            "image": "./images/activities/img19.png",
-            "sound": "./sounds/activities/img19.mp3"
+        "kite flying": {
+            "image": "./images/activities+/img2.png",
+            "sound": "./sounds/activities+/img2.mp3"
         },
-        "seeing movies": {
-            "image": "./images/activities/img20.png",
-            "sound": "./sounds/activities/img20.mp3"
+        "top spinning": {
+            "image": "./images/activities+/img3.png",
+            "sound": "./sounds/activities+/img3.mp3"
         },
-        "skateboarding": {
-            "image": "./images/activities/img21.png",
-            "sound": "./sounds/activities/img21.mp3"
-        },
-        "swinging": {
-            "image": "./images/activities/img22.png",
-            "sound": "./sounds/activities/img22.mp3"
+        "unicycle": {
+            "image": "./images/activities+/img4.png",
+            "sound": "./sounds/activities+/img4.mp3"
         }
     },
     "schoolevents": {
@@ -2592,19 +2614,19 @@
             "image": "./images/schoolevents/img3.png",
             "sound": "./sounds/schoolevents/img3.mp3"
         },
-        "drama festival": {
+        "volunteer day": {
             "image": "./images/schoolevents/img4.png",
             "sound": "./sounds/schoolevents/img4.mp3"
         },
-        "music festival": {
+        "drama festival": {
             "image": "./images/schoolevents/img5.png",
             "sound": "./sounds/schoolevents/img5.mp3"
         },
-        "school festival": {
+        "music festival": {
             "image": "./images/schoolevents/img6.png",
             "sound": "./sounds/schoolevents/img6.mp3"
         },
-        "volunteer day": {
+        "school festival": {
             "image": "./images/schoolevents/img7.png",
             "sound": "./sounds/schoolevents/img7.mp3"
         },
@@ -2612,11 +2634,11 @@
             "image": "./images/schoolevents/img8.png",
             "sound": "./sounds/schoolevents/img8.mp3"
         },
-        "swimming meet": {
+        "evacuation drill": {
             "image": "./images/schoolevents/img9.png",
             "sound": "./sounds/schoolevents/img9.mp3"
         },
-        "fire drill": {
+        "swimming meet": {
             "image": "./images/schoolevents/img10.png",
             "sound": "./sounds/schoolevents/img10.mp3"
         },
@@ -2632,13 +2654,15 @@
             "image": "./images/schoolevents/img13.png",
             "sound": "./sounds/schoolevents/img13.mp3"
         },
-        "evacuation drill": {
+        "memory": {
             "image": "./images/schoolevents/img14.png",
             "sound": "./sounds/schoolevents/img14.mp3"
-        },
-        "memory": {
-            "image": "./images/schoolevents/img15.png",
-            "sound": "./sounds/schoolevents/img15.mp3"
+        }
+    },
+    "schoolevents+":{
+        "fire drill": {
+            "image": "./images/schoolevents+/img1.png",
+            "sound": "./sounds/schoolevents+/img1.mp3"
         }
     },
     "yearlyevents": {
@@ -2654,7 +2678,7 @@
             "image": "./images/yearlyevents/img3.png",
             "sound": "./sounds/yearlyevents/img3.mp3"
         },
-        "april fools day": {
+        "cherry blossom viewing": {
             "image": "./images/yearlyevents/img4.png",
             "sound": "./sounds/yearlyevents/img4.mp3"
         },
@@ -2666,7 +2690,7 @@
             "image": "./images/yearlyevents/img6.png",
             "sound": "./sounds/yearlyevents/img6.mp3"
         },
-        "fireworks": {
+        "fireworks festival": {
             "image": "./images/yearlyevents/img7.png",
             "sound": "./sounds/yearlyevents/img7.mp3"
         },
@@ -2674,17 +2698,23 @@
             "image": "./images/yearlyevents/img8.png",
             "sound": "./sounds/yearlyevents/img8.mp3"
         },
-        "christmas day": {
+        "christmas": {
             "image": "./images/yearlyevents/img9.png",
             "sound": "./sounds/yearlyevents/img9.mp3"
         },
         "new years eve": {
             "image": "./images/yearlyevents/img10.png",
             "sound": "./sounds/yearlyevents/img10.mp3"
+        }
+    },
+    "yearlyevents+": {
+        "april fools day": {
+            "image": "./images/yearlyevents+/img1.png",
+            "sound": "./sounds/yearlyevents+/img1.mp3"
         },
-        "cherry blossom viewing": {
-            "image": "./images/yearlyevents/img11.png",
-            "sound": "./sounds/yearlyevents/img11.mp3"
+        "fireworks": {
+            "image": "./images/yearlyevents+/img2.png",
+            "sound": "./sounds/yearlyevents+/img2.mp3"
         }
     },
     "conditions": {
@@ -2696,53 +2726,55 @@
             "image": "./images/conditions/img2.png",
             "sound": "./sounds/conditions/img2.mp3"
         },
-        "long": {
+        "new": {
             "image": "./images/conditions/img3.png",
             "sound": "./sounds/conditions/img3.mp3"
         },
-        "short": {
+        "old": {
             "image": "./images/conditions/img4.png",
             "sound": "./sounds/conditions/img4.mp3"
         },
-        "new": {
+        "high": {
             "image": "./images/conditions/img5.png",
             "sound": "./sounds/conditions/img5.mp3"
         },
-        "old": {
+        "low": {
             "image": "./images/conditions/img6.png",
             "sound": "./sounds/conditions/img6.mp3"
         },
-        "easy": {
+        "long": {
             "image": "./images/conditions/img7.png",
             "sound": "./sounds/conditions/img7.mp3"
         },
-        "difficult": {
+        "short": {
             "image": "./images/conditions/img8.png",
             "sound": "./sounds/conditions/img8.mp3"
         },
-        "same": {
+        "fast": {
             "image": "./images/conditions/img9.png",
             "sound": "./sounds/conditions/img9.mp3"
         },
-        "different": {
+        "slow": {
             "image": "./images/conditions/img10.png",
             "sound": "./sounds/conditions/img10.mp3"
+        }
+    },
+    "conditions+": {
+        "easy": {
+            "image": "./images/conditions+/img1.png",
+            "sound": "./sounds/conditions+/img1.mp3"
         },
-        "fast": {
-            "image": "./images/conditions/img11.png",
-            "sound": "./sounds/conditions/img11.mp3"
+        "difficult": {
+            "image": "./images/conditions+/img2.png",
+            "sound": "./sounds/conditions+/img2.mp3"
         },
-        "slow": {
-            "image": "./images/conditions/img12.png",
-            "sound": "./sounds/conditions/img12.mp3"
+        "same": {
+            "image": "./images/conditions+/img3.png",
+            "sound": "./sounds/conditions+/img3.mp3"
         },
-        "high": {
-            "image": "./images/conditions/img13.png",
-            "sound": "./sounds/conditions/img13.mp3"
-        },
-        "low": {
-            "image": "./images/conditions/img14.png",
-            "sound": "./sounds/conditions/img14.mp3"
+        "different": {
+            "image": "./images/conditions+/img4.png",
+            "sound": "./sounds/conditions+/img4.mp3"
         }
     },
     "descriptions": {
@@ -2754,67 +2786,67 @@
             "image": "./images/descriptions/img2.png",
             "sound": "./sounds/descriptions/img2.mp3"
         },
-        "nice": {
+        "bad": {
             "image": "./images/descriptions/img3.png",
             "sound": "./sounds/descriptions/img3.mp3"
         },
-        "fantastic": {
+        "nice": {
             "image": "./images/descriptions/img4.png",
             "sound": "./sounds/descriptions/img4.mp3"
         },
-        "wonderful": {
+        "amazing": {
             "image": "./images/descriptions/img5.png",
             "sound": "./sounds/descriptions/img5.mp3"
         },
-        "beautiful": {
+        "fantastic": {
             "image": "./images/descriptions/img6.png",
             "sound": "./sounds/descriptions/img6.mp3"
         },
-        "cool": {
+        "wonderful": {
             "image": "./images/descriptions/img7.png",
             "sound": "./sounds/descriptions/img7.mp3"
         },
-        "cute": {
+        "beautiful": {
             "image": "./images/descriptions/img8.png",
             "sound": "./sounds/descriptions/img8.mp3"
         },
-        "favorite": {
+        "cool": {
             "image": "./images/descriptions/img9.png",
             "sound": "./sounds/descriptions/img9.mp3"
         },
-        "interesting": {
+        "cute": {
             "image": "./images/descriptions/img10.png",
             "sound": "./sounds/descriptions/img10.mp3"
         },
-        "exciting": {
+        "favorite": {
             "image": "./images/descriptions/img11.png",
             "sound": "./sounds/descriptions/img11.mp3"
         },
-        "famous": {
+        "interesting": {
             "image": "./images/descriptions/img12.png",
             "sound": "./sounds/descriptions/img12.mp3"
         },
-        "popular": {
+        "exciting": {
             "image": "./images/descriptions/img13.png",
             "sound": "./sounds/descriptions/img13.mp3"
         },
-        "international": {
+        "famous": {
             "image": "./images/descriptions/img14.png",
             "sound": "./sounds/descriptions/img14.mp3"
         },
-        "fun": {
+        "popular": {
             "image": "./images/descriptions/img15.png",
             "sound": "./sounds/descriptions/img15.mp3"
         },
-        "amazing": {
+        "colorful": {
             "image": "./images/descriptions/img16.png",
             "sound": "./sounds/descriptions/img16.mp3"
         },
-        "bad": {
+        "international": {
             "image": "./images/descriptions/img17.png",
             "sound": "./sounds/descriptions/img17.mp3"
         },
-        "colorful": {
+        "fun": {
             "image": "./images/descriptions/img18.png",
             "sound": "./sounds/descriptions/img18.mp3"
         }
@@ -2824,7 +2856,7 @@
             "image": "./images/jobs/img1.png",
             "sound": "./sounds/jobs/img1.mp3"
         },
-        "musician": {
+        "writer": {
             "image": "./images/jobs/img2.png",
             "sound": "./sounds/jobs/img2.mp3"
         },
@@ -2844,105 +2876,107 @@
             "image": "./images/jobs/img6.png",
             "sound": "./sounds/jobs/img6.mp3"
         },
-        "dentist": {
+        "vet": {
             "image": "./images/jobs/img7.png",
             "sound": "./sounds/jobs/img7.mp3"
         },
-        "vet": {
+        "zookeeper": {
             "image": "./images/jobs/img8.png",
             "sound": "./sounds/jobs/img8.mp3"
         },
-        "zookeeper": {
+        "cook": {
             "image": "./images/jobs/img9.png",
             "sound": "./sounds/jobs/img9.mp3"
         },
-        "cook": {
+        "baker": {
             "image": "./images/jobs/img10.png",
             "sound": "./sounds/jobs/img10.mp3"
         },
-        "baker": {
+        "farmer": {
             "image": "./images/jobs/img11.png",
             "sound": "./sounds/jobs/img11.mp3"
         },
-        "florist": {
+        "police officer": {
             "image": "./images/jobs/img12.png",
             "sound": "./sounds/jobs/img12.mp3"
         },
-        "farmer": {
+        "fire fighter": {
             "image": "./images/jobs/img13.png",
             "sound": "./sounds/jobs/img13.mp3"
         },
-        "police officer": {
+        "pilot": {
             "image": "./images/jobs/img14.png",
             "sound": "./sounds/jobs/img14.mp3"
         },
-        "fire fighter": {
+        "programmer": {
             "image": "./images/jobs/img15.png",
             "sound": "./sounds/jobs/img15.mp3"
         },
-        "pilot": {
+        "office worker": {
             "image": "./images/jobs/img16.png",
             "sound": "./sounds/jobs/img16.mp3"
         },
-        "flight attendant": {
+        "astronaut": {
             "image": "./images/jobs/img17.png",
             "sound": "./sounds/jobs/img17.mp3"
         },
-        "bus driver": {
+        "teacher": {
             "image": "./images/jobs/img18.png",
             "sound": "./sounds/jobs/img18.mp3"
         },
-        "astronaut": {
+        "researcher": {
             "image": "./images/jobs/img19.png",
             "sound": "./sounds/jobs/img19.mp3"
         },
-        "teacher": {
+        "scientist": {
             "image": "./images/jobs/img20.png",
             "sound": "./sounds/jobs/img20.mp3"
         },
-        "scientist": {
+        "flight attendant": {
             "image": "./images/jobs/img21.png",
             "sound": "./sounds/jobs/img21.mp3"
         },
-        "programmer": {
+        "baseball player": {
             "image": "./images/jobs/img22.png",
             "sound": "./sounds/jobs/img22.mp3"
         },
-        "baseball player": {
+        "mountaineer": {
             "image": "./images/jobs/img23.png",
             "sound": "./sounds/jobs/img23.mp3"
         },
-        "soccer player": {
+        "now": {
             "image": "./images/jobs/img24.png",
             "sound": "./sounds/jobs/img24.mp3"
         },
-        "figure skater": {
+        "future": {
             "image": "./images/jobs/img25.png",
             "sound": "./sounds/jobs/img25.mp3"
+        }
+    },
+    "jobs+": {
+        "musician": {
+            "image": "./images/jobs+/img1.png",
+            "sound": "./sounds/jobs+/img1.mp3"
         },
-        "office worker": {
-            "image": "./images/jobs/img26.png",
-            "sound": "./sounds/jobs/img26.mp3"
+        "dentist": {
+            "image": "./images/jobs+/img2.png",
+            "sound": "./sounds/jobs+/img2.mp3"
         },
-        "write": {
-            "image": "./images/jobs/img27.png",
-            "sound": "./sounds/jobs/img27.mp3"
+        "florist": {
+            "image": "./images/jobs+/img3.png",
+            "sound": "./sounds/jobs+/img3.mp3"
         },
-        "researcher": {
-            "image": "./images/jobs/img28.png",
-            "sound": "./sounds/jobs/img28.mp3"
+        "bus driver": {
+            "image": "./images/jobs+/img4.png",
+            "sound": "./sounds/jobs+/img4.mp3"
         },
-        "mountaineer": {
-            "image": "./images/jobs/img29.png",
-            "sound": "./sounds/jobs/img29.mp3"
+        "soccer player": {
+            "image": "./images/jobs+/img5.png",
+            "sound": "./sounds/jobs+/img5.mp3"
         },
-        "now": {
-            "image": "./images/jobs/img30.png",
-            "sound": "./sounds/jobs/img30.mp3"
-        },
-        "future": {
-            "image": "./images/jobs/img31.png",
-            "sound": "./sounds/jobs/img31.mp3"
+        "figure skater": {
+            "image": "./images/jobs+/img6.png",
+            "sound": "./sounds/jobs+/img6.mp3"
         }
     },
     "clubactivities": {
@@ -2978,11 +3012,11 @@
             "image": "./images/clubactivities/img8.png",
             "sound": "./sounds/clubactivities/img8.mp3"
         },
-        "track and field team": {
+        "dance team": {
             "image": "./images/clubactivities/img9.png",
             "sound": "./sounds/clubactivities/img9.mp3"
         },
-        "gymnastics team": {
+        "track and field team": {
             "image": "./images/clubactivities/img10.png",
             "sound": "./sounds/clubactivities/img10.mp3"
         },
@@ -2990,37 +3024,39 @@
             "image": "./images/clubactivities/img11.png",
             "sound": "./sounds/clubactivities/img11.mp3"
         },
-        "drama club": {
+        "cooking club": {
             "image": "./images/clubactivities/img12.png",
             "sound": "./sounds/clubactivities/img12.mp3"
         },
-        "broadcasting club": {
+        "drama club": {
             "image": "./images/clubactivities/img13.png",
             "sound": "./sounds/clubactivities/img13.mp3"
         },
-        "cooking club": {
+        "brass band": {
             "image": "./images/clubactivities/img14.png",
             "sound": "./sounds/clubactivities/img14.mp3"
         },
-        "newspaper club": {
+        "chorus": {
             "image": "./images/clubactivities/img15.png",
             "sound": "./sounds/clubactivities/img15.mp3"
         },
-        "photography club": {
+        "broadcasting club": {
             "image": "./images/clubactivities/img16.png",
             "sound": "./sounds/clubactivities/img16.mp3"
         },
-        "brass band": {
+        "newspaper club": {
             "image": "./images/clubactivities/img17.png",
             "sound": "./sounds/clubactivities/img17.mp3"
         },
-        "chorus": {
+        "photography club": {
             "image": "./images/clubactivities/img18.png",
             "sound": "./sounds/clubactivities/img18.mp3"
-        },
-        "dance team": {
-            "image": "./images/clubactivities/img19.png",
-            "sound": "./sounds/clubactivities/img19.mp3"
+        }
+    },
+    "clubactivities+": {
+        "gymnastics team": {
+            "image": "./images/clubactivities+/img1.png",
+            "sound": "./sounds/clubactivities+/img1.mp3"
         }
     },
     "christmas": {},
